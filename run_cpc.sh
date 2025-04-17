@@ -1,7 +1,8 @@
 #!/bin/bash
-#SBATCH --time=04:00:00
-#SBATCH --gres=gpu:a100:1
-#SBATCH --mem=50000
+#SBATCH --partition=gpu_h100
+#SBATCH --time=00-20:00:00
+#SBATCH --gres=gpu:h100:4
+#SBATCH --mem=720G
 
 
 # Rewrite-then-solve (RtS)
