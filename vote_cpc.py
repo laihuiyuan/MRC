@@ -10,17 +10,18 @@ answers = []
 predictions = []
 
 temp = []
-with open('rw_outputs/' + sys.argv[1] + '-fs-or-gsm8k.json','r') as f:
+with open('cpc_outputs/' + sys.argv[1] + '-fs-vanilla-math500.json','r') as f:
     f = json.load(f)
     for line in f:
-        answer = float(line['answer'].replace(',',''))
+        # answer = float(line['answer'].replace(',',''))
+        answer = line['answer']
         answers.append(answer)
         temp.append(line['prediction'])
     predictions.append(temp)
 
 
 temp = []
-with open('rw_outputs/' + sys.argv[1] + '-fs-rw-gsm8k.json','r') as f:
+with open('cpc_outputs/' + sys.argv[1] + '-fs-rw-math500.json','r') as f:
     f = json.load(f)
     for line in f:
         temp.append(line['prediction'])
@@ -28,7 +29,7 @@ with open('rw_outputs/' + sys.argv[1] + '-fs-rw-gsm8k.json','r') as f:
 
 
 temp = []
-with open('rw_outputs/' + sys.argv[1] + '-fs-so-gsm8k.json','r') as f:
+with open('cpc_outputs/' + sys.argv[1] + '-fs-rtsq-math500.json','r') as f:
     f = json.load(f)
     for line in f:
         temp.append(line['prediction'])
@@ -36,7 +37,7 @@ with open('rw_outputs/' + sys.argv[1] + '-fs-so-gsm8k.json','r') as f:
 
     
 temp = []
-with open('rs_outputs/' + sys.argv[1] + '-fs-so-gsm8k.json','r') as f:
+with open('cpc_outputs/' + sys.argv[1] + '-fs-rws-math500.json','r') as f:
     f = json.load(f)
     for line in f:
         temp.append(line['prediction'])
@@ -44,7 +45,7 @@ with open('rs_outputs/' + sys.argv[1] + '-fs-so-gsm8k.json','r') as f:
 
 
 temp = []
-with open('rs_outputs/' + sys.argv[1] + '-fs-sb-gsm8k.json','r') as f:
+with open('cpc_outputs/' + sys.argv[1] + '-fs-qrws-math500.json','r') as f:
     f = json.load(f)
     for line in f:
         temp.append(line['prediction'])
@@ -58,20 +59,20 @@ for i in range(len(predictions[0])):
         temp.append(line[i])
     predic.append(temp)
 
-#num = 0
-#for i in range(len(predic)):
-#    random.shuffle(predic[i])
-#    pred = max(predic[i], key=predic[i].count)
-#    if pred==answers[i]:
-#        num += 1
-#print('[info] | Accuracy: %.4f | Correct %d | Total %d' % (
-#float(num / len(answers)), num, len(answers)))
+num = 0
+for i in range(len(predic)):
+    random.shuffle(predic[i])
+    pred = max(predic[i], key=predic[i].count)
+    if pred==answers[i]:
+        num += 1
+print('[info] | Accuracy: %.4f | Correct %d | Total %d' % (
+float(num / len(answers)), num, len(answers)))
 
 
-score = 0
-for line in predic:
-    counter = Counter(line)
-    max_count = max(counter.values())
-    score += max_count/len(line)
-print('[info] | PHC: %.4f' %(score/len(predic)))
+#score = 0
+#for line in predic:
+#    counter = Counter(line)
+#    max_count = max(counter.values())
+#    score += max_count/len(line)
+#print('[info] | PHC: %.4f' %(score/len(predic)))
 

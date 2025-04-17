@@ -1,0 +1,29 @@
+Rewrite the following math problems to make them easier for LLMs to solve.
+
+Question: Let \[f(x) =
+\begin{cases}
+2x^2 - 3&\text{if } x\le 2, \\
+ax + 4 &\text{if } x>2.
+\end{cases}
+\]Find $a$ if the graph of $y=f(x)$ is continuous (which means the graph can be drawn without lifting your pencil from the paper).
+Rewritten Question: Given the function f(x): \begin{cases} 2x^2 - 3 & \text{if } x \le 2, \\ ax + 4 & \text{if } x > 2, \end{cases} \] find the value of \( a \) such that the function \( f(x) \) is continuous. 
+
+Question: If the lengths of two sides of a right triangle are 5 and 12 units, what is the least possible length, in units, of the third side? Express your answer in simplest radical form. 
+Rewritten Question: You are given a right triangle with two side lengths: 5 units and 12 units. What is the shortest possible length of the third side? Give your answer in simplest radical form.
+
+Question: Regions I, II and III are bounded by squares. The perimeter of region I is 12 units and the perimeter of region II is 24 units. What is the ratio of the area of region I to the area of region III? Express your answer as a common fraction.
+[asy]
+draw((0,0)--(9,0)--(9,9)--(0,9)--(0,0)--cycle,linewidth(2));
+draw((9,0)--(15,0)--(15,6)--(9,6)--(9,0)--cycle,linewidth(2));
+draw((9,6)--(12,6)--(12,9)--(9,9)--cycle,linewidth(2));
+label("III",(4.5,4.5));
+label("II",(12,3));
+label("I",(10.5,7.5));
+[/asy] 
+Rewritten Question: There are three squares: region I, region II, and region III. The perimeter of region I is 12 units. The perimeter of region II is 24 units. All three regions are squares, and they are shown connected together in the diagram. Region III is a large square that contains region I and region II. What is the ratio of the area of region I to the area of region III? Give your answer as a fraction in simplest form.
+
+Question: Tom has a red marble, a green marble, a blue marble, and three identical yellow marbles. How many different groups of two marbles can Tom choose? 
+Rewritten Question: Tom has 6 marbles: 1 red, 1 green, 1 blue, 3 identical yellow marbles. How many different groups of two marbles can Tom choose, where the order does not matter?
+|||
+Question: {}
+Rewritten Question:
