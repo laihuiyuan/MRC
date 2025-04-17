@@ -1,0 +1,57 @@
+Swali: Hebu \[f(x) =
+\kuanza{kesi}
+2x^2 - 3&\maandishi{kama } x\le 2, \\
+ax + 4 &\text{if } x>2.
+\mwisho{kesi}
+\]Tafuta $a$ ikiwa grafu ya $y=f(x)$ ni endelevu (hiyo inamaanisha kuwa grafu inaweza kuchorwa bila kuinua penseli yako kutoka kwenye karatasi).
+Suluhisho:
+Hatua ya 1: Ili grafu ya $y=f(x)$ iendelee, kesi hizi mbili lazima zifikie $x=2$.
+Hatua ya 2: Hii ina maana kwamba thamani ya chaguo za kukokotoa katika $x=2$ lazima iwe sawa kwa matukio yote mawili.
+Hatua ya 3: Kwa kesi ya kwanza, wakati $x\le 2$, tuna $f(2) = 2(2)^2 - 3 = 5$.
+Hatua ya 4: Kwa kesi ya pili, wakati $x>2$, tuna $f(2) = a(2) + 4$.
+Hatua ya 5: Sasa, tunaweka maadili haya mawili sawa na kila mmoja: $5 = a(2) + 4$.
+Hatua ya 6: Kutatua kwa $a$, tunapata: $1 = 2a$.
+Hatua ya 7: $a = \boxed{\frac{1}{2}}$.
+Hatua ya 8: Jibu ni $\boxed{\frac{1}{2}}$.
+
+Swali: Tom ana marumaru nyekundu, marumaru ya kijani kibichi, marumaru ya buluu, na marumaru tatu za manjano zinazofanana. Tom anaweza kuchagua vikundi vingapi tofauti vya marumaru mbili?
+Suluhisho:
+Hatua ya 1: Kuna matukio mawili ya kuzingatia: Kesi ya 1: Tom anachagua marumaru mbili za rangi tofauti.
+Hatua ya 2: Kuna marumaru 3 zisizo za manjano (nyekundu, kijani kibichi na samawati) na marumaru 1 ya manjano ambayo tunaweza kuzingatia kama tofauti kwa kesi hii.
+Hatua ya 3: Kwa hivyo, kuna njia 3 za kuchagua marumaru isiyo ya manjano na njia 1 ya kuchagua marumaru ya manjano, ikitupa vikundi 3 tofauti. Zaidi ya hayo, kuna njia 3 za kuchagua marumaru mbili tofauti zisizo za njano (nyekundu-kijani, nyekundu-bluu, kijani-bluu), kutupa jumla ya 3 + 3 = 6 vikundi tofauti katika kesi hii.
+Hatua ya 4: Uchunguzi wa 2: Tom anachagua marumaru mbili za rangi moja.
+Hatua ya 5: Idadi ya marumaru ya manjano pekee ndiyo kubwa kuliko 1, kwa hivyo Tom anaweza kuchagua tu marumaru 2 za manjano.
+Hatua ya 6: Kwa jumla, kuna 6 (kutoka Kesi 1) + 1 (kutoka Kesi 2) = vikundi 7 tofauti vya marumaru mbili ambazo Tom anaweza kuchagua.
+Hatua ya 7: Jibu ni $\boxed{7}$.
+
+Swali: Mikoa I, II na III imepakana na miraba. Mzunguko wa mkoa I ni vitengo 12 na mzunguko wa mkoa wa II ni vitengo 24. Je! ni uwiano gani wa eneo la mkoa wa I na eneo la mkoa wa III? Eleza jibu lako kama sehemu ya kawaida.
+[asy]
+chora((0,0)--(9,0)--(9,9)--(0,9)--(0,0)--mzunguko,upana wa mstari(2));
+chora((9,0)--(15,0)--(15,6)--(9,6)--(9,0)--mzunguko,upana wa mstari(2));
+chora((9,6)--(12,6)--(12,9)--(9,9)--mzunguko,upana wa mstari(2));
+lebo("III",(4.5,4.5));
+lebo("II",(12,3));
+lebo("I",(10.5,7.5));
+[/asy]
+Suluhisho:
+Hatua ya 1: Kwa kuwa mzunguko wa eneo la I ni vitengo 12, urefu wa upande wa mraba ni $\frac{12}{4} = 3$ units.
+Hatua ya 2: Kwa hiyo, eneo la eneo la mimi ni $3^2 = 9$ za mraba.
+Hatua ya 3: Kwa kuwa mzunguko wa eneo la II ni vitengo 24, urefu wa upande wa mraba ni $\frac{24}{4} = 6$ units.
+Hatua ya 4: Kwa hiyo, eneo la kanda II ni $6^2 = 36$ za mraba.
+Hatua ya 5: Zingatia kuwa eneo la III ni mraba ambalo limeundwa kwa kuchanganya eneo la I na mkoa wa II ubavu kwa upande. Kwa hivyo, urefu wa upande wa kanda III ni jumla ya urefu wa upande wa mkoa wa I na mkoa wa II, ambayo ni $3 + 6 = 9$ vitengo.
+Hatua ya 6: Kwa hiyo, eneo la eneo la III ni $9^2 = 81$ za mraba.
+Hatua ya 7: Hatimaye, uwiano wa eneo la eneo la I na eneo la III ni $\frac{9}{81} = \boxed{\frac{1}{9}}$.
+Hatua ya 8: Jibu ni $\boxed{\frac{1}{9}}$.
+
+Swali: Ikiwa urefu wa pande mbili za pembetatu ya kulia ni vitengo 5 na 12, ni urefu gani unaowezekana, katika vitengo, wa upande wa tatu? Eleza jibu lako kwa njia rahisi kabisa.
+Suluhisho:
+Hatua ya 1: Kwa kuwa tunatafuta urefu mdogo iwezekanavyo wa upande wa tatu, tunapaswa kudhani kuwa urefu wa upande uliopewa ni hypotenuse na moja ya miguu ya pembetatu ya kulia.
+Hatua ya 2: Katika kesi hii, hebu tuchukue hypotenuse ni vitengo 12 na mguu mmoja ni vitengo 5.
+Hatua ya 3: Kutumia nadharia ya Pythagorean, tunaweza kupata urefu wa mguu mwingine: $a2 + b2 = c2$. $a2 + 52 = 122$.
+Hatua ya 4: $a2 + 25 = 144$. $a2 = 119$.
+Hatua ya 5: $a = \sqrt{119} = \boxed{\sqrt{119}}$ units.
+Hatua ya 6: Urefu usiowezekana kabisa wa upande wa tatu ni $\sqrt{119}$ units.
+Hatua ya 7: Jibu ni $\boxed{\sqrt{119}}$.
+|||
+Swali: {}
+Suluhisho:

@@ -1,0 +1,11 @@
+bn  প্রশ্ন:
+de  Frage:
+en  Question:
+es  Pregunta:
+fr  Question :
+ja  問題：
+ru  Задача:
+sw  Swali:
+te  ప్రశ్న:
+th  โจทย์:
+zh  问题：

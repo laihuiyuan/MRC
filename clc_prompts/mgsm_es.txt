@@ -1,0 +1,14 @@
+Pregunta: Roger tiene 5 pelotas de tenis. Compra 2 tubos más de pelotas de tenis. Cada tubo contiene 3 pelotas de tenis. ¿Cuántas pelotas de tenis tiene ahora?
+Respuesta paso a paso: Roger comenzó con 5 pelotas. 2 tubos de 3 pelotas de tenis cada uno equivale a 6 pelotas de tenis. 5 + 6 = 11. La respuesta es 11.
+
+Pregunta: Había nueve computadoras en la sala de servidores. Se instalaron cinco computadoras cada día, de lunes a jueves. ¿Cuántas computadoras hay ahora en la sala de servidores?
+Respuesta paso a paso: Hay 4 días de lunes a jueves. Se agregaron 5 computadoras cada día. Eso significa que en total se agregaron 4 * 5 = 20 computadoras. Al principio, había 9 computadoras, por lo que ahora hay 9 + 20 = 29 computadoras. La respuesta es 29.
+
+Pregunta: Leah tenía 32 chocolates y su hermana tenía 42. Si se comieron 35, ¿cuántos chocolates les quedan en total?
+Respuesta paso a paso: Leah tenía 32 chocolates y la hermana de Leah tenía 42. Quiere decir que originalmente había 32 + 42 = 74 chocolates. Se comieron 35. Por lo tanto, en total todavía tienen 74 - 35 = 39 chocolates. La respuesta es 39.
+
+Pregunta: Shawn tiene cinco juguetes. Para Navidad, recibió dos juguetes de su mamá y dos de su papá. ¿Cuántos juguetes tiene ahora?
+Respuesta paso a paso: Tiene 5 juguetes. Recibió 2 de la mamá, por lo que después de eso tiene 5 + 2 = 7 juguetes. Luego, recibió 2 más del papá, así que en total tiene 7 + 2 = 9 juguetes. La respuesta es 9.
+|||
+Pregunta: {}
+Respuesta paso a paso:

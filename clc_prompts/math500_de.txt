@@ -1,0 +1,57 @@
+Frage: Sei \[f(x) =
+\begin{cases}
+2x^2 - 3&\text{if } x\le 2, \\
+ax + 4 &\text{if } x>2.
+\end{cases}
+\]Finden Sie $a$, wenn die Grafik von $y=f(x)$ kontinuierlich ist (was bedeutet, dass die Grafik gezeichnet werden kann, ohne den Stift vom Papier zu nehmen).
+Lösung:
+Schritt 1: Damit die Grafik von $y=f(x)$ kontinuierlich ist, müssen sich die beiden Fälle bei $x=2$ treffen.
+Schritt 2: Das bedeutet, dass der Wert der Funktion bei $x=2$ in beiden Fällen derselbe sein muss.
+Schritt 3: Für den ersten Fall, wenn $x\le 2$, haben wir $f(2) = 2(2)^2 - 3 = 5$.
+Schritt 4: Für den zweiten Fall, wenn $x>2$, haben wir $f(2) = a(2) + 4$.
+Schritt 5: Nun setzen wir diese beiden Werte gleich: $5 = a(2) + 4$.
+Schritt 6: Wenn wir nach $a$ auflösen, erhalten wir: $1 = 2a$.
+Schritt 7: $a = \boxed{\frac{1}{2}}$.
+Schritt 8: Die Antwort ist $\boxed{\frac{1}{2}}$.
+
+Frage: Tom hat eine rote Murmel, eine grüne Murmel, eine blaue Murmel und drei identische gelbe Murmeln. Wie viele verschiedene Gruppen von zwei Murmeln kann Tom wählen?
+Lösung:
+Schritt 1: Es gibt zwei Fälle, die wir berücksichtigen müssen: Fall 1: Tom wählt zwei verschiedenfarbige Murmeln.
+Schritt 2: Es gibt 3 nicht gelbe Murmeln (rot, grün und blau) und 1 gelbe Murmel, die wir in diesem Fall als verschieden betrachten können.
+Schritt 3: Es gibt also 3 Möglichkeiten, eine nicht gelbe Murmel zu wählen, und 1 Möglichkeit, eine gelbe Murmel zu wählen, was uns 3 verschiedene Gruppen gibt. Zusätzlich gibt es 3 Möglichkeiten, zwei verschiedene nicht gelbe Murmeln auszuwählen (rot-grün, rot-blau, grün-blau), was uns in diesem Fall insgesamt 3 + 3 = 6 verschiedene Gruppen gibt.
+Schritt 4: Fall 2: Tom wählt zwei Murmeln derselben Farbe.
+Schritt 5: Nur die Anzahl der gelben Murmeln ist größer als 1, daher kann Tom nur 2 gelbe Murmeln auswählen.
+Schritt 6: Insgesamt gibt es 6 (aus Fall 1) + 1 (aus Fall 2) = 7 verschiedene Gruppen von zwei Murmeln, die Tom auswählen kann.
+Schritt 7: Die Antwort ist $\boxed{7}$.
+
+Frage: Die Regionen I, II und III sind durch Quadrate begrenzt. Der Umfang von Region I beträgt 12 Einheiten und der Umfang von Region II beträgt 24 Einheiten. Wie ist das Verhältnis der Fläche von Region I zur Fläche von Region III? Drücken Sie Ihre Antwort als gewöhnlichen Bruch aus.
+[asy]
+draw((0,0)--(9,0)--(9,9)--(0,9)--(0,0)--cycle,linewidth(2));
+draw((9,0)--(15,0)--(15,6)--(9,6)--(9,0)--cycle,linewidth(2));
+draw((9,6)--(12,6)--(12,9)--(9,9)--cycle,linewidth(2));
+label("III",(4.5,4.5));
+label("II",(12,3));
+label("I",(10.5,7.5));
+[/asy]
+Lösung:
+Schritt 1: Da der Umfang von Region I 12 Einheiten beträgt, ist die Seitenlänge des Quadrats $\frac{12}{4} = 3$ Einheiten.
+Schritt 2: Daher beträgt die Fläche von Region I $3^2 = 9$ Quadrateinheiten.
+Schritt 3: Da der Umfang von Region II 24 Einheiten beträgt, beträgt die Seitenlänge des Quadrats $\frac{24}{4} = 6$ Einheiten.
+Schritt 4: Daher beträgt die Fläche von Region II $6^2 = 36$ Quadrateinheiten.
+Schritt 5: Beachten Sie, dass Region III ein Quadrat ist, das durch die Kombination von Region I und Region II nebeneinander gebildet wird. Die Seitenlänge von Region III ist also die Summe der Seitenlängen von Region I und Region II, also $3 + 6 = 9$ Einheiten.
+Schritt 6: Daher beträgt die Fläche von Region III $9^2 = 81$ Quadrateinheiten.
+Schritt 7: Schließlich beträgt das Verhältnis der Fläche von Region I zur Fläche von Region III $\frac{9}{81} = \boxed{\frac{1}{9}}$.
+Schritt 8: Die Antwort lautet $\boxed{\frac{1}{9}}$.
+
+Frage: Wenn die Längen der beiden Seiten eines rechtwinkligen Dreiecks 5 und 12 Einheiten betragen, wie groß ist dann die kleinstmögliche Länge der dritten Seite in Einheiten? Geben Sie Ihre Antwort in der einfachsten Wurzelform an.
+Lösung:
+Schritt 1: Da wir nach der kleinstmöglichen Länge der dritten Seite suchen, sollten wir davon ausgehen, dass die gegebenen Seitenlängen die Hypothenuse und eine der Katheten des rechtwinkligen Dreiecks sind.
+Schritt 2: In diesem Fall nehmen wir an, dass die Hypothenuse 12 Einheiten und eine Kathete 5 Einheiten lang ist.
+Schritt 3: Mithilfe des Satzes des Pythagoras können wir die Länge der anderen Kathete ermitteln: $a2 + b2 = c2$. $a2 + 52 = 122$.
+Schritt 4: $a2 + 25 = 144$. $a2 = 119$.
+Schritt 5: $a = \sqrt{119} = \boxed{\sqrt{119}}$ Einheiten.
+Schritt 6: Die kleinstmögliche Länge der dritten Seite beträgt $\sqrt{119}$ Einheiten.
+Schritt 7: Die Antwort ist $\boxed{\sqrt{119}}$.
+|||
+Frage: {}
+Lösung:

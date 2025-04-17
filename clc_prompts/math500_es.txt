@@ -1,0 +1,57 @@
+Pregunta: Sea \[f(x) =
+\begin{cases}
+2x^2 - 3&\text{si } x\le 2, \\
+ax + 4 &\text{si } x>2.
+\end{cases}
+\]Encuentre $a$ si la gráfica de $y=f(x)$ es continua (lo que significa que la gráfica se puede dibujar sin levantar el lápiz del papel).
+Solución:
+Paso 1: Para que la gráfica de $y=f(x)$ sea continua, los dos casos deben encontrarse en $x=2$.
+Paso 2: Esto significa que el valor de la función en $x=2$ debe ser el mismo para ambos casos.
+Paso 3: Para el primer caso, cuando $x\le 2$, tenemos $f(2) = 2(2)^2 - 3 = 5$.
+Paso 4: Para el segundo caso, cuando $x>2$, tenemos $f(2) = a(2) + 4$.
+Paso 5: Ahora, igualamos estos dos valores entre sí: $5 = a(2) + 4$.
+Paso 6: Resolviendo para $a$, obtenemos: $1 = 2a$.
+Paso 7: $a = \boxed{\frac{1}{2}}$.
+Paso 8: La respuesta es $\boxed{\frac{1}{2}}$.
+
+Pregunta: Tom tiene una canica roja, una canica verde, una canica azul y tres canicas amarillas idénticas. ¿Cuántos grupos diferentes de dos canicas puede elegir Tom?
+Solución:
+Paso 1: Hay dos casos a considerar: Caso 1: Tom elige dos canicas de diferentes colores.
+Paso 2: Hay 3 canicas que no son amarillas (roja, verde y azul) y 1 canica amarilla que podemos considerar como distintas para este caso.
+Paso 3: Entonces, hay 3 formas de elegir una canica que no sea amarilla y 1 forma de elegir una canica amarilla, lo que nos da 3 grupos diferentes. Además, hay 3 maneras de elegir dos canicas distintas que no sean amarillas (roja-verde, roja-azul, verde-azul), lo que nos da un total de 3 + 3 = 6 grupos distintos en este caso.
+Paso 4: Caso 2: Tom elige dos canicas del mismo color.
+Paso 5: Solo la cantidad de canicas amarillas es mayor que 1, por lo que Tom solo puede elegir 2 canicas amarillas.
+Paso 6: En total, hay 6 (del Caso 1) + 1 (del Caso 2) = 7 grupos distintos de dos canicas que Tom puede elegir.
+Paso 7: La respuesta es $\boxed{7}$.
+
+Pregunta: Las regiones I, II y III están delimitadas por cuadrados. El perímetro de la región I es de 12 unidades y el perímetro de la región II es de 24 unidades. ¿Cuál es la razón entre el área de la región I y el área de la región III? Exprese su respuesta como una fracción común.
+[asy]
+draw((0,0)--(9,0)--(9,9)--(0,9)--(0,0)--cycle,linewidth(2));
+draw((9,0)--(15,0)--(15,6)--(9,6)--(9,0)--cycle,linewidth(2));
+draw((9,6)--(12,6)--(12,9)--(9,9)--cycle,linewidth(2));
+label("III",(4.5,4.5));
+label("II",(12,3));
+label("I",(10.5,7.5));
+[/asy]
+Solución:
+Paso 1: Como el perímetro de la región I es de 12 unidades, la longitud del lado del cuadrado es $\frac{12}{4} = 3$ unidades.
+Paso 2: Por lo tanto, el área de la región I es $3^2 = 9$ unidades cuadradas.
+Paso 3: Como el perímetro de la región II es 24 unidades, la longitud del lado del cuadrado es $\frac{24}{4} = 6$ unidades.
+Paso 4: Por lo tanto, el área de la región II es $6^2 = 36$ unidades cuadradas.
+Paso 5: Observa que la región III es un cuadrado que se forma combinando la región I y la región II una al lado de la otra. Por lo tanto, la longitud del lado de la región III es la suma de las longitudes de los lados de la región I y la región II, que es $3 + 6 = 9$ unidades.
+Paso 6: Por lo tanto, el área de la región III es $9^2 = 81$ unidades cuadradas.
+Paso 7: Finalmente, la razón entre el área de la región I y el área de la región III es $\frac{9}{81} = \boxed{\frac{1}{9}}$.
+Paso 8: La respuesta es $\boxed{\frac{1}{9}}$.
+
+Pregunta: Si las longitudes de dos lados de un triángulo rectángulo son 5 y 12 unidades, ¿cuál es la longitud mínima posible, en unidades, del tercer lado? Expresa tu respuesta en forma radical más simple.
+Solución:
+Paso 1: Como buscamos la longitud mínima posible del tercer lado, debemos suponer que las longitudes de los lados dados son la hipotenusa y uno de los catetos del triángulo rectángulo.
+Paso 2: En este caso, supongamos que la hipotenusa mide 12 unidades y un cateto mide 5 unidades.
+Paso 3: Usando el teorema de Pitágoras, podemos hallar la longitud del otro cateto: $a2 + b2 = c2$. $a2 + 52 = 122$.
+Paso 4: $a2 + 25 = 144$. $a2 = 119$.
+Paso 5: $a = \sqrt{119} = \boxed{\sqrt{119}}$ unidades.
+Paso 6: La longitud mínima posible del tercer lado es $\sqrt{119}$ unidades.
+Paso 7: La respuesta es $\boxed{\sqrt{119}}$.
+|||
+Pregunta: {}
+Solución:

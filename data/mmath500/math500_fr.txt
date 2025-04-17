@@ -1,0 +1,57 @@
+Question: Soit \[f(x) =
+\begin{cases}
+2x^2 - 3&\text{if } x\le 2, \\
+ax + 4 &\text{if } x>2.
+\end{cases}
+\]Trouvez $a$ si le graphe de $y=f(x)$ est continu (ce qui signifie que le graphe peut être dessiné sans lever votre crayon du papier).
+Solution:
+Étape 1: Pour que le graphe de $y=f(x)$ soit continu, les deux cas doivent se rencontrer à $x=2$.
+Étape 2: Cela signifie que la valeur de la fonction à $x=2$ doit être la même pour les deux cas.
+Étape 3: Pour le premier cas, lorsque $x\le 2$, nous avons $f(2) = 2(2)^2 - 3 = 5$.
+Étape 4: Pour le deuxième cas, lorsque $x>2$, nous avons $f(2) = a(2) + 4$.
+Étape 5: Maintenant, nous définissons ces deux valeurs égales : $5 = a(2) + 4$.
+Étape 6: En résolvant pour $a$, nous obtenons : $1 = 2a$.
+Étape 7: $a = \boxed{\frac{1}{2}}$.
+Étape 8: La réponse est $\boxed{\frac{1}{2}}$.
+
+Question: Tom a une bille rouge, une bille verte, une bille bleue et trois billes jaunes identiques. Combien de groupes différents de deux billes Tom peut-il choisir ?
+Solution:
+Étape 1: Il y a deux cas à considérer : Cas 1 : Tom choisit deux billes de couleurs différentes.
+Étape 2: Il y a 3 billes non jaunes (rouge, verte et bleue) et 1 bille jaune que nous pouvons considérer comme distinctes pour ce cas.
+Étape 3: Il y a donc 3 façons de choisir une bille non jaune et 1 façon de choisir une bille jaune, ce qui nous donne 3 groupes différents. De plus, il existe 3 façons de choisir deux billes différentes non jaunes (rouge-vert, rouge-bleu, vert-bleu), ce qui nous donne un total de 3 + 3 = 6 groupes différents dans ce cas.
+Étape 4: Cas 2 : Tom choisit deux billes de la même couleur.
+Étape 5: Seul le nombre de billes jaunes est supérieur à 1, donc Tom ne peut choisir que 2 billes jaunes.
+Étape 6: Au total, il y a 6 (du cas 1) + 1 (du cas 2) = 7 groupes différents de deux billes que Tom peut choisir.
+Étape 7: La réponse est $\boxed{7}$.
+
+Question: Les régions I, II et III sont délimitées par des carrés. Le périmètre de la région I est de 12 unités et le périmètre de la région II est de 24 unités. Quel est le rapport entre l'aire de la région I et l'aire de la région III ? Exprimez votre réponse sous forme de fraction commune.
+[asy]
+draw((0,0)--(9,0)--(9,9)--(0,9)--(0,0)--cycle,linewidth(2));
+draw((9,0)--(15,0)--(15,6)--(9,6)--(9,0)--cycle,linewidth(2));
+draw((9,6)--(12,6)--(12,9)--(9,9)--cycle,linewidth(2));
+label("III",(4.5,4.5));
+label("II",(12,3));
+label("I",(10.5,7.5));
+[/asy]
+Solution:
+Étape 1: Étant donné que le périmètre de la région I est de 12 unités, la longueur du côté du carré est $\frac{12}{4} = 3$ unités.
+Étape 2: Par conséquent, l'aire de la région I est de $3^2 = 9$ unités carrées.
+Étape 3: Étant donné que le périmètre de la région II est de 24 unités, la longueur du côté du carré est de $\frac{24}{4} = 6$ unités.
+Étape 4: Par conséquent, l'aire de la région II est de $6^2 = 36$ unités carrées.
+Étape 5: Observez que la région III est un carré formé en combinant la région I et la région II côte à côte. Ainsi, la longueur du côté de la région III est la somme des longueurs des côtés de la région I et de la région II, qui est de $3 + 6 = 9$ unités.
+Étape 6: Par conséquent, l'aire de la région III est de $9^2 = 81$ unités carrées.
+Étape 7: Enfin, le rapport entre l'aire de la région I et l'aire de la région III est de $\frac{9}{81} = \boxed{\frac{1}{9}}$.
+Étape 8: La réponse est $\boxed{\frac{1}{9}}$.
+
+Question: Si les longueurs de deux côtés d'un triangle rectangle sont de 5 et 12 unités, quelle est la plus petite longueur possible, en unités, du troisième côté ? Exprimez votre réponse sous la forme radicale la plus simple.
+Solution:
+Étape 1: Puisque nous recherchons la plus petite longueur possible du troisième côté, nous devons supposer que les longueurs de côté données sont l'hypoténuse et l'une des jambes du triangle rectangle.
+Étape 2: Dans ce cas, supposons que l'hypoténuse mesure 12 unités et qu'une jambe mesure 5 unités.
+Étape 3: En utilisant le théorème de Pythagore, nous pouvons trouver la longueur de l'autre jambe : $a2 + b2 = c2$. $a2 + 52 = 122$.
+Étape 4: $a2 + 25 = 144$. $a2 = 119$.
+Étape 5: $a = \sqrt{119} = \boxed{\sqrt{119}}$ unités.
+Étape 6: La longueur minimale possible du troisième côté est de $\sqrt{119}$ unités.
+Étape 7: La réponse est $\boxed{\sqrt{119}}$.
+|||
+Question: {}
+Solution:

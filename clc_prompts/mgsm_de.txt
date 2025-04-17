@@ -1,0 +1,14 @@
+Frage: Roger hat 5 Tennisbälle. Er kauft noch 2 Dosen Tennisbälle. In jeder Dose sind 3 Tennisbälle. Wie viele Tennisbälle hat er jetzt?
+Schritt-für-Schritt-Antwort: Roger begann mit 5 Bällen. 2 Dosen von jeweils 3 Tennisbällen macht 6 Tennisbälle. 5 + 6 = 11. Die Antwort ist 11.
+
+Frage: Es waren neun Computer im Serverraum. Von Montag bis Donnerstag wurden jeden Tag noch fünf Computer installiert. Wie viele Computer sind jetzt im Serverraum?
+Schritt-für-Schritt-Antwort: Von Montag bis Donnerstag sind es 4 Tage. Jeden Tag kamen 5 neue Computer hinzu. Das macht insgesamt 4 x 5 = 20 Computer, die hinzugefügt wurden. Am Anfang waren es 9 Computer, also sind es jetzt 9 + 20 =29 Computer. Die Antwort lautet 29.
+
+Frage: Leah hat 32 Pralinen und ihre Schwester hat 42. Wenn sie 35 essen, wie viele sind dann insgesamt noch übrig?
+Schritt-für-Schritt-Antwort: Leah hat 32 Pralinen und Leahs Schwester 42. Das bedeutet, dass es ursprünglich 32 + 42 =74 Pralinen waren. 35 wurden gegessen. Also haben sie insgesamt noch 74 - 35 = 39 Pralinen übrig. Die Antwort lautet 39.
+
+Frage: Shawn hat fünf Spielzeuge. Zu Weihnachten hat er von seiner Mama und seinem Papa jeweils zwei Spielzeuge bekommen. Wie viele Spielzeuge hat er jetzt?
+Schritt-für-Schritt-Antwort: Er hat 5 Spielzeuge. Er hat 2 von seiner Mama bekommen, sodass er nun 5 + 2 = 7 Spielzeuge hat. Dann hat er noch 2 von seinem Papa bekommen, also hat er insgesamt 7 + 2 = 9 Spielzeuge. Die Antwort lautet 9.
+|||
+Frage: {}
+Schritt-für-Schritt-Antwort:

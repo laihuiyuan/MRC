@@ -1,0 +1,11 @@
+bn||অনুগ্রহ করে ধাপে ধাপে যুক্তি দিন, এবং আপনার চূড়ান্ত উত্তরটি \\boxed{}-এর মধ্যে রাখুন।
+de||Bitte argumentieren Sie Schritt für Schritt und geben Sie Ihre endgültige Antwort in \\boxed{} ein.
+en||Please reason step by step, and put your final answer within \\boxed{}.
+es||Por favor razona paso a paso y coloca tu respuesta final dentro de \\boxed{}.
+fr||Veuillez raisonner étape par étape et mettre votre réponse finale dans \\boxed{}.
+ja||段階的に推論し、最終的な答えを \\boxed{} 内に記入してください。
+ru||Пожалуйста, рассуждайте пошагово и поместите свой окончательный ответ в \\boxed{}.
+sw||Tafadhali sababu hatua kwa hatua, na uweke jibu lako la mwisho ndani ya \\boxed{}.
+te||దయచేసి దశల వారీగా వాదించండి మరియు మీ తుది సమాధానాన్ని \\boxed{}లో ఉంచండి.
+th||กรุณาอธิบายเหตุผลทีละขั้นตอน และใส่คำตอบสุดท้ายของคุณไว้ใน \\boxed{}
+zh||请逐步推理，并将你的最终答案放在\\boxed{}内。

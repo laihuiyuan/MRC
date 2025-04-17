@@ -1,0 +1,2002 @@
+[
+ {
+  "question": "Badilisha uhakika $(0,3)$ katika viwianishi vya mstatili kuwa viwianishi vya polar. Andika jibu lako katika fomu ya $(r,\\theta),$ ambapo $r > 0$ na $0 \\le \\theta <2 \\pi.$",
+  "answer": "\\left( 3, \\frac{\\pi}{2} \\right)"
+ },
+ {
+  "question": " Fafanua \\[p = \\sum_{k = 1}^\\infty \\frac{1}{k^2} \\quad \\text{na} \\quad q = \\sum_{k = 1}^\\infty \\frac{1 }{k^3}.\\]Tafuta njia ya kuandika \\[\\sum_{j = 1}^\\infty \\sum_{k = 1}^\\infty \\frac{1}{(j + k)^3}\\]kulingana na $p$ na $q.$",
+  "answer": "p - q"
+ },
+ {
+  "question": " Ikiwa $f(x) = \\frac{3x-2}{x-2}$, ni nini thamani ya $f(-2) +f(-1)+f(0)$? Eleza jibu lako kama sehemu ya kawaida.",
+  "answer": "\\frac{14}{3}"
+ },
+ {
+  "question": " Je, 196 ina vigawanyiko vingapi vya nambari kamili?",
+  "answer": "9"
+ },
+ {
+  "question": "Matokeo ya mazoezi ya timu ya nchi tofauti yamechorwa hapa chini. Ni mwanafunzi gani ana kasi ya wastani zaidi? [asy] kwa ( int i = 1; i <= 7; ++i ) { draw((i,0)--(i,6)); } kwa ( int i = 1; i <= 5; ++i ) {kuteka((0,i)--(8,i)); } chora((-0.5,0)--(8,0), upana wa mstari(1)); chora((0,-0.5)--(0,6), upana wa mstari(1)); lebo(\"$O$\", (0,0), SW); lebo(mizani(.85)*zungusha(90)*\"umbali\", (0, 3), W); lebo(kiwango(.85)*\"wakati\", (4, 0), S); nukta ((1.25, 4.5)); lebo(mizani(.85)*\"Evelyn\", (1.25, 4.8), N); nukta ((2.5, 2.2)); lebo(mizani(.85)*\"Briana\", (2.5, 2.2), S); nukta ((4.25,5.2)); lebo(mizani(.85)*\"Carla\", (4.25, 5.2), SE); nukta ((5.6, 2.8)); lebo(mizani(.85)*\"Debra\", (5.6, 2.8), N); nukta ((6.8, 1.4)); lebo(mzani(.85)*\"Angela\", (6.8, 1.4), E); [/asy]",
+  "answer": "\\text{Evelyn}"
+ },
+ {
+  "question": " Hexagons ya kawaida inaweza kugawanywa katika pembetatu sita za usawa. Ikiwa mzunguko wa moja ya pembetatu ni inchi 21, ni mzunguko gani, kwa inchi, wa hexagon ya kawaida?",
+  "answer": "42"
+ },
+ {
+  "question": "Je, ni mchemraba gani mdogo kabisa unaoweza kuandikwa kama jumla ya nambari tatu mfululizo?",
+  "answer": "27"
+ },
+ {
+  "question": " Seti ya pointi $(x,y,z)$ zinazotosheleza \\[2x = 3y = -z\\]ni mstari. Seti ya pointi $(x,y,z)$ zinazotosheleza \\[6x = -y = -4z\\]ni mstari mwingine. Tafuta pembe kati ya mistari hii, kwa digrii.",
+  "answer": "90^\\circ"
+ },
+ {
+  "question": " Je, ni umbali gani, katika vitengo, kati ya pointi $(2, -6)$ na $(-4, 3)$? Eleza jibu lako kwa njia rahisi kabisa.",
+  "answer": "3\\sqrt{13}"
+ },
+ {
+  "question": " Usemi $2\\cdot 3 \\cdot 4\\cdot 5+1$ ni sawa na 121, kwani kuzidisha hufanywa kabla ya kuongezwa. Hata hivyo, tunaweza kupata thamani zaidi ya 121 za usemi huu ikiwa tutaruhusiwa kuubadilisha kwa kuingiza mabano. Kwa mfano, tunaweza kupata 144 kwa kuandika \\[ (2\\cdot (3\\cdot 4)) \\cdot (5+1) = 144. \\]Kwa jumla, ni thamani ngapi zinaweza kupatikana kutoka kwa usemi $2\\cdot 3. \\cdot 4 \\cdot 5 + 1$ kwa kuingiza mabano? (Kumbuka kwamba masharti ya kupanga upya hayaruhusiwi, kwa kuingiza mabano pekee).",
+  "answer": "4"
+ },
+ {
+  "question": "Je, ni kizidishio gani cha angalau chanya cha 30 ambacho kinaweza kuandikwa kwa tarakimu 0 na 2 pekee?",
+  "answer": "2220"
+ },
+ {
+  "question": " Acha $p(x)$ iwe polynomial ya shahada ya 5 ili \\[p(n) = \\frac{n}{n^2 - 1}\\]kwa $n = 2,$ 3, 4, $\\dots ,$ 7. Tafuta $p(8).$",
+  "answer": "\\frac{3}{56}"
+ },
+ {
+  "question": " Vigawanyo vinavyofaa vya 12 ni 1, 2, 3, 4 na 6. Kigawanyo sahihi cha nambari kamili $N$ ni kigawanyo chanya cha $N$ ambacho ni chini ya $N$. Je, ni jumla ya vigawanyiko sahihi vya jumla ya vigawanyiko sahihi vya 284?",
+  "answer": "284"
+ },
+ {
+  "question": " Kiasi cha silinda iliyoonyeshwa ni $45\\pi$ cubic cm. Je, ni urefu gani katika sentimita za silinda? [asy] ukubwa (120); chora(kuhama(2.2,0)*kipimo(0.3)*Mduara((0,0), 1.2)); chora((1,0)--(1,-2)); chora((3.4,0)--(3.4,-2)); chora((1,-2)..(2.2,-2.36)..(3.4,-2)); lebo(\"$h$\",katikati((3.4,0)--(3.4,-2)),E); chora (((2.2,0)--(3.4,0))); lebo(\"$r=3$\",katikati((2.2,0)--(3.4,0)),N); [/asy]",
+  "answer": "5"
+ },
+ {
+  "question": "Tuseme $\\sin D = 0.7$ kwenye mchoro hapa chini. $DE$ ni nini? [asy] jozi D,E,F; F = (0,0); D = (sqrt(51),7); E = (0,7); kuchora(D--E--F--D); chora(alama ya kulia(D,E,F,15)); lebo(\"$D$\",D,NE); lebo(\"$E$\",E,NW); lebo(\"$F$\",F,SW); lebo(\"$7$\",(E+F)/2,W); [/asy]",
+  "answer": "\\sqrt{51}"
+ },
+ {
+  "question": " Acha $z = 2 + \\sqrt{2} - (3 + 3 \\sqrt{2})i$, na uruhusu $c = 2 - 3i$. Acha $w$ iwe tokeo wakati $z$ inazungushwa karibu $c$ na $\\frac{\\pi}{4}$ kinyume cha saa. [asy] unitsize(0.6 cm); jozi C, W, Z; Z = (2 + sqrt(2), -3 - 3*sqrt(2)); C = (2,-3); W = zungusha(45,C)*(Z); kuchora(Z--C--W); nukta (\"$c$\", C, N); nukta (\"$w$\", W, SE); nukta (\"$z$\", Z, S); lebo(\"$\\frac{\\pi}{4}$\", C + (0.6,-1)); [/asy] Tafuta $w.$",
+  "answer": "6 - 5i"
+ },
+ {
+  "question": " Kokotoa: $1-2+3-4+5- \\dots +99-100$.",
+  "answer": "-50"
+ },
+ {
+  "question": "Ifuatayo ni grafu ya $y = a \\sin (bx + c) + d$ kwa baadhi ya viambajengo chanya $a,$$b,$ $c,$ na $d.$ Tafuta thamani ndogo zaidi iwezekanayo ya $c.$ [asy] kuagiza TrigMacros; ukubwa (400); f halisi (x halisi) {kurudi 2* dhambi (3*x + pi) + 1; } chora(grafu(f,-3*pi,3*pi,n=700,jiunge=mendeshaji ..),nyekundu); trig_axes(-3*pi,3*pi,-4,4,pi/2,1); safu (); rm_trig_labels(-5,5, 2); lebo(\"$1$\", (0,1), E); lebo(\"$2$\", (0,2), E); lebo(\"$3$\", (0,3), E); lebo(\"$-1$\", (0,-1), E); lebo(\"$-2$\", (0,-2), E); lebo(\"$-3$\", (0,-3), E); [/asy]",
+  "answer": "\\pi"
+ },
+ {
+  "question": " $\\overline{BC}$ ni sambamba na sehemu kupitia $A$, na $AB = BC$. Ni idadi gani ya digrii zinazowakilishwa na $x$? [asy] chora((0,0)--(10,0)); chora((0,3)--(10,3)); chora((2,3)--(8,0)); chora((2,3)--(4,0)); lebo(\"$A$\",(2,3),N); lebo(\"$B$\",(4,0),S); lebo(\"$C$\",(8,0),S); lebo(\"$124^{\\circ}$\",(2,3),SW); lebo(\"$x^{\\circ}$\",(4.5,3),S); [/asy]",
+  "answer": "28"
+ },
+ {
+  "question": "Acha $a$ iwe nambari halisi chanya ili mizizi yote ya \\[x^3 + ax^2 + ax + 1 = 0\\] iwe halisi. Tafuta thamani ndogo kabisa ya $a.$",
+  "answer": "3"
+ },
+ {
+  "question": " Tathmini $(1+2i)6-3i$.",
+  "answer": "6+9i"
+ },
+ {
+  "question": " Pata nambari kamili kabisa chini ya $(\\sqrt{7} + \\sqrt{5})^6.$ (Usitumie kikokotoo!)",
+  "answer": "13535"
+ },
+ {
+  "question": " Denali na Nate hufanya kazi kwa biashara ya kutembea kwa mbwa na hulipwa kwa kila mbwa wanaotembea. Denali inawajibikia mbwa $16$ na Nate anajibika kwa mbwa $12$. Chini ya sera mpya ya kampuni, watakabidhiwa au kutokabidhiwa mbwa wapya katika vikundi vya mbwa $x$. Uwiano wa malipo ya Denali kwa malipo ya Nate ungekuwa sawa ikiwa Denali angeanza kutembea mbwa $4x$ zaidi na Nate akabaki na mbwa $12$ au kama $x$ ya mbwa wa Nate walipewa Denali. Tafuta $x$ kama $x\\neq0$.",
+  "answer": "5"
+ },
+ {
+  "question": " Pata thamani zote za $x$ zinazokidhi mlinganyo $x = \\!\\sqrt{11-2x} + 4$.",
+  "answer": "x=5"
+ },
+ {
+  "question": "Mfanyikazi hupokea mshahara wa kila mwaka wa $\\$20{,}000$, ambayo kila mara huweka kwenye akaunti ya akiba mwishoni mwa mwaka. Kufikia mwisho wa mwaka wa tatu (anapoweka amana ya tatu), anataka kuwa na angalau $\\$66,200$ katika akaunti ili kufadhili ununuzi wa nyumba. Je, ni kiwango gani cha chini cha riba iliyojumuishwa ambayo akaunti ya akiba inapaswa kutoa? Eleza jibu lako kama asilimia, lakini usijumuishe ishara ya asilimia.",
+  "answer": "10"
+ },
+ {
+  "question": " Chaguo za kukokotoa $f$ hutosheleza mlinganyo wa utendaji \\[f(x) + f(y) = f(x + y) - xy - 1\\]kwa nambari zote halisi $x$ na $y.$ Ikiwa $f(1 ) = 1,$ kisha tafuta nambari zote $n$ vile $f(n) = n.$ Weka nambari zote kama hizo, zikitenganishwa na koma.",
+  "answer": "1,-2"
+ },
+ {
+  "question": " Ni kwa njia ngapi watu $7$ wanaweza kukaa karibu na meza ya duara ikiwa hakuna watu wawili kati ya $3$ Pierre, Rosa, na Thomas wanaweza kukaa karibu na kila mmoja? (Mipangilio ya viti ambayo ni mizunguko ya kila mmoja inachukuliwa kuwa sawa.)",
+  "answer": "144"
+ },
+ {
+  "question": "Klabu ya hisabati ina mauzo ya mikate kama kuchangisha pesa kwa ajili ya safari ijayo. Wanauza vidakuzi vya $54$ kwa tatu kwa $\\$1$, na keki $20$ kwa $\\$2$ kila moja, na brownies $35$ kwa $\\$1$ kila moja. Ikiwa iligharimu klabu ya hesabu $\\$15$ kuoka bidhaa hizi, faida yao ilikuwa nini?",
+  "answer": "78"
+ },
+ {
+  "question": " Mzunguko wa $90^\\circ$ kuzunguka asili katika mwelekeo unaopingana na saa unatumika kwa $7 + 2i.$ Nambari changamano inayotokana ni nini?",
+  "answer": "-2 + 7i"
+ },
+ {
+  "question": " Jeshi la Wagiriki lilikuwa na aina mbili za askari: wa tabaka la juu na askari wa tabaka la chini. Ikiwa kulikuwa na jumla ya askari 5 wa tabaka la juu, na askari 10 wa tabaka la chini katika sehemu fulani ya Athene, na vita vya Thermopylae vinadai nguvu ya askari 4 wa tabaka la juu na askari 8 wa tabaka la chini, ni vita ngapi tofauti vinaweza kutumwa?",
+  "answer": "225"
+ },
+ {
+  "question": " Pata bidhaa ya $6_8 \\cdot 7_8.$ Eleza jibu lako kwa msingi $8.$",
+  "answer": "52_8"
+ },
+ {
+  "question": " Rahisisha $\\sqrt{242}$.",
+  "answer": "11\\sqrt2"
+ },
+ {
+  "question": "Je, ni kwa njia ngapi watu 8 wanaweza kukaa karibu na meza ya duara ikiwa 3 kati ya watu -- Pierre, Rosa, na Thomas -- wote wanataka kuketi pamoja? (Viti viwili vinachukuliwa kuwa sawa ikiwa moja ni mzunguko wa nyingine.)",
+  "answer": "720"
+ },
+ {
+  "question": " Zingatia mfuatano wa kijiometri $\\frac{125}{9}, \\frac{25}{3}, 5, 3, \\ldots$. Je, muhula wa nane wa mfuatano ni upi? Eleza jibu lako kama sehemu ya kawaida.",
+  "answer": "\\frac{243}{625}"
+ },
+ {
+  "question": " Tafuta neno lisilobadilika katika upanuzi wa $$\\left(10x^3-\\frac{1}{2x^2}\\kulia)^{5}$$",
+  "answer": "-125"
+ },
+ {
+  "question": " Ikiwa $n \\equiv 2 \\pmod{7}$, basi tafuta salio wakati $(n + 2)(n + 4)(n + 6)$ imegawanywa na 7.",
+  "answer": "3"
+ },
+ {
+  "question": " Tafuta mizizi ya $(x - 3)^3 + (x -7)^3 = (2x - 10)^3.$",
+  "answer": "3, 5, 7"
+ },
+ {
+  "question": " Pentagoni ya kawaida huzungushwa kinyume na kituo chake. Ni idadi gani ya chini ya digrii ambayo lazima izungushwe hadi ilingane na nafasi yake ya asili?",
+  "answer": "72"
+ },
+ {
+  "question": " Ikiwa pichi za ukubwa wa vitafunio zina kalori $40$ na ni $2\\%$ ya mahitaji ya kalori ya kila siku ya mtu, ni kalori ngapi hutimiza mahitaji ya kalori ya kila siku ya mtu?",
+  "answer": "2000"
+ },
+ {
+  "question": "Ni matokeo gani wakati sababu kuu ya kawaida ya 6432 na 132 imeongezeka kwa 11?",
+  "answer": "23"
+ },
+ {
+  "question": " Oktagoni ya kawaida ina mzunguko sawa na heksagoni ya kawaida iliyoonyeshwa hapa na urefu wa upande wa 16 cm. Je, kila upande wa pweza ni wa muda gani? [asy]ukubwa(80); jozi A = dir (120); jozi B=dir(60); jozi M=(A+B)/2; chora(dir(360)--B--A--dir(180)--dir(240)--dir(300)--cycle); lebo(\"sentimita 16\", M, N);[/asy]",
+  "answer": "12"
+ },
+ {
+  "question": " Viwianishi vya sambamba ni (5, 3), (6, 8), (7, 4) na $(x, y)$ na $x > 7$. Je, thamani ya $x + y$ ni nini?",
+  "answer": "17"
+ },
+ {
+  "question": " Suluhisho la $ -4 < 2(x - 1) < 8$ limeonyeshwa katika fomu $a < x < b$. Pata thamani ya $a + b$.",
+  "answer": "4"
+ },
+ {
+  "question": " Kwa $0 \\le x \\le 40$ na $0 \\le y \\le 50,$ pata thamani ya chini ya \\[\\sqrt{x^2 + 400} + \\sqrt{y^2 + 900} + \\sqrt{x ^2 + y^2 - 80x - 100y + 4100}.\\]",
+  "answer": "70 \\sqrt{2}"
+ },
+ {
+  "question": "Bill anatembea maili $\\frac{1}{2}$ kusini, kisha $\\frac{3}{4}$ maili mashariki, na hatimaye $\\frac{1}{2}$ maili kusini. Je, yuko maili ngapi, kwenye mstari wa moja kwa moja, kutoka mahali anapoanzia? Eleza jibu lako kama desimali kwa mia iliyo karibu zaidi.",
+  "answer": "1.25"
+ },
+ {
+  "question": " Katika pembetatu ya kulia $ABC$ na $\\angle B = 90^\\circ$, tuna $\\sin A = 2\\cos A$. $\\tan A$ ni nini?",
+  "answer": "2"
+ },
+ {
+  "question": " Ni nambari gani ndogo kabisa chanya $n$ hivi kwamba mizizi yote ya $z^4 + z^2 + 1 = 0$ ni $n^{\\text{th}}$ mizizi ya umoja?",
+  "answer": "6"
+ },
+ {
+  "question": " Grafu ya $f(x)=\\frac{2x}{x^2-5x-14}$ ina asymptoti wima $x=a$ na $x=b$, na asymptote mlalo $y=c$. Tafuta $a+b+c$.",
+  "answer": "5"
+ },
+ {
+  "question": " Nguvu gani ya 4 ni sawa na 8? Eleza jibu lako kama sehemu ya kawaida.",
+  "answer": "\\frac{3}{2}"
+ },
+ {
+  "question": " Nusu ya thamani ya $3x-9$ ni $x+37$. Je, thamani ya $x$ ni nini?",
+  "answer": "83"
+ },
+ {
+  "question": "Una mifuko saba ya sarafu za dhahabu. Kila mfuko una idadi sawa ya sarafu za dhahabu. Siku moja, utapata mfuko wa sarafu 53. Unaamua kugawa tena idadi ya sarafu uliyo nayo ili mifuko yote minane uliyoshikilia iwe na idadi sawa ya sarafu. Unafanikiwa kusambaza tena sarafu zote, na pia unaona kuwa una zaidi ya sarafu 200. Ni nambari gani ndogo zaidi ya sarafu ambazo ungeweza kuwa nazo kabla ya kupata mfuko wa sarafu 53?",
+  "answer": "203"
+ },
+ {
+  "question": " Pata mgawo wakati $x^6 - 3$ imegawanywa kwa $x + 1.$",
+  "answer": "x^5 - x^4 + x^3 - x^2 + x - 1"
+ },
+ {
+  "question": " Rahisisha: $\\frac{\\sqrt{2.5^2-0.7^2}}{2.7-2.5}$.",
+  "answer": "12"
+ },
+ {
+  "question": " Kokotoa $\\arcsin \\left( -\\frac{1}{2} \\kulia).$ Eleza jibu lako kwa kutumia radians.",
+  "answer": "-\\frac{\\pi}{6}"
+ },
+ {
+  "question": " Andika $\\frac{3}{20}$ kama desimali.",
+  "answer": "0.15"
+ },
+ {
+  "question": " Tuseme kwamba $f$ ni polynomial kwamba \\[(x-1)\\cdot f(x)=3x^4+x^3 - 25x^2 +38x -17.\\]Nini shahada ya $f$ ?",
+  "answer": "3"
+ },
+ {
+  "question": " Jumla ya nambari za $N$ chanya isiyo ya kawaida ni 121. Thamani ya $N$ ni nini?",
+  "answer": "11"
+ },
+ {
+  "question": "Riproarin' Ringo alikuwa akimlawiti mbwa mkaidi. Ringo aliamua kumpa mbwa ahueni kwa kuhesabu \\[|(1-i)^8|\\]kabla ya kumfuata mbwa. Je, Ringo angepata jibu gani?",
+  "answer": "16"
+ },
+ {
+  "question": " Kokotoa $99^2+99+1$ kichwani mwako.",
+  "answer": "9901"
+ },
+ {
+  "question": " Katika darasa la wanafunzi 50, 28 hushiriki katika MATHCOUNTS, 21 hushiriki katika klabu ya sayansi, na wanafunzi 6 hushiriki katika kila moja. Ni wanafunzi wangapi wanaoshiriki katika MATHCOUNTS na kilabu cha sayansi?",
+  "answer": "5"
+ },
+ {
+  "question": " $x^3 - 3x^2 + 4x - 1$ ya aina nyingi ni $x^9 + px^6 + qx^3 + r.$ Weka $(p,q,r) $(p,q,r) uliyoagiza mara tatu.$",
+  "answer": "(6,31,-1)"
+ },
+ {
+  "question": " Kwa baadhi ya nambari halisi $a$ na $b$, mlinganyo \\[ 8x^3 + 4ax^2 + 2bx + a = 0 \\] una mizizi chanya tatu tofauti. Ikiwa jumla ya logariti za msingi-2 za mizizi ni 5, ni nini thamani ya $a$?",
+  "answer": "-256"
+ },
+ {
+  "question": "Tafuta nambari halisi ndogo kabisa $C$ ambayo \\[\\kushoto\\| \\anza{pmatrix} 2 & 3 \\\\ 0 & -2 \\mwisho{pmatrix} \\bold{v} \\kulia\\| \\le C \\|\\bold{v}\\|\\]kwa vekta zote zenye pande mbili $\\bold{v}.$ Kumbuka kuwa kwa vekta yenye pande mbili $\\mathbf{a},$ $\\|\\mathbf{ a}\\|$ ni ukubwa wa $\\mathbf{a}.$",
+  "answer": "4"
+ },
+ {
+  "question": " Acha \\[x^8 + 3x^4 - 4 = p_1(x) p_2(x) \\dotsm p_k(x),\\]ambapo kila aina isiyo ya mara kwa mara $p_i(x)$ ni monic yenye coefficients kamili, na haiwezi. kuzingatiwa zaidi juu ya nambari kamili. Kokotoa $p_1(1) + p_2(1) + \\vitone + p_k(1).$",
+  "answer": "10"
+ },
+ {
+  "question": " Kuna viasili $a$, $b$, $c$, na $d$ vile \\[(\\sin x)^7 = a \\sin 7x + b \\sin 5x + c \\sin 3x + d \\sin x \\]kwa pembe zote $x$. Tafuta $d$.",
+  "answer": "\\frac{35}{64}"
+ },
+ {
+  "question": " $1^{(2^{235423523})}$ ni nini?",
+  "answer": "1"
+ },
+ {
+  "question": " Panua na kurahisisha kabisa: \\anza{align*} x\\left(x(1+x)+2x\\kulia)-3(x^2-x+2) \\mwisho{align*}",
+  "answer": "x^3+3x-6"
+ },
+ {
+  "question": "Urefu wa pande mbili zinazopingana za mraba hupunguzwa kwa $40\\%$ huku urefu wa pande nyingine mbili ukiongezwa kwa $50\\%$ ili kuunda mstatili. Je, eneo la mraba linapungua kwa asilimia ngapi?",
+  "answer": "10"
+ },
+ {
+  "question": " Kwa thamani fulani ya $x,$ $0 < x < 180,$ \\[\\tan 53^\\circ \\tan 81^\\circ \\tan x^\\circ = \\tan 53^\\circ + \\tan 81^\\circ + \\tan x^\\circ.\\]Tafuta $x.$",
+  "answer": "46"
+ },
+ {
+  "question": " Acha $z$ iwe nambari changamano kiasi kwamba $z^5 = 1$ na $z \\neq 1.$ Kokotoa \\[z + \\frac{1}{z} + z^2 + \\frac{1}{z ^2}.\\]",
+  "answer": "-1"
+ },
+ {
+  "question": " Kokotoa $58_9 - 18_9.$ Eleza jibu lako kwa msingi wa $9.$",
+  "answer": "40_9"
+ },
+ {
+  "question": " Nambari ya jozi $10101001110_{2}$ ni sawa na nambari gani katika msingi wa nane?",
+  "answer": "2516_8"
+ },
+ {
+  "question": " Ni urefu gani, katika vitengo, wa radius ya tufe ambayo kiasi na eneo la uso, katika vitengo vya ujazo na vitengo vya mraba, mtawaliwa, ni sawa kwa nambari?",
+  "answer": "3"
+ },
+ {
+  "question": "Operesheni $\\&$ inafafanuliwa kwa nambari kamili $a$ na $b$ kama $a \\& b = \\displaystyle\\frac{\\sqrt{ab + a}}{\\sqrt{ab - b}}$. Je, thamani ya $9 \\& 2$ ni ipi? Eleza jibu lako kama sehemu ya kawaida katika muundo rahisi zaidi wa radical.",
+  "answer": "\\frac{3\\sqrt{3}}{4}"
+ },
+ {
+  "question": " Rahisisha \\[\\frac{\\sec x}{\\sin x} - \\frac{\\sin x}{\\cos x}.\\]",
+  "answer": "\\cot x"
+ },
+ {
+  "question": " Kete mbili za haki, za upande 6 hutupwa. Kuna uwezekano gani kwamba bidhaa ya nambari mbili ni nyingi ya 5? Eleza jibu lako kama sehemu ya kawaida.",
+  "answer": "\\frac{11}{36}"
+ },
+ {
+  "question": " Ikiwa kikoa cha chaguo za kukokotoa $\\log x^2$ ni $x <a$ au $x > b$, kwa $a$ na $b$, tafuta $a + b$.",
+  "answer": "0"
+ },
+ {
+  "question": " Ikiwa $2^8=4^x$, thamani ya $x$ ni ipi?",
+  "answer": "4"
+ },
+ {
+  "question": " Acha $f(x) = x^3 + 3x^2 + 1.$ Kuna nambari halisi $a \\neq 0$ na $b,$ kiasi kwamba \\[f(x) - f(a) = (x -) a)^2 (x - b).\\]Ingiza jozi iliyoagizwa $(a,b).$",
+  "answer": "(-2,1)"
+ },
+ {
+  "question": " Kwa thamani gani ya $x$ ni $2^3\\cdot3^x=72$?",
+  "answer": "2"
+ },
+ {
+  "question": " Tafuta idadi ya nambari kamili ya $k$ katika muda uliofungwa $[-500,500]$ ambayo equation $\\log(kx)=2\\log(x+2)$ ina suluhu moja haswa.",
+  "answer": "501"
+ },
+ {
+  "question": "Miti kumi ina uzito wa squigs tatu na goolee moja. Miti miwili na goolee moja ni sawa kwa uzito na squig moja. Uzito wa pamoja wa miti mingapi ni sawa na uzito wa squig moja?",
+  "answer": "3"
+ },
+ {
+  "question": " Pointi $A$ iko mahali fulani ndani au kwenye mraba ambao una pembe tofauti kwa $(0,0)$ na $(2,2)$. Pointi $B$ iko mahali fulani ndani au kwenye mraba ambao una pembe tofauti kwa pointi $(4,2)$ na $(5,3)$. Ni thamani gani kuu inayowezekana ya mteremko wa laini iliyo na alama $A$ na $B$? Eleza jibu lako kama sehemu ya kawaida.",
+  "answer": "\\frac{3}{2}"
+ },
+ {
+  "question": " Tatua kwa $x: 3^{2x} + 19 = 10^x$.",
+  "answer": "2"
+ },
+ {
+  "question": " Bidhaa ya $3t^2+5t+a$ na $4t^2+bt-2$ ni $12t^4+26t^3-8t^2-16t+6$. $a+b$ ni nini?",
+  "answer": "-1"
+ },
+ {
+  "question": " Tangi ya silinda ya kulia yenye besi za mviringo inajazwa maji kwa kiwango cha $20\\pi$ mita za ujazo kwa saa. Wakati tank inajazwa, kiwango cha maji kinaongezeka mita nne kwa saa. Radi ya tank ni nini, katika mita? Eleza jibu lako kwa njia rahisi kabisa.",
+  "answer": "\\sqrt{5}"
+ },
+ {
+  "question": "Una mashati 5, suruali 6 na kofia 8. Je, unaweza kutengeneza nguo ngapi zikijumuisha shati moja, suruali moja na kofia moja?",
+  "answer": "240"
+ },
+ {
+  "question": " Tafuta thamani kubwa zaidi ya $x$ inayotosheleza mlinganyo $|5x-1|=x+3$.",
+  "answer": "1"
+ },
+ {
+  "question": " Zingatia chaguo za kukokotoa \\[ f(x) = \\anza{kesi} ax^2 & \\text{if } x \\geq a,\\\\ ax +2a& \\text{if } x <a, \\mwisho{kesi} \\] ambapo $a$ ni nambari fulani. Ni thamani gani kubwa zaidi ya $a$ kiasi kwamba grafu ya $y=f(x)$ inakatiza kila mstari mlalo angalau mara moja?",
+  "answer": "2"
+ },
+ {
+  "question": " Pata kigawanyo kikuu cha kawaida cha $3339$, $2961$, na $1491$.",
+  "answer": "21"
+ },
+ {
+  "question": " Remmy anataka kugawanya $10$ kwa $\\frac{2}{3}$, lakini hawezi kukumbuka jinsi ya kufanya hivyo. Je, azidishe $10$ kwa nambari gani ili kupata jibu?",
+  "answer": "\\frac{3}{2}"
+ },
+ {
+  "question": " Kwa kuzingatia $f(x) = \\frac{\\sqrt{x-1}}{x-2}$, ni thamani gani ndogo kabisa kamili ya $x$ kiasi kwamba $f(x)$ ina nambari halisi ya nambari?",
+  "answer": "1"
+ },
+ {
+  "question": "Pirate hutafuta visiwa saba kwa hazina iliyozikwa. Ikiwa kila kisiwa kina nafasi ya $\\frac{1}{5}$ ya kuwa na hazina, kuna uwezekano gani kwamba visiwa vinne hasa vina hazina?",
+  "answer": "\\frac{448}{15625}"
+ },
+ {
+  "question": " Je, mduara wenye equation $x^2 - 10x + y^2 + 6y + c = 0$ utakuwa na radius ya urefu 1 kwa thamani gani ya $c$?",
+  "answer": "33"
+ },
+ {
+  "question": "Katika pembe nne $ABCD$, pembe $BAD$ na pembe $CDA$ zimekatwa kama inavyoonyeshwa. Ni kipimo gani cha digrii ya angle $AFD$? [asy] ukubwa (150); jozi A , B, C, D; A = (0,0); B = (2, 4); C = (7,4); D = (7, -2); chora( (0,0)--(2,4) -- (7,4) -- (7, -2)-- mzunguko); lebo(\"$A$\", A, SW); lebo(\"$B$\", B, NW); lebo(\"$C$\", C, NE); lebo(\"$D$\", D, SE); jozi E, F; E = (4.5-.2,1-.2); F = (5, 3); kuchora(A--E--D); chora(A--F--D); lebo(\"$E$\", E, N); lebo(\"$F$\", F, NW); nukta(A); nukta(B);kitone(C);kitone(D);kitone(E);kitone(F); lebo(\"$x$\", (1, 1.5), S); lebo(\"$x$\", (2, 1), S+W); lebo(\"$x$\", (2, -1), N+N+N+W); lebo(\"$y$\", (5.5+.3, .5-.3), S); lebo(\"$y$\", (6.5+.3, 0)); lebo(\"$y$\", (5+.5, -1.5+.3)); lebo(\"$110^{\\circ}$\",(2.5,3.5)); lebo(\"$100^{\\circ}$\",(6.5-.2,3.5)); [/asy]",
+  "answer": "80"
+ },
+ {
+  "question": "Makadirio ya $\\begin{pmatrix} 2 \\\\ y \\\\ -5 \\mwisho{pmatrix}$ kwenye $\\begin{pmatrix} 1 \\\\ -2 \\\\ 1 \\end{pmatrix}$ ni \\[\\frac{ 5}{6} \\anza{pmatrix} 1 \\\\ -2 \\\\ 1 \\mwisho{pmatrix}.\\]Tafuta $y.$",
+  "answer": "-4"
+ },
+ {
+  "question": " Tafuta mizizi halisi ya \\[\\frac{( x+ 1)(x - 3)}{5(x + 2)(x - 4)} + \\frac{(x + 3)(x - 5)}{9 (x + 4)(x - 6)} - \\frac{2(x + 5)(x - 7)}{13(x + 6)(x - 8)} = \\frac{92}{585}.\\]Ingiza mizizi halisi, ikitenganishwa na koma.",
+  "answer": "1 \\pm \\sqrt{19}"
+ },
+ {
+  "question": " Mchezaji wa kuteleza anaelekea kaskazini anapoanza kusota kulia kwake. Anazunguka digrii 2250. Je, anaelekea upande gani (kaskazini, kusini, mashariki au magharibi) anapomaliza kusota kwake?",
+  "answer": "\\text{east}"
+ },
+ {
+  "question": " Rahisisha $(-k + 4) + (-2 + 3k)$.",
+  "answer": "2k+2"
+ },
+ {
+  "question": " Ikiwa $\\mathbf{a} = \\anza{pmatrix} 1 \\\\ 1 \\\\ 1 \\end{pmatrix},$ basi pata vekta $\\mathbf{v}$ kiasi kwamba $\\mathbf{a} \\cdot \\mathbf {v} = 2$ na $\\mathbf{a} \\nyakati \\mathbf{v} = \\anza{pmatrix} 1 \\\\ -2 \\\\ 1 \\mwisho{pmatrix}.$",
+  "answer": "\\begin{pmatrix} -1/3 \\\\ 2/3 \\\\ 5/3 \\end{pmatrix}"
+ },
+ {
+  "question": "Hexagon imeandikwa kwenye mduara: [asy] jozi pA, pB, pC, pD, pE, pF, pO; pO = (0, 0); pA = pO + dir(-10); pB = pO + dir (60); pC = pO + dir (130); pD = pO + dir (170); pE = pO + dir(-160); pF = pO + dir(-80); chora(pA--pB--pC--pD--pE--pF--pA); lebo(\"$105^\\circ$\", pF, N * 2); lebo(\"$110^\\circ$\", pB, SW * 1.5); lebo(\"$\\alpha$\", pD, E); chora(mduara(pO, 1)); [/asy] Je, kipimo cha $\\alpha$, katika digrii ni kipi?",
+  "answer": "145^\\circ"
+ },
+ {
+  "question": " Mlinganyo \\[x^{10}+(13x-1)^{10}=0\\,\\]ina mizizi 10 changamano $r_1,$ $\\overline{r}_1,$$r_2,$ $\\overline{ r}_2,$$r_3,$$\\jumla{r}_3,$$r_4,$$\\jumla{r}_4,$$r_5,$ $\\overline{r}_5,$ ambapo upau unaashiria muunganisho changamano. Pata thamani ya \\[\\frac 1{r_1\\overline{r}_1}+\\frac 1{r_2\\overline{r}_2}+\\frac 1{r_3\\overline{r}_3}+\\frac 1{r_4 \\jumla{r}_4}+\\frac 1{r_5\\overline{r}_5}.\\]",
+  "answer": "850"
+ },
+ {
+  "question": " Eleza usemi $ab+5b+2a+10$.",
+  "answer": "(a+5)(b+2)"
+ },
+ {
+  "question": "Acha $\\lambda$ iwe ya kudumu, $0 \\le \\lambda \\le 4,$ na $f : [0,1] \\to [0,1]$ ifafanuliwe na \\[f(x) = \\lambda x (1 - x).\\]Tafuta thamani za $\\lambda,$0 \\le \\lambda \\le 4,$ ambayo kuna $x \\katika [0,1]$ kiasi kwamba $f(x) \\neq x$ lakini $f(f(x)) = x.$",
+  "answer": "(3,4]"
+ },
+ {
+  "question": " Grafu za $x^2 + y^2 + 6x - 24y + 72 = 0$ na $x^2 - y^2 + 6x + 16y - 46 = 0$ hupishana kwa pointi nne. Kokotoa jumla ya umbali kutoka kwa nukta hizi nne hadi uhakika $(-3,2).$",
+  "answer": "40"
+ },
+ {
+  "question": "Kwa kaunti nane zilizoorodheshwa hapa chini, idadi ya wastani ya wanafunzi ilikuwa kiasi gani katika $2005?$ \\begin{tabular}[t]{|l|c|c|c|c|c|} \\multicolumn{6}{c} \\textbf{Idadi ya Wanafunzi kwa kila Kaunti}}\\\\\\hline \\textbf{COUNTY}&\\textbf{$2001$}&\\textbf{$2002$}&\\textbf{$2003$}&\\textbf{$2004$}&\\textbf{$2005$}\\\\\\hline Aiken&124&141&130&130&14&13&13 Bamberg&17&15&15&14&11\\\\\\hline Barnwell&25&22&26&28&29\\\\\\hline Berkeley&583&557&554&553&524\\\\\\hline Calhoun&15&12&10&18&11\\\\hline Cherokee&19&13&18&13&19\\\\\\hline Chesterfield&46&18&13&22&29\\\\\\hline Colleton&64&49&52&46&41\\\\\\hline \\end{tabular}",
+  "answer": "29"
+ },
+ {
+  "question": " Ni kwa thamani gani ya $y$ kuna asymptote mlalo ya grafu ya mlinganyo $y=\\frac{4x^3+2x-4}{3x^3-2x^2+5x-1}$?",
+  "answer": "\\frac43"
+ },
+ {
+  "question": "Ni vipengele vingapi vilivyo kwenye makutano ya seti ya nambari kuu zote chini ya 30 na seti ya nambari zote zisizo za kawaida kubwa kuliko sifuri?",
+  "answer": "9"
+ },
+ {
+  "question": " Acha $F_1$ na $F_2$ ziwe kiini cha duaradufu $kx^2 + y^2 = 1,$ ambapo $k > 1$ ni ya kudumu. Tuseme kwamba kuna mduara ambao unapitia $F_1$ na $F_2$ na ambao uko tangent kwa duaradufu katika pointi mbili kwenye mhimili wa $x$. Kokotoa $k.$",
+  "answer": "2"
+ },
+ {
+  "question": " Tafuta kipimo cha shahada cha pembe chanya angalau $\\theta$ ambayo \\[\\tan \\theta = \\frac{\\cos 5^\\circ \\cos 20^\\circ + \\cos 35^\\circ \\cos 50^\\circ - \\dhambi 5^\\zingira \\dhambi 20^\\zingira - \\dhambi 35^\\zingira \\dhambi 50^\\circ}{\\dhambi 5^\\circ \\cos 20^\\circ - \\dhambi 35^\\circ \\cos 50^\\circ + \\cos 5^\\circ \\sin 20^\\circ - \\cos 35^\\circ \\sin 50^\\circ}.\\]",
+  "answer": "120^\\circ"
+ },
+ {
+  "question": "Msururu unaoongezeka wa nambari kamili $a_1$, $a_2$, $a_3$, $\\dots$ ina sifa ambayo kwa kila nambari kamili $k$, inayofuata $a_{2k-1}$, $a_{2k }$, $a_{2k+1}$ ni kijiometri na inayofuata $a_{2k}$, $a_{2k+1}$, $a_{2k+2}$ ni hesabu. Tuseme kuwa $a_{13} = 2016$. Tafuta $a_1$.",
+  "answer": "504"
+ },
+ {
+  "question": " Bwana Brennan ana wavulana 7 na wasichana 4 katika darasa lake la takwimu. Je, ni kwa njia ngapi anaweza kuchagua wavulana 3 na wasichana 2 kutoa wasilisho la kikundi kesho? (Mpangilio ambao wavulana na wasichana huchaguliwa haijalishi.)",
+  "answer": "210"
+ },
+ {
+  "question": " Rahisisha $\\frac{1+\\sqrt{2}}{2+\\sqrt{3}}$. Suluhisho lako linaweza kubadilishwa kuwa fomu $A(1+\\sqrt{B})-(\\sqrt{C}+\\sqrt{D})$, ambapo $A$, $B$, $C$, na $ D$ ni nambari kamili chanya. $A+B+C+D$ ni nini?",
+  "answer": "13"
+ },
+ {
+  "question": " Ni thamani gani ya $(26^2 - 24^2 - 10)^2 - 10^2$?",
+  "answer": "8000"
+ },
+ {
+  "question": " Tafuta bidhaa $CD$ ya nambari kamili $C$ na $D$ ambayo \\[\\frac{C}{x-3}+\\frac{D}{x+8}=\\frac{4x-23} x^2+5x-24}\\]kwa thamani zote halisi za $x$ isipokuwa $-8$ na $3$.",
+  "answer": "-5"
+ },
+ {
+  "question": "Bainisha idadi ya njia za kupanga herufi za neno ELLIPSE.",
+  "answer": "1260"
+ },
+ {
+  "question": " Tatua kwa $x$: $2^{2x} = 256^\\frac{1}{2}$.",
+  "answer": "2"
+ },
+ {
+  "question": " Ikiwa $\\sqrt{3x-5}=2$, tafuta thamani zote zinazowezekana za $x$.",
+  "answer": "3"
+ },
+ {
+  "question": " Tafuta idadi ya jozi zilizoagizwa $(a,b)$ za nambari kamili kama $|a + bi| \\le 5.$",
+  "answer": "81"
+ },
+ {
+  "question": " Usemi $$1 + 2 + 3 - 4 + 5 + 6$$ ni sawa na 13. Tukiongeza mabano katika maeneo mbalimbali, tunaweza kubadilisha thamani hii. Kwa mfano, $1+2+3-(4+5)+6=1+2+3-9+6=6-9+6=3$. Ikiwa tutaongeza mabano pekee (na tusipange upya mpangilio wa masharti), ni thamani gani ya chini inayowezekana ambayo usemi huu unaweza kupata? (Kwa madhumuni ya tatizo hili, hatuwezi kubadilisha kuongeza au kutoa kuwa kuzidisha. Kwa mfano, $ (1+2+3)(-4)+5+6 $ si uwekaji sahihi wa mabano.) Andika jibu lako kama thamani moja.",
+  "answer": "-9"
+ },
+ {
+  "question": " Acha $f(x)$ iwe kitendakazi kisicho cha kawaida, na acha $g(x)$ kiwe kitendakazi sawasawa. $f(f(g(f(g(f(x)))))))$ ni sawa, isiyo ya kawaida, au hakuna? Ingiza \"isiyo ya kawaida\", \"hata\", au \"wala\".",
+  "answer": "\\text{even}"
+ },
+ {
+  "question": "Tatua kwa $x$: $\\frac{x}2 + \\frac{x}3 = 5$",
+  "answer": "6"
+ },
+ {
+  "question": " Daniel anafanya kazi katika duka la vifaa vya elektroniki, na anadai kwamba umaarufu wa televisheni (unaopimwa kwa idadi ya mauzo) unalingana na gharama yake. Ikiwa wateja 15 watanunua televisheni inayogharimu $\\$$1500, kulingana na nadharia ya Daniel, ni wateja wangapi wangenunua televisheni inayogharimu $\\$2500?",
+  "answer": "9"
+ },
+ {
+  "question": " Katika mchoro, $D$ na $E$ ni sehemu za kati za $\\overline{AB}$ na $\\overline{BC}$ mtawalia. Bainisha eneo la quadrilateral $DBEF$. [asy] ukubwa (180); defaultpen(linewidth(.7pt)+fontsize(10pt)); jozi A, B, C, D, E, F; A=(0,6); B=(0,0); C=(8,0); D=(0,3); E=(4,0); F=(8/3,2); kuchora(E--A--C--D); chora((-1,0)--(10,0), EndArrow); chora((0,-1)--(0,8), EndArrow); lebo(\"$A(0,6)$\", A, W); lebo(\"$B(0,0)$\", B, SW); lebo(\"$C(8,0)$\", C, S); lebo(\"$D$\", D, W); lebo(\"$E$\", E, S); lebo(\"$F$\", F, SW); lebo(\"$x$\", (10,0), dir(0)); lebo(\"$y$\", (0,8), dir(90)); [/asy]",
+  "answer": "8"
+ },
+ {
+  "question": "Ikiwa $|x+5|-|3x-6|=0$, tafuta thamani kubwa zaidi iwezekanayo ya $x$. Eleza jibu lako kama sehemu isiyofaa.",
+  "answer": "\\frac{11}{2}"
+ },
+ {
+  "question": " Tathmini $\\lceil (3.6)^2 \\rceil - ( \\lceil 3.6 \\rceil ) ^2$.",
+  "answer": "-3"
+ },
+ {
+  "question": " Acha $F(z)=\\frac{z+i}{zi}$ kwa nambari zote changamano $z\\not= i,$ na uruhusu $z_n=F(z_{n-1})$ kwa nambari zote chanya $ n.$ Kwa kuzingatia kwamba $z_0=\\frac 1{137}+i,$ find $z_{2002}.$",
+  "answer": "1+274i"
+ },
+ {
+  "question": " Tumia $555_{10}$ kwa msingi wa $5$.",
+  "answer": "4210_{5}"
+ },
+ {
+  "question": " Suzanne hutembea maili nne kila siku ya tatu. Ni maili gani chache zaidi anazoweza kutembea mnamo Februari?",
+  "answer": "36"
+ },
+ {
+  "question": " Katika pembetatu $ABC$, $AB = 17$, $AC = 8$, na $BC = 15$. Acha $D$ iwe sehemu ya mwinuko kutoka $C$ hadi $AB$. Tafuta eneo la pembetatu $ACD$.",
+  "answer": "\\frac{3840}{289}"
+ },
+ {
+  "question": " Ni nambari gani kamili $n$ inatosheleza $0\\le n<18$ na $$n\\equiv -11213141\\pmod{18}~?$$",
+  "answer": "13"
+ },
+ {
+  "question": " Ikiwa $f(x)=ax^4-bx^2+x+5$ na $f(-3)=2,$ basi thamani ya $f(3)$ ni ipi?",
+  "answer": "8"
+ },
+ {
+  "question": " Rick anafikiria kipengele chanya cha $14$ na Steve anafikiria kipengele chanya cha $42$. Ikiwa Rick na Steve wanafikiria nambari sawa, ni nambari ngapi wanazoweza kufikiria?",
+  "answer": "4"
+ },
+ {
+  "question": "Katika pembe nne mbonyeo, kipimo cha pembe kubwa zaidi ni mara mbili ya kipimo cha pembe ndogo zaidi, na pembe nyingine mbili zote ni pembe za kulia. Je! ni digrii ngapi kwenye pembe kubwa zaidi?",
+  "answer": "120"
+ },
+ {
+  "question": " Acha $F_1 = (10,2)$ na $F_ 2= (-16,2).$ Kisha seti ya pointi $P$ vile \\[|PF_1 - PF_2| = 24\\]kuunda hyperbola. Mlinganyo wa hyperbola hii unaweza kuandikwa kama \\[\\frac{(x - h))^2}{a^2} - \\frac{(y - k)^2}{b^2} = 1.\\]Tafuta $h + k + a + b.$",
+  "answer": "16"
+ },
+ {
+  "question": " Je, ni sufuri ngapi mwisho wa $42!$ (42 factorial)? (Kikumbusho: Nambari $n!$ ni bidhaa ya nambari kamili kutoka 1 hadi $n$. Kwa mfano, $5!=5\\cdot 4\\cdot3\\cdot2\\cdot 1= 120$.)",
+  "answer": "9"
+ },
+ {
+  "question": " Acha $(a_1, a_2, \\dots, a_n)$ iwe mfuatano wa nambari halisi chanya, hivi kwamba \\[\\sum_{i = 1}^n a_i = 96, \\quad \\sum_{i = 1}^n a_i ^2 = 144, \\quad \\sum_{i = 1}^n a_i^3 = 216.\\]Tafuta jumla ya thamani zote zinazowezekana za $n.$",
+  "answer": "64"
+ },
+ {
+  "question": " Onyesha mgawo $413_5 \\div 2_5$ katika msingi wa 5.",
+  "answer": "204_5"
+ },
+ {
+  "question": "Bob na Alice kila mmoja ana begi ambalo lina mpira mmoja wa kila rangi, bluu, kijani kibichi, chungwa, nyekundu na zambarau. Alice kwa nasibu anachagua mpira mmoja kutoka kwa begi lake na kuuweka kwenye begi la Bob. Kisha Bob anachagua bila mpangilio mpira mmoja kutoka kwa begi lake na kuuweka kwenye begi la Alice. Je, ni uwezekano gani kwamba baada ya mchakato huu yaliyomo ya mifuko miwili ni sawa?",
+  "answer": "\\frac{1}{3}"
+ },
+ {
+  "question": " Pata thamani ya juu zaidi ya \\[f(x,y) = x \\sqrt{1 - y^2} + y \\sqrt{1 - x^2},\\]ambapo $-1 \\le x,$ $y \\ na 1.$",
+  "answer": "1"
+ },
+ {
+  "question": " Acha $n$ iwe nambari kamili chanya. Ni thamani gani kuu inayowezekana ya $\\gcd(n + 7, 2n + 1)$?",
+  "answer": "13"
+ },
+ {
+  "question": " Zach ana mifuko mitatu na rundo la penseli za kuwekwa kwenye mifuko. Anaambiwa aweke idadi kubwa zaidi ya penseli iwezekanavyo katika kila moja ya mifuko hiyo mitatu huku pia akiweka idadi ya penseli katika kila mfuko sawa. Ni idadi gani kubwa zaidi ya penseli ambazo angeweza kubaki nazo?",
+  "answer": "2"
+ },
+ {
+  "question": "Kamati ya Seneti ina Wanademokrasia 5, Republican 5 na 1 Independent. Je, ni kwa njia ngapi wanaweza kuketi kuzunguka meza ya duara ikiwa wanachama wote wa kila chama wanakaa pamoja? (Viti viwili vinachukuliwa kuwa sawa ikiwa moja ni mzunguko wa nyingine.)",
+  "answer": "28800"
+ },
+ {
+  "question": " Pointi $O,$ $A,$ na $B$ zinatosheleza $\\overrightarrow{OA} = \\begin{pmatrix} 1 \\\\ 2 \\\\ 3 \\end{pmatrix}$ na $\\overrightarrow{OB} = \\anza {pmatrix} -3 \\\\ -2 \\\\ 1 \\mwisho{pmatrix}.$ Tafuta eneo la pembetatu $OAB.$",
+  "answer": "3 \\sqrt{5}"
+ },
+ {
+  "question": " Mviringo umeainishwa na \\[(x,y) = (t^3 + 7, -3t^2 - 6t - 5).\\]Tafuta mahali ambapo curve inapita kwa $t = 2.$",
+  "answer": "(15,-29)"
+ },
+ {
+  "question": " Acha $z$ iwe nambari changamano kiasi kwamba \\[z + \\frac{1}{z} = \\frac{1 + \\sqrt{5}}{2}.\\]Pata \\[z^{85} + \\\\ frac{1}{z^{85}}.\\]",
+  "answer": "-2"
+ },
+ {
+  "question": " Rahisisha yafuatayo:$$\\frac{3}{\\sqrt{27}}$$",
+  "answer": "\\frac{\\sqrt{3}}{3}"
+ },
+ {
+  "question": " Acha $x,$ $y,$ na $z$ ziwe nambari halisi chanya ili $xyz = 2.$ Pata thamani ya chini zaidi ya \\[x^4 + 4y^2 + 4z^4.\\]",
+  "answer": "16"
+ },
+ {
+  "question": " Tatua mlingano ufuatao wa $x$: \\[ \\ \\frac{2}{3} = \\frac{4}{x-5}.\\]",
+  "answer": "11"
+ },
+ {
+  "question": "Ikiwa umri wa Rosa umegawanywa na 2, 3, 4, au 6, salio ni 1. Ikiwa umri wake umegawanywa na 7, salio ni 0. Ana umri wa chini ya miaka 75. Rosa ana miaka mingapi?",
+  "answer": "49"
+ },
+ {
+  "question": " Kwa kila nambari kamili $n$, acha $\\text{mod}_5 (n)$ iwe salio linalopatikana wakati $n$ imegawanywa na 5. Bainisha chaguo la kukokotoa $f: \\{0,1,2,3,\\ nukta\\} \\nyakati \\{0,1,2,3,4\\} \\kwa \\{0,1,2,3,4\\}$ kwa kujirudia kama ifuatavyo: \\[f(i,j) = \\anza{kesi}\\text{mod}_5 (j+1) & \\text{ if } i = 0 \\text{ na } 0 \\le j \\le 4 \\text{,}\\\\ f(i-1, 1) & \\text{ kama } i \\ge 1 \\text{ na } j = 0 \\text{, na} \\\\ f(i-1, f(i,j-1)) & \\text{ if } i \\ge 1 \\maandishi{ na } 1 \\le j \\le 4. \\mwisho{kesi}\\]$f(2015,2)$ ni nini?",
+  "answer": "1"
+ },
+ {
+  "question": " Acha $x_1,$ $x_2,$ $x_3,$ $y_1,$ $y_2,$ na $y_3$ ziwe nambari halisi ambazo \\ zitaanza{align*} (x_1 - x_2)^2 + (y_1 - y_2)^ 2 &= 9, \\\\ (x_1 - x_3)^2 + (y_1 - y_3)^2 &= 16, \\\\ (x_2 - x_3)^2 + (y_2 - y_3)^2 &= 25. \\mwisho{align*}Tafuta $\\anza{vmatrix} x_1 & y_1 & 1 \\\\ x_2 & y_2 & 1 \\\\ x_3 & y_3 & 1 \\ mwisho{vmatrix}^2.$",
+  "answer": "144"
+ },
+ {
+  "question": "Wastani $AD$, $BE$, na $CF$ ya pembetatu $ABC$ hupishana kwenye centroid $G$. Mstari unaopitia $G$ ambao ni sawia na $BC$ unakatiza $AB$ na $AC$ kwa $M$ na $N$, mtawalia. Ikiwa eneo la pembetatu $ABC$ ni 144, basi tafuta eneo la pembetatu $ENG$.",
+  "answer": "8"
+ },
+ {
+  "question": " Seti ya pointi tatu huchaguliwa kwa nasibu kutoka kwa gridi iliyoonyeshwa. Kila seti ya pointi tatu ina uwezekano sawa wa kuchaguliwa. Kuna uwezekano gani kwamba pointi ziko kwenye mstari sawa sawa? [asy] ukubwa (50); kwa (int i=0; i<3; ++i) {kwa (int j=0; j<3; ++j) { nukta((i,j));};} [/asy]",
+  "answer": "\\frac{2}{21}"
+ },
+ {
+  "question": "Mjusi yuko kwenye chumba ambacho kina urefu wa futi 12, upana wa futi 10 na urefu wa futi 8. Kwa sasa mjusi yuko kwenye ukuta wa kando ($10^{\\prime}$ by $8^{\\prime}$), futi moja kutoka kwenye dari na futi moja kutoka kwa ukuta wa nyuma ($12^{\\prime}$ by $8^{ \\prime}$). Mjusi huona nzi kwenye ukuta wa upande mwingine, mguu mmoja kutoka sakafu na mguu mmoja kutoka kwa ukuta wa mbele. Je! ni urefu gani wa njia fupi zaidi ambayo mjusi anaweza kuchukua ili kumfikia nzi akidhania kwamba haruki na anaweza tu kuvuka dari na kuta? Eleza jibu lako kwa njia rahisi kabisa.",
+  "answer": "2\\sqrt{113}"
+ },
+ {
+  "question": " Pointi $(x,y)$ imechaguliwa bila mpangilio kiasi kwamba $0 \\le x \\le 8$ na $0 \\le y \\le 4$. Kuna uwezekano gani kwamba $x+y \\le 4$? Eleza jibu lako kama sehemu ya kawaida.",
+  "answer": "\\frac{1}{4}"
+ },
+ {
+  "question": "Wakimbiaji wawili, $A$ na $B,$ huanza kwa uhakika $O$ kwenye wimbo wa mstari, na kuanza kukimbia katika mwelekeo huo huo. Mwanariadha $B$ hukimbia mara tatu zaidi ya mkimbiaji $A.$ Mtazamaji anasimama kwenye sehemu ya $P$ ili $\\overline{OP}$ iwe ya kipekee kwa wimbo. Pata upeo wa juu wa $\\angle APB,$ kwa digrii. [asy] unitsize(2 cm); jozi A, B, O, P; A = (0.4,0); B = (1.2,0); O = (0,0); P = (0,1); chora((-0.5,0)--(2,0)); kuchora(O--P); kuchora(P--A); chora(P--B); lebo(\"$A$\", A, S); lebo(\"$B$\", B, S); lebo(\"$O$\", O, S); lebo(\"$P$\", P, N); [/asy]",
+  "answer": "30^\\circ"
+ },
+ {
+  "question": " Kokotoa $a+b+c,$ ikizingatiwa kuwa $a,$ $b,$ na $c$ ndio mizizi ya \\[\\frac{1}{x} + 5x^2 = 6x - 24.\\]",
+  "answer": "\\frac65"
+ },
+ {
+  "question": " Je, ni jumla gani ya vizidishio vyote vya 7 kati ya 100 na 200?",
+  "answer": "2107"
+ },
+ {
+  "question": " $x^2+(2.6)x+3.6$ ya robo nne inaweza kuandikwa katika muundo $(x+b)^2+c$, ambapo $b$ na $c$ ni viambajengo. $b+c$ (kama desimali) ni nini?",
+  "answer": "3.21"
+ },
+ {
+  "question": " Bidhaa ya nambari mbili zinazofuatana chanya hata nambari kamili ni 288. Nambari kamili zaidi ni ipi?",
+  "answer": "18"
+ },
+ {
+  "question": " Tathmini $\\log_264$.",
+  "answer": "6"
+ },
+ {
+  "question": "Kuna uwezekano gani kwamba nambari kamili iliyochaguliwa kwa nasibu katika seti $$\\{1,2,3,\\ldot,100\\}$$ inaweza kugawanywa na 2 na haiwezi kugawanywa na 3? Eleza jibu lako kama sehemu ya kawaida.",
+  "answer": "\\dfrac{17}{50}"
+ },
+ {
+  "question": " Ikiwa $-6\\leq a \\leq -2$ na $3 \\leq b \\leq 5$, ni thamani gani kuu inayowezekana ya $\\displaystyle\\left(a+\\frac{1}{b}\\right)\\left( \\frac{1}{b}-a\\kulia) $? Eleza jibu lako kama sehemu ya kawaida.",
+  "answer": "-\\frac{35}{9}"
+ },
+ {
+  "question": " Rahisisha $\\tan 100^\\circ + 4 \\sin 100^\\circ.$",
+  "answer": "-\\sqrt{3}"
+ },
+ {
+  "question": " Kabati la vitabu lina rafu 3 zenye jumla ya vitabu 24. Rafu ya juu ina vitabu 8 vya siri. Rafu ya kati ina vitabu 10 vya hesabu. Rafu ya chini ina vitabu 6 vya sayansi. Vitabu viwili sasa vimetolewa kwa kila rafu. Ni sehemu gani ya vitabu vilivyobaki kwenye rafu tatu ni vitabu vya hesabu? Eleza jibu lako kama sehemu ya kawaida.",
+  "answer": "\\frac{4}{9}"
+ },
+ {
+  "question": "Mraba na heptagoni ya kawaida ni coplanar na hushiriki upande wa kawaida $\\overline{AD}$, kama inavyoonyeshwa. Ni kipimo gani cha digrii ya angle $BAC$? Eleza jibu lako kama sehemu ya kawaida. [asy] kwa(int i=0; i <=7; ++i) { draw(dir(360*i/7+90)--dir(360*(i+1)/7+90)); } jozi A = dir(360*3/7+90); jozi F = dir (360*4/7+90); jozi C = A+dir(90)*(FA); jozi D = C + FA; jozi B = dir (360*2/7+90); kuchora(A--C--D--F); lebo(\"$A$\",A,S); lebo(\"$B$\",B,W); lebo(\"$C$\",C,SE); lebo(\"$D$\",F,S); [/asy]",
+  "answer": "\\frac{270}7\\text{ degrees}"
+ },
+ {
+  "question": " Kiasi cha koni kinatolewa kwa fomula $V = \\frac{1}{3}Bh$, ambapo $B$ ni eneo la msingi na $h$ ni urefu. Eneo la msingi wa koni ni vitengo vya mraba 30, na urefu wake ni vitengo 6.5. Ni idadi gani ya vitengo vya ujazo katika ujazo wake?",
+  "answer": "65"
+ },
+ {
+  "question": "Kuna jumla ya miraba 70 ya saizi tatu ambazo wima ni pointi kwenye gridi hii ya pointi ya mstatili $3\\mara n$. Thamani ya $n$ ni nini? [asy] unitsize(0.4 inch); nukta((0,0),linewidth(9bp)); nukta((1,0),upana wa mstari(9bp)); nukta((2,0),linewidth(9bp)); nukta((0,1),linewidth(9bp)); nukta((0,2),linewidth(9bp)); nukta((1,1),linewidth(9bp)); nukta((2,1),linewidth(9bp)); nukta((1,2),linewidth(9bp)); nukta((2,2),linewidth(9bp)); kujaza((2.95,-0.05)--(3.05,-0.05)--(3.05,0.05)--(2.95,0.05)--mzunguko,nyeusi); kujaza((2.45,-0.05)--(2.55,-0.05)--(2.55,0.05)--(2.45,0.05)--mzunguko,nyeusi); kujaza((3.45,-0.05)--(3.55,-0.05)--(3.55,0.05)--(3.45,0.05)--mzunguko,nyeusi); kujaza((2.95,0.95)--(3.05,0.95)--(3.05,1.05)--(2.95,1.05)--mzunguko,nyeusi); kujaza((2.45,0.95)--(2.55,0.95)--(2.55,1.05)--(2.45,1.05)--mzunguko,nyeusi); kujaza((3.45,0.95)--(3.55,0.95)--(3.55,1.05)--(3.45,1.05)--mzunguko,nyeusi); kujaza((2.95,1.95)--(3.05,1.95)--(3.05,2.05)--(2.95,2.05)--mzunguko,nyeusi); kujaza((2.45,1.95)--(2.55,1.95)--(2.55,2.05)--(2.45,2.05)--mzunguko,nyeusi); kujaza((3.45,1.95)--(3.55,1.95)--(3.55,2.05)--(3.45,2.05)--mzunguko,nyeusi); nukta((4,0),linewidth(9bp)); nukta((5,0),linewidth(9bp)); nukta((4,1),upana wa mstari(9bp)); nukta((5,1),linewidth(9bp)); nukta((4,2),linewidth(9bp)); nukta((5,2),linewidth(9bp)); [/asy]",
+  "answer": "19"
+ },
+ {
+  "question": "Ni idadi gani ya vitengo vya mraba katika eneo la pembetatu ambayo pande zake hupima vitengo 5, 5 na 6?",
+  "answer": "12"
+ },
+ {
+  "question": " Tafuta bidhaa ya viwianishi vya $y$-ya suluhu zote tofauti $(x,y)$ kwa milinganyo miwili $y=x^2-8$ na $y^2=-5x+44$.",
+  "answer": "1736"
+ },
+ {
+  "question": " Louis na Jack wanashiriki pai. Louis anakula $\\frac{1}{5}$ ya pai, na Jack anakula $\\frac{2}{3}$ ya pai. Louis na Jack wanakula pai ngapi kwa pamoja?",
+  "answer": "\\frac{13}{15}"
+ },
+ {
+  "question": " Ikiwa muhula wa nne wa mfuatano wa hesabu ni $200$ na muhula wa nane ni $500$, muhula wa sita ni upi?",
+  "answer": "350"
+ },
+ {
+  "question": " Zingatia mfululizo wa kijiometri $4+\\frac{12}{a}+\\frac{36}{a^2}+\\cdots$. Ikiwa jumla ni mraba kamili, ni thamani gani ndogo inayowezekana ya $a$ ambapo $a$ ni nambari kamili chanya?",
+  "answer": "4"
+ },
+ {
+  "question": " Je, je, grafu ya parabola $x = y^2 - 4y - 1$ ina vipatashi vingapi vya $y$?",
+  "answer": "2"
+ },
+ {
+  "question": " Ikiwa $m$ na $n$ ni nambari kamili kiasi kwamba $3m + 4n = 100$, ni thamani gani ndogo zaidi ya $\\left| m - n \\kulia|$ ?",
+  "answer": "3"
+ },
+ {
+  "question": " Badilisha $\\frac{21}{2^2 \\cdot 5^7}$ kuwa desimali ya kusitisha.",
+  "answer": ".0000672"
+ },
+ {
+  "question": "Katika mchoro, miduara minne ya kipenyo cha 1 chenye vituo $P$, $Q$, $R$, na $S$ zimeunganishwa moja kwa nyingine na kwenye kando ya $\\pembetatu ABC$, kama inavyoonyeshwa. [asy] ukubwa (200); jozi A, B, C, P, Q, R, S; R=(0,0); Q=(-2,0); S=(2,0); P=(1,1.732); B=(-5.73,-1); C=(3.732,-1); A=(1.366,3.098); chora(A--B--C--A); chora(mduara(P, 1)); chora(mduara(Q, 1)); chora(mduara(R, 1)); chora(mduara(S, 1)); lebo(\"A\", A, N); lebo(\"B\", B, SW); lebo (\"C\", C, SE); nukta (P); nukta (Q); nukta (R); nukta (S); lebo(\"P\", P, N); lebo(\"Q\", Q, SW); lebo(\"R\", R, SW); lebo(\"S\", S, SE); [/asy] Je, kipimo cha digrii cha pembe ndogo zaidi katika pembetatu $PQS$ ni kipi?",
+  "answer": "30^\\circ"
+ },
+ {
+  "question": " Nini mzizi chanya wa bidhaa $10 \\mara 15 \\mara 24$?",
+  "answer": "60"
+ },
+ {
+  "question": " Tafuta mlingano wa ndege iliyo na pointi $(0,-1,-1),$ $(-4,4,4),$ na $(4,5,1).$ Andika jibu lako katika fomu \\\\ [Ax + By + Cz + D = 0,\\]ambapo $A,$$B,$$C,$$D$ ni nambari kamili kiasi kwamba $A > 0$ na $\\gcd(|A|,|B| ,|C|,|D|) = 1.$",
+  "answer": "5x - 7y + 11z + 4 = 0"
+ },
+ {
+  "question": "Je, ni tarakimu ngapi chanya za tarakimu mbili ambazo ni vipengele vya 100 na 150?",
+  "answer": "3"
+ },
+ {
+  "question": " Rahisisha na uandike matokeo kwa kiashiria cha kimantiki: $$\\sqrt{\\sqrt[3]{\\sqrt{\\frac{1}{729}}}$$",
+  "answer": "\\frac{\\sqrt{3}}{3}"
+ },
+ {
+  "question": " Theluthi mbili ya wanafunzi katika Shule ya Kati ya Baker huchukua muziki. Kuna wanafunzi 834 wanaochukua muziki. Je, kuna wanafunzi wangapi katika Shule ya Kati ya Baker?",
+  "answer": "1251"
+ },
+ {
+  "question": " Ikiwa tutaandika $\\sqrt{2}+\\frac{1}{\\sqrt{2}} + \\sqrt{3} + \\frac{1}{\\sqrt{3}}$ kwa njia ya $\\dfrac{a \\sqrt{2} + b\\sqrt{3}}{c}$ kiasi kwamba $a$, $b$, na $c$ ni nambari kamili chanya na $c$ ni ndogo iwezekanavyo, basi ni nini $a+b+c$?",
+  "answer": "23"
+ },
+ {
+  "question": " Acha $a,$$b,$ na $c$ ziwe nambari halisi chanya. Tafuta seti ya thamani zote zinazowezekana za \\[\\frac{c}{a} + \\frac{a}{b + c} + \\frac{b}{c}.\\]",
+  "answer": "(2,\\infty)"
+ },
+ {
+  "question": " Tafuta $k$, ikiwa ${(3^k)}^6=3^6$.",
+  "answer": "1"
+ },
+ {
+  "question": " Je, ni nambari ngapi chanya $n>1$ ni kweli kwamba $2^{24}$ ni nguvu kamili ya $n^{\\text{th}}$?",
+  "answer": "7"
+ },
+ {
+  "question": " Hillary ana sarafu kumi na moja, dime na nikeli zote. Kwa jumla, sarafu zina thamani ya senti 75. Je, ana nikeli ngapi?",
+  "answer": "7"
+ },
+ {
+  "question": "Pata thamani kubwa zaidi ya $x$-thamani ambapo grafu za $f(x)=e^{3x^2-|\\floor x \\floor|!}+\\binom{22+735235|\\floor x \\floor|} {2356}+\\phi(|\\sakafu x \\saka|+1)+72x^4+3x^3-6x^2+2x+1$ na $g(x)=e^{3x^2-|\\floor x \\floor|!}+\\binom{22+735235|\\floor x \\floor |}{2356}+\\phi(|\\floor x \\floor |+1)+72x^4+4x^3-11x^2-6x+13$ hukatiza, ambapo $\\floor x \\floor$ inaashiria utendakazi wa sakafu ya $x$, na $\\phi(n)$ inaashiria jumla ya nambari kamili chanya $\\le$ na kuu kwa $n$.",
+  "answer": "6"
+ },
+ {
+  "question": "Alama tano $A$, $B$, $C$, $D$, na $O$ ziko kwenye uwanja tambarare. $A$ iko moja kwa moja kaskazini mwa $O$, $B$ iko moja kwa moja magharibi mwa $O$, $C$ iko kusini moja kwa moja ya $O$, na $D$ iko mashariki moja kwa moja ya $O$. Umbali kati ya $C$ na $D$ ni 140 m. Puto ya hewa-moto imewekwa angani kwa $H$ moja kwa moja juu ya $O$. Puto linashikiliwa kwa kamba nne $HA$, $HB$, $HC$, na $HD$. Kamba $HC$ ina urefu wa mita 150 na kamba $HD$ ina urefu wa 130 m. [asy] ukubwa (250); jozi A, B, C, D, O, H, W, X, Y, Z; O=(0,0); A=(1,1); D=(1.5,-.3); B=(-1.5,.3); C=(-1,-1); H=(0,2.5); W=(5/3)*(A+D); X=(5/3)*(A+B); Y=(-1)*(W); Z=(-1)*(X); kuchora(W--X--Y--Z--W); kuchora(A--C); chora(B--D); chora(O--H, upana wa mstari(1)); kuchora (A--H, iliyopigwa); kuchora (B--H, iliyopigwa); kuchora (C--H, iliyopigwa); kuchora (D--H, iliyopigwa); nukta (A); nukta (B); nukta (C); nukta (D); nukta (O); nukta (H); lebo(\"A\", A, NE); lebo(\"B\", B, SW); lebo(\"C\", C, SE); lebo(\"D\", D, NE); lebo(\"O\", O, SE); lebo(\"H\", H, NW); [/asy] Ili kupunguza jumla ya urefu wa kamba iliyotumika, kamba $HC$ na kamba $HD$ zitabadilishwa na kamba moja $HP$ ambapo $P$ ni ncha kwenye mstari ulionyooka kati ya $C$ na $ D$. (Puto inasalia katika nafasi ile ile $H$ zaidi ya $O$ kama ilivyoelezwa hapo juu.) Bainisha urefu mkubwa zaidi wa kamba unaoweza kuhifadhiwa.",
+  "answer": "160"
+ },
+ {
+  "question": "Paul na Jesse kila mmoja huchagua nambari bila mpangilio kutoka kwa matoleo sita ya kwanza. Kuna uwezekano gani kwamba jumla ya nambari wanazochagua ni sawa?",
+  "answer": "\\frac{13}{18}"
+ },
+ {
+  "question": " Hoja $(a, b)$ iko kwenye mstari na equation $3x + 2y = 12.$ Wakati $a = 4$, thamani ya $b$ ni nini?",
+  "answer": "0"
+ },
+ {
+  "question": " Katika $\\pembetatu PQR$, tuna $PQ = QR = 34$ na $PR = 32$. Tafuta urefu wa wastani $\\overline{QM}$.",
+  "answer": "30"
+ },
+ {
+  "question": " Polynomia yenye viambajengo kamili ni vya umbo \\[2x^4 + a_3 x^3 + a_2 x^2 + a_1 x + 1 = 0.\\]Tafuta idadi ya mizizi tofauti ya kimantiki inayowezekana ya polynomia hii.",
+  "answer": "4"
+ },
+ {
+  "question": " Pata thamani ya juu zaidi ya \\[\\frac{x - y}{x^4 + y^4 + 6}\\]juu ya nambari zote halisi $x$ na $y.$",
+  "answer": "\\frac{1}{4}"
+ },
+ {
+  "question": " Acha $p(x)$ iwe monic polynomial ya shahada ya 4. Mizizi mitatu ya $p(x)$ ni 1, 2, na 3. Tafuta $p(0) + p(4).$",
+  "answer": "24"
+ },
+ {
+  "question": " $441+2(21)(19)+361=x$. Tatua kwa $x$.",
+  "answer": "1600"
+ },
+ {
+  "question": "Ikiwa $x^3$ ni kipengele chanya cha $10!,$ ni nambari ngapi kamili zinazowezekana za $x$? (Kikumbusho: Kwa nambari kamili $n$, usemi $n!$ unawakilisha bidhaa ya nambari kamili kutoka 1 hadi (na ikijumuisha) $n$.)",
+  "answer": "6"
+ },
+ {
+  "question": " Ni kwa njia ngapi wasichana 6 na wavulana 2 wanaweza kukaa katika safu ikiwa wavulana 2 wanasisitiza kukaa karibu na kila mmoja?",
+  "answer": "10,\\!080"
+ },
+ {
+  "question": " Wastani wa hesabu wa 7, 2, $x$ na 10 ni 9. Thamani ya $x$ ni nini?",
+  "answer": "17"
+ },
+ {
+  "question": " Ikiwa daps 4 = yaps 7, na yaps 5 = mibepu 3, ni dapu ngapi sawa na mipigo 42?",
+  "answer": "40"
+ },
+ {
+  "question": " Kundi la wanafunzi $N$, ambapo $N <50$, wako kwenye safari ya uga. Ikiwa mwalimu wao atawaweka katika vikundi vya watu 8, kundi la mwisho lina wanafunzi 5. Ikiwa mwalimu wao badala yake atawaweka katika vikundi vya watu 6, kundi la mwisho lina wanafunzi 3. Je, ni jumla gani ya thamani zote zinazowezekana za $N$?",
+  "answer": "66"
+ },
+ {
+  "question": "Alice na Bob wanacheza mchezo. Alice anaanza kwanza. Kwa upande wa Alice, yeye flips sarafu. Ikiwa anapata vichwa, anashinda. Ikiwa sivyo, inakuwa zamu ya Bob. Kwa upande wa Bob, anarusha sarafu. Ikiwa anapata mkia, anashinda. Ikiwa sivyo, inakuwa zamu ya Alice. Je, kuna uwezekano gani kwamba Alice atashinda mchezo?",
+  "answer": "\\frac{2}{3}"
+ },
+ {
+  "question": " Tafuta salio wakati $(5x + 9)^{611} + (x + 5)^{11} + (x - 1)^{11} + 3x^2 + 1$ inagawanywa kwa $x + 2.$",
+  "answer": "12"
+ },
+ {
+  "question": " Acha $a,$ $b,$ $c,$ $d$ ziwe nambari tata tofauti kama vile $|a| = |b| = |c| = |d| = 1$ na $a + b + c + d = 0.$ Pata thamani ya juu zaidi ya \\[|(a + b)(a + c)(a + d)(b + c)(b + d)( c + d)|.\\]",
+  "answer": "0"
+ },
+ {
+  "question": " Acha $\\mathbf{A}$ iwe tumbo kiasi kwamba \\[\\mathbf{A} \\inaanza{pmatrix} 3 \\\\ 1 \\\\ 0 \\end{pmatrix} = \\anza{pmatrix} 2 \\\\ 4 \\\\ - 3 \\mwisho{pmatrix} \\quad \\maandishi{na} \\quad \\mathbf{A} \\anza{pmatrix} -5 \\\\ 2 \\\\ 2 \\mwisho{pmatrix} = \\anza{pmatrix} 0 \\\\ -5 \\\\ -5 \\mwisho{pmatrix}.\\]Tafuta $\\mathbf{A} \\anza{pmatrix} -13 \\\\ 3 \\\\ 4 \\mwisho {pmmatrix}.$",
+  "answer": "\\begin{pmatrix} -2 \\\\ -14 \\\\ -7 \\end{pmatrix}"
+ },
+ {
+  "question": "Mstari huwekwa kulingana na \\[\\anza{pmatrix} x \\\\ y \\end{pmatrix} = \\anza{pmatrix} 8 \\\\ -1 \\mwisho{pmatrix} + t \\anza{pmatrix} 2 \\\\ 3 \\mwisho {pmatrix}.\\]Mlinganyo wa mstari unaweza kuonyeshwa kwa namna $y = mx + b.$ Ingiza jozi iliyoagizwa $(m,b).$",
+  "answer": "\\left( \\frac{3}{2}, -13 \\right)"
+ },
+ {
+  "question": " Mikka anataka kuagiza pizza na nyongeza mbili tofauti. Ana toppings 8 tofauti za kuchagua. Angeweza kuagiza pizza ngapi tofauti?",
+  "answer": "28"
+ },
+ {
+  "question": " Ni nambari ngapi kati ya mia moja chanya za kwanza zinazoweza kugawanywa kwa $3, 4,$ na $5?$",
+  "answer": "1"
+ },
+ {
+  "question": " Wakati nambari kamili ya tarakimu $``\\text{AB}\"$ inapokatwa, thamani ni $912,\\!673$. $A + B$ ni nini?",
+  "answer": "16"
+ },
+ {
+  "question": "Miraba kumi na mbili 1 kwa 1 huunda mstatili, kama inavyoonyeshwa. Je! ni eneo gani la jumla la eneo lenye kivuli? [asy] ukubwa(4cm);kalamu-msingi(upana wa mstari(0.75)); // Sehemu zilizojaa kujaza ((0, 4)--(0, 0)--(2, 0)--mzunguko, kijivu (0.75)); kujaza((0, 4)--(3, 4)--(3, 0)--mzunguko, kijivu(0.75)); // gridi int j; kwa (j = 0; j < 4; ++j) {chora((j, 0)--(j, 4));} kwa (j = 0; j <5; ++j) {chora(( 0, j)--(3, j));} //diagonal chora((0, 4)--(3, 0)); chora((0, 4)--(2, 0)); [/asy]",
+  "answer": "10"
+ },
+ {
+  "question": " Eleza $5^5\\div5^4-5^3+5^2\\cdot5^1$ kama nambari kamili.",
+  "answer": "5"
+ },
+ {
+  "question": " Hivi majuzi, Frank alifanya jaribio la uwezo wa maswali mia moja ambapo kila jibu sahihi lilipata pointi $5$, kila jibu lisilo sahihi lilipata pointi $-2$, na kila swali ambalo halijajibiwa lilipata pointi sifuri. Frank alijibu maswali $80$ na akapata $232$ pointi. Je, alijibu maswali mangapi kwa usahihi?",
+  "answer": "56"
+ },
+ {
+  "question": " Kokotoa \\[\\sum_{n = 1}^\\infty \\frac{F_{n + 1}}{F_n F_{n + 2}},\\]ambapo $F_n$ inaashiria $n$th nambari ya Fibonacci, kwa hivyo $ F_0 = 0$ na $F_1 = 1.$",
+  "answer": "2"
+ },
+ {
+  "question": "Kuna watu 360 katika shule yangu. 15 kuchukua calculus, fizikia, na kemia, na 15 hawachukui yoyote kati yao. 180 kuchukua calculus. Mara mbili ya wanafunzi wengi huchukua kemia kama kuchukua fizikia. 75 huchukua calculus na kemia, na 75 huchukua fizikia na kemia. 30 pekee huchukua fizikia na calculus. Wanafunzi wangapi wanachukua fizikia?",
+  "answer": "110"
+ },
+ {
+  "question": " Ikiwa $x^2 - x - 1 = 0$, ni nini thamani ya $x^3 - 2x + 1$?",
+  "answer": "2"
+ },
+ {
+  "question": " Katika nchi ya Wino, mfumo wa pesa ni wa kipekee. Trinket Moja ni sawa na Blinkets 4, na Blinkets 3 ni sawa na Vinywaji 7. Katika Trinkets, thamani ya Vinywaji 56 ni nini?",
+  "answer": "6"
+ },
+ {
+  "question": " Ni kizidishi gani kidogo chanya cha 450 ambacho tarakimu zake zote ni sufuri na moja?",
+  "answer": "11,\\! 111,\\! 111,\\! 100"
+ },
+ {
+  "question": " Tafuta katikati ya sehemu ya mstari kati ya $(-5,5)$ na $(3,7)$. Eleza jibu lako kama jozi iliyoagizwa, $(x,y)$.",
+  "answer": "(-1,6)"
+ },
+ {
+  "question": "Gurudumu lililoonyeshwa linasokota mara mbili, ili nambari zilizoonyeshwa na pointer ziamuliwe kwa nasibu (na kila nambari kwenye gurudumu ina uwezekano sawa). Nambari mbili zilizoamuliwa kwa njia hii zimerekodiwa. Nambari ya kwanza imegawanywa na 4, ikiamua moja ya salio 1,2,3 inayoashiria safu wima za ubao wa ukaguzi ulioonyeshwa. Nambari ya pili imegawanywa na 5, ikiamua moja ya mabaki 1,2,3,4 kuashiria safu za ubao wa kuangalia. Hatimaye, kiangalia kinawekwa kwenye mraba ambapo safu wima hii na safu hukutana. Je, kuna uwezekano gani kwamba kiangalia kimewekwa kwenye mraba wenye kivuli wa ubao wa kuangalia? [asy] unitsize(1cm); chora(Mduara((0,0),2),upana wa mstari(0.7)); chora((1.7,1)--(-1.7,-1),upana wa mstari(0.7)); chora((1.7,-1)--(-1.7,1),upana wa mstari(0.7)); chora((0,2)--(0,-2)); lebo(\"1\",(0.8,0.5),NW); lebo(\"2\",(0.8,-0.5),SW); lebo(\"6\",(-0.8,0.5),NE); lebo(\"9\",(-0.8,-0.5),SE); lebo(\"3\",(-0.7,0),W); lebo(\"7\",(0.7,0),E); chora((-2.8,0)--(-2.1,0),Mshale); lebo(\"Pointer\",(-2.8,0),W); jaza((3,0)--(3,1)--(4,1)--(4,0)--mzunguko,kijivu(0.7)); jaza((3,-2)--(3,-1)--(4,-1)--(4,-2)--mzunguko,kijivu(0.7)); jaza((4,1)--(4,2)--(5,2)--(5,1)--mzunguko,kijivu(0.7)); jaza((4,-1)--(4,0)--(5,0)--(5,-1)--mzunguko,kijivu(0.7)); jaza((5,0)--(5,1)--(6,1)--(6,0)--mzunguko,kijivu(0.7)); jaza((5,-2)--(5,-1)--(6,-1)--(6,-2)--mzunguko,kijivu(0.7)); chora((3,-2)--(3,2)--(6,2)--(6,-2)--mzunguko,upana wa mstari(0.7)); chora((3,-1)--(6,-1),upana wa mstari(0.7)); chora((3,0)--(6,0),upana wa mstari(0.7)); chora((3,1)--(6,1),upana wa mstari(0.7)); chora((4,-2)--(4,2),upana wa mstari(0.7)); chora((5,-2)--(5,2),upana wa mstari(0.7)); lebo(\"1\",(3.5,-2),S); lebo(\"2\",(4.5,-2),S); lebo(\"3\",(5.5,-2),S); lebo(\"1\",(3,-1.5),W); lebo(\"2\",(3,-0.5),W); lebo(\"3\",(3,0.5),W); lebo(\"4\",(3,1.5),W); [/asy]",
+  "answer": "\\frac{1}{2}"
+ },
+ {
+  "question": "Sam amebeba ndoo ya maziwa yenye galoni 2 kuelekea nyumbani kwake kutoka kwenye ghala, ambayo ni maili 3 kutoka nyumbani kwake. Walakini, ndoo ina uvujaji ndani yake. Kwa kila maili anayotembea, kuna $\\frac{2}{3}$ kama maziwa mengi kwenye ndoo kama mwanzo wa maili. Ni galoni ngapi za maziwa zitakuwa kwenye ndoo Sam atakaporudi nyumbani?",
+  "answer": "\\frac{16}{27}"
+ },
+ {
+  "question": " Bidhaa ya nambari kamili 240 na $k$ ni mchemraba kamili. Ni thamani gani ndogo kabisa inayowezekana ya $k$?",
+  "answer": "900"
+ },
+ {
+  "question": " Eneo la $\\pembetatu ABC$ ni sentimita 6 za mraba. $\\overline{AB}\\|\\overline{DE}$. $BD=4BC$. Ni idadi gani ya sentimita za mraba katika eneo la $\\pembetatu CDE$? [asy] chora((-.3,-3)--(.1,1)--(-1,0)--(3,0)--mzunguko); lebo(\"$A$\",(.1,1),N); lebo(\"$B$\",(-1,0),W); lebo(\"$C$\",(0,0),NE); lebo(\"$D$\",(3,0),E); lebo(\"$E$\",(-.3,-3),S); [/asy]",
+  "answer": "54"
+ },
+ {
+  "question": " Je, ni jumla ya tarakimu katika uwakilishi decimal wa sehemu ya $\\frac{4321}{5^7\\cdot2^8}$?",
+  "answer": "14"
+ },
+ {
+  "question": "Tafuta $\\sin 20^\\circ \\dhambi 40^\\circ \\dhambi 60^\\circ \\dhambi 80^\\circ \\dhambi 100^\\circ \\dhambi 120^\\circ \\dhambi 140^\\circ \\dhambi 160^\\circ .$",
+  "answer": "\\frac{9}{256}"
+ },
+ {
+  "question": " Nini thamani ya $$ (3x-2)(4x+1)-(3x-2)4x+1 $$ wakati $x=4$?",
+  "answer": "11"
+ },
+ {
+  "question": " Je, kuna njia ngapi za kuweka mipira 5 kwenye masanduku 2 ikiwa mipira haiwezi kutofautishwa na pia masanduku?",
+  "answer": "3"
+ },
+ {
+  "question": " Kwa $c,$ mara kwa mara katika viwianishi vya silinda $(r,\\theta,z),$ pata umbo lililoelezewa na mlinganyo \\[z = c.\\](A) Mstari (B) Mduara (C) Ndege (D ) Tufe (E) Silinda (F) Koni Ingiza herufi ya chaguo sahihi.",
+  "answer": "\\text{(C)}"
+ },
+ {
+  "question": " Kwa pointi $P,$ acha $d_1,$ $d_2$ na $d_3$ inawakilisha umbali kutoka $P$ hadi ndege $x - z = 0,$ $x - 2y + z = 0,$ na $x + y + z = 0.$ Acha $S$ iwe seti ya pointi $P$ hivi kwamba \\[d_1^2 + d_2^2 + d_3^2 = 36.\\]Tafuta eneo la sauti iliyoambatanishwa na $S.$",
+  "answer": "288 \\pi"
+ },
+ {
+  "question": "Yann na Camille huenda kwenye mgahawa. Ikiwa kuna vitu 10 kwenye menyu, na kila mmoja anaagiza sahani moja, Yann na Camille wanaweza kuagiza milo mingapi tofauti ikiwa watakataa kuagiza sahani moja? (Haijalishi nani anaagiza nini---Yann kuagiza kuku na Camille kuagiza samaki ni tofauti na Yann kuagiza samaki na Camille kuagiza kuku.)",
+  "answer": "90"
+ },
+ {
+  "question": " Ikizingatiwa kuwa $a,$ $b,$ $c,$ $d,$ $e$ ni nambari halisi ambazo \\\\anza{align*} a + b + c + d + e &= 8, \\\\ a^2 + b^2 + c^2 + d^2 + e^2 &= 16. \\end{align*}Bainisha thamani ya juu zaidi ya $e.$",
+  "answer": "\\frac{16}{5}"
+ },
+ {
+  "question": " Wastani wa umri wa Amy, Ben, na Chris ni miaka 6. Miaka minne iliyopita, Chris alikuwa na umri sawa na Amy sasa. Baada ya miaka minne, umri wa Ben utakuwa $\\frac{3}{5}$ ya umri wa Amy wakati huo. Chris ana miaka mingapi sasa?",
+  "answer": "10"
+ },
+ {
+  "question": " Ikiwa $\\omega^{1997} = 1$ na $\\omega \\neq 1,$ basi tathmini \\[\\frac{1}{1 + \\omega} + \\frac{1}{1 + \\omega^2} + \\dots + \\frac{1}{1 + \\omega^{1997}}.\\]",
+  "answer": "\\frac{1997}{2}"
+ },
+ {
+  "question": "Ikiwa $\\mathbf{a}$ na $\\mathbf{b}$ ni vekta kiasi kwamba $\\|\\mathbf{a}\\| = 2,$ $\\|\\mathbf{b}\\| = 7,$ na \\[\\mathbf{a} \\nyakati \\mathbf{b} = \\anza{pmatrix} 3 \\\\ 2 \\\\ 6 \\mwisho{pmatrix},\\]kisha tafuta pembe ndogo iwezekanavyo kati ya $\\mathbf {a}$ na $\\mathbf{b},$ kwa digrii.",
+  "answer": "30^\\circ"
+ },
+ {
+  "question": " Acha $f$ kiwe kitendakazi kinachofafanuliwa na $f(x) = x^3 - 49x^2 + 623x - 2015,$ na acha $g(x) = f(x + 5).$ Kokotoa jumla ya mizizi ya $g.$",
+  "answer": "34"
+ },
+ {
+  "question": " Kokotoa: $0.\\overline{7}-0.\\overline{4}+0.\\overline{2}$. Eleza jibu lako kama sehemu ya kawaida.",
+  "answer": "\\frac 59"
+ },
+ {
+  "question": " Kokotoa \\[\\frac{1}{\\cos^2 10^\\circ} + \\frac{1}{\\sin^2 20^\\circ} + \\frac{1}{\\sin^2 40^\\circ} .\\]",
+  "answer": "12"
+ },
+ {
+  "question": " Ikiwa $x$, $y$, na $z$ ni chanya na $xy = 24$, $xz = 48$, na $yz = 72$, basi tafuta $x + y + z.$",
+  "answer": "22"
+ },
+ {
+  "question": " Ni thamani gani halisi za $x$ haziko katika kikoa cha $f(x)=\\frac{1}{|x^2+3x-4|+|x^2+9x+20|}$?",
+  "answer": "-4"
+ },
+ {
+  "question": "Sambamba na mistari $y=ax+c$, $y=ax+d$, $y=bx+c$, na $y=bx+d$ ina eneo 18. Sambamba na mistari $y =ax+c$, $y=ax-d$, $y=bx+c$, na $y=bx-d$ ina eneo la 72. Kwa kuzingatia kwamba $a$, $b$, $c$, na $d$ ni nambari kamili chanya, ni thamani gani ndogo kabisa inayowezekana ya $a+b+c+d$?",
+  "answer": "16"
+ },
+ {
+  "question": " Katika mchoro, $PT$ ni sambamba na $QR.$ Je, kipimo cha $\\angle PQR$ katika digrii ni kipi? [asy] chora((0,0)--(10,0),nyeusi+upana wa mstari(1)); chora((0,0)--(10,0),MidArrow); chora((10,0)--(20,0),black+lineupana(1)); chora((0,0)--(-7,10)--(7,10)--(10,0),nyeusi+upana wa mstari(1)); chora((-5,10)--(7,10),MidArrow); lebo(\"$x^{\\circ}$\",(-6,10),SE); lebo(\"$2x^{\\circ}$\",(7,10),SW); lebo(\"$128^{\\circ}$\",(10,0),NE); lebo(\"$P$\",(-7,10),N); lebo(\"$T$\",(7,10),N); lebo(\"$R$\",(10,0),S); lebo(\"$Q$\",(0,0),S); [/asy]",
+  "answer": "116"
+ },
+ {
+  "question": " Umbali mdogo zaidi kati ya asili na nukta kwenye grafu ya $y=\\frac{1}{2}x^2-9$ inaweza kuonyeshwa kama $a$. Tafuta $a^2$.",
+  "answer": "17"
+ },
+ {
+  "question": "Uwekezaji wa $\\$24,\\!000$ unafanywa katika bondi ya serikali ambayo italipa $1\\%$ riba mara mbili kwa mwezi (ikimaanisha kuwa uwekezaji utaongezeka kwa $1\\%$ kila baada ya miezi miwili). Mwishoni mwa miaka mitano, ni kiasi gani cha jumla cha dola katika uwekezaji huu? Eleza jibu lako kwa nambari nzima iliyo karibu nawe.",
+  "answer": "\\$32,\\!348"
+ },
+ {
+  "question": " Pembetatu ina pande zenye kipimo cha kizio 1 na vitengo 3. Urefu wa upande wa tatu ni thamani kamili ya vitengo. Urefu wa upande wa tatu ni upi, katika vitengo?",
+  "answer": "3"
+ },
+ {
+  "question": " Je, kungekuwa na pande ngapi kwenye poligoni mbonyeo ikiwa jumla ya pembe zote isipokuwa moja ya mambo yake ya ndani ni $1070^{\\circ}$?",
+  "answer": "8"
+ },
+ {
+  "question": " Hebu $f(x) = x^{10}+5x^9-8x^8+7x^7-x^6-12x^5+4x^4-8x^3+12x^2-5x-5$. Bila kutumia mgawanyiko mrefu (ambao unaweza kuwa mbaya sana!), pata salio wakati $f(x)$ imegawanywa na $x^2-1$.",
+  "answer": "-13x+3"
+ },
+ {
+  "question": "Marafiki kumi na wawili walikutana kwa chakula cha jioni katika Oscar's Overstuffed Oyster House, na kila mmoja aliagiza mlo mmoja. Sehemu zilikuwa kubwa sana, kulikuwa na chakula cha kutosha kwa watu 18. Ikiwa watashiriki, ni milo mingapi wangeagiza ili kuwa na chakula cha kuwatosha hao 12?",
+  "answer": "8"
+ },
+ {
+  "question": " Acha $p(x)$ iwe polynomial quadratic yenye coefficients integer ambayo ina $4-\\sqrt{11}$ kama mzizi. Kokotoa $\\frac{p(3)}{p(4)}.$",
+  "answer": "\\frac{10}{11}"
+ },
+ {
+  "question": " Imetolewa \\[\\mathbf{A} = \\anza{pmatrix} 3 & 7 \\\\ -1 & -2 \\mwisho{pmatrix},\\]kokota $\\mathbf{A}^{27} + \\mathbf{A}^ {31} + \\mathbf{A}^{40}.$",
+  "answer": "\\begin{pmatrix} -1 & 0 \\\\ 0 & -1 \\end{pmatrix}"
+ },
+ {
+  "question": " Tafuta $\\textbf{odd}$ integer $t$ ya kipekee kiasi kwamba $0<t<23$ na $t+2$ ni kinyume cha $t$ modulo $23$.",
+  "answer": "17"
+ },
+ {
+  "question": " Ikiwa $a$ ni $x$-intercept, $b$ ni $y$-intercept, na $m$ ni mteremko wa mstari na equation $\\frac{x}4 + \\frac{y}{12 } = 1$, basi thamani ya $a + b + m$ ni nini?",
+  "answer": "13"
+ },
+ {
+  "question": "Magari sita huvuta hadi taa nyekundu, moja baada ya nyingine. Katika mwanga, kuna njia tatu, njia moja ya kushoto, moja ya moja kwa moja, na moja ya upande wa kulia. Magari yanaweza kukusanyika kwa njia ngapi ili njia zote tatu ziwe na watu? Kumbuka kwamba ikiwa gari la kwanza linageuka kushoto na la pili linakwenda moja kwa moja, hii inachukuliwa kuwa tofauti na gari la kwanza kwenda moja kwa moja na gari la pili kugeuka kushoto. Kwa maneno mengine, magari yanaweza kutofautishwa, lakini vuta hadi makutano kwa mpangilio maalum.",
+  "answer": "540"
+ },
+ {
+  "question": " Ni thamani gani ya juu zaidi ya $4(x + 7)(2 - x)$, juu ya nambari zote halisi $x$?",
+  "answer": "81"
+ },
+ {
+  "question": " Ni sehemu gani ya futi 2 ni inchi 3? Eleza jibu lako kama sehemu ya kawaida.",
+  "answer": "\\frac{1}{8}"
+ },
+ {
+  "question": " Pat anapaswa kuchagua vidakuzi sita kutoka kwenye trei iliyo na chipsi cha chokoleti pekee, oatmeal na vidakuzi vya siagi ya karanga. Kuna angalau sita ya kila aina hizi tatu za vidakuzi kwenye trei. Ni aina ngapi tofauti za vidakuzi sita zinaweza kuchaguliwa? (Kumbuka kwamba vidakuzi vya aina moja haviwezi kutofautishwa.)",
+  "answer": "28"
+ },
+ {
+  "question": "Tafuta mkunjo uliofafanuliwa na mlinganyo \\[r^2 \\cos 2 \\theta = 4.\\](A) Mstari (B) Mduara (C) Parabola (D) Ellipse (E) Hyperbola Ingiza herufi ya chaguo sahihi.",
+  "answer": "\\text{(E)}"
+ },
+ {
+  "question": " Rahisisha $\\frac{1}{5}\\cdot \\frac{8}{7}\\div \\frac{12}{20}$.",
+  "answer": "\\frac{8}{21}"
+ },
+ {
+  "question": " Je! ni jumla ya eneo gani, katika inchi za mraba, ya mchemraba yenye ujazo wa futi za ujazo $1$?",
+  "answer": "864 \\mbox{ inches}^2"
+ },
+ {
+  "question": " Nina begi iliyo na marumaru ya manjano na bluu ndani yake. Kwa sasa, uwiano wa marumaru ya bluu na marumaru ya njano ni 4: 3. Ikiwa nitaongeza marumaru 5 za bluu na kuondoa marumaru 3 za manjano, uwiano utakuwa 7: 3. Ni marumaru ngapi za bluu zilikuwa kwenye begi kabla sijaongeza zaidi?",
+  "answer": "16"
+ },
+ {
+  "question": " Kokotoa bidhaa ya nambari $5+\\sqrt{3}$ na muunganisho wake mkali.",
+  "answer": "22"
+ },
+ {
+  "question": " Acha $A = (1,-11,2),$ $B = (3,-4,1),$ na $C = (-2,1,-1).$ Kokotoa $\\angle ABC,$ in digrii.",
+  "answer": "120^\\circ"
+ },
+ {
+  "question": " Pembetatu $\\pembetatu ABC$ yenye $\\angle A = 14^\\circ$ imeandikwa kwenye mduara ambapo $AB$ ni kipenyo. Ni digrii ngapi katika $\\angle B$?",
+  "answer": "76^\\circ"
+ },
+ {
+  "question": " Ikiwa $10^x - 10 = 9990,$ $x$ ni sawa na nini?",
+  "answer": "4"
+ },
+ {
+  "question": "Katika poligoni ya kawaida, kipimo cha pembe ya ndani ni mara 6.5 ya kipimo cha pembe ya nje. Je, poligoni ina pande ngapi?",
+  "answer": "15"
+ },
+ {
+  "question": " Katika mchoro ulio hapa chini, quadrilateral $CDEG$ ni mraba yenye $CD = 3$, na quadrilateral $BEFH$ ni mstatili. Ikiwa $BE = 5$, $BH$ ni vitengo ngapi? Eleza jibu lako kama nambari iliyochanganywa. [asy] unitsize(5mm); defaultpen(linewidth(.7pt)+fontsize(8pt)); jozi A=(0,0), B=(3,0), C=(6,0), D=(9,0), Ep=(9,3), G=(6,3); pair F0=bisectorpoint(B,2*Ep-B), H0=bisectorpoint(Ep,2*B-Ep); jozi H=kiendelezi(B,H0,A,G); jozi F=kiendelezi(Ep,F0,A,G); kuchora(H--B--Ep--F--A--D--Ep--G--C); lebo(\"$A$\",A,S); lebo(\"$B$\",B,S); lebo(\"$C$\",C,S); lebo(\"$D$\",D,S); lebo(\"$E$\",Ep,E); lebo(\"$F$\",F,N); lebo(\"$G$\",G,NW); lebo(\"$H$\",H,NW); [/asy]",
+  "answer": "1\\frac{4}{5}"
+ },
+ {
+  "question": " Ni muda gani wa 2003 wa mlolongo wa nambari zisizo za kawaida 1, 3, 5, 7, $\\dots$?",
+  "answer": "4005"
+ },
+ {
+  "question": "Nambari huchaguliwa bila mpangilio kutoka 1 hadi 100, ikijumuisha. Kuna uwezekano gani kwamba nambari ni kizidishio cha 3?",
+  "answer": "\\dfrac{33}{100}"
+ },
+ {
+  "question": " Katika mduara $J$, $HO$ na $HN$ zimeunganishwa kwa mduara katika $O$ na $N$. Tafuta idadi ya digrii katika jumla ya $m\\angle J$ na $m\\pembe H$. [asy] ukubwa (150); kuagiza grafu; jozi J = (0,0), H = (6,0), O, N; njia circ = Circle(J,3); jozi M = katikati(J--H); njia secCirc = Circle(M,3); pair[] tangentPoints = intersectionpoints(circ,secCirc); O =TangentPoints[0]; N =TangentPoints[1]; kuchora(J--N--H--O--mzunguko); kuchora (mzunguko); lebo(\"$H$\",H,E); lebo(\"$J$\",J,W); lebo(\"$N$\",N,S); lebo(\"$O$\",O,NE); [/asy]",
+  "answer": "180^\\circ"
+ },
+ {
+  "question": " Je, ni nini kinachosalia wakati $1 + 2 + 3 + 4 + \\dots + 9 + 10$ inagawanywa na 9?",
+  "answer": "1"
+ },
+ {
+  "question": " Mtaalamu wa hisabati anatamani kuweka medali 2 kati ya medali zake za dhahabu za IMO zisizoweza kutambulika na 2 kati ya medali zake 2 za dhahabu zisizoweza kutofautishwa za IPhO katika safu moja. Ni mipango ngapi tofauti inayowezekana?",
+  "answer": "6"
+ },
+ {
+  "question": "Tikiti moja ya onyesho inagharimu $\\$20$ kwa bei kamili. Susan hununua tikiti za $4$ kwa kutumia kuponi inayompa punguzo la $25\\%$. Pam hununua tikiti za $5$ kwa kutumia kuponi inayompa punguzo la $30\\%$. Pam analipa dola ngapi zaidi ya Susan?",
+  "answer": "10"
+ },
+ {
+  "question": " Kokotoa $997^{-1}$ modulo $1000$. Eleza jibu lako kama nambari kamili kutoka $0$ hadi $999$.",
+  "answer": "333"
+ },
+ {
+  "question": " Ikiwa $0.\\overline{1331}$ imeandikwa kama sehemu $\\frac{a}{b}$ na $a$ na $b$ ikiwa nambari kamili chanya na kigawanyo kikuu cha 1, $a+b$ ni nini? ?",
+  "answer": "1030"
+ },
+ {
+  "question": " Mnamo 1992, kijiko cha gelato kiliweza kununuliwa nchini Italia kwa lita 1200. Gelato hiyo hiyo ingegharimu $\\$1.50$ nchini Marekani Kwa kiwango sawa cha ubadilishaji kati ya lire na dola, ni dola ngapi zingekuwa sawa na lire 1,000,000?",
+  "answer": "1250"
+ },
+ {
+  "question": " Acha $S$ iwe muungano wa seti ya pointi zote ndani ya nonagon ya kawaida yenye urefu wa upande wa $2$ na seti ya pointi zote zisizozidi $1$ kutoka kwa pointi kwenye mzunguko wa nonagon. Je, katika vitengo, mzunguko wa $S$ ni upi?",
+  "answer": "18+2\\pi"
+ },
+ {
+  "question": "Acha $f(x) = 2x-3$ na $g(x) = x+1$. Je, thamani ya $g(f(5)-1)$ ni ipi?",
+  "answer": "7"
+ },
+ {
+  "question": " Je, ni thamani ngapi halisi za $x$ ni $\\sqrt{120-\\sqrt{x}}$ nambari kamili?",
+  "answer": "11"
+ },
+ {
+  "question": " $\\sqrt{53}$ ni nini katika umbo rahisi zaidi?",
+  "answer": "\\sqrt{53}"
+ },
+ {
+  "question": " Nambari kamili ya msingi ya 2 yenye tarakimu nane ni ipi? Eleza jibu lako katika msingi wa 10.",
+  "answer": "255"
+ },
+ {
+  "question": " Katika mchoro, miduara mitatu ya umakini ina radii ya $4,$6,$ na $7.$ Mikoa mitatu imeandikwa $X,$$Y,$ au $Z$ hapa chini. Kati ya mikoa hii mitatu, kuna tofauti gani kati ya eneo la mkoa wenye eneo kubwa na eneo la mkoa wenye eneo dogo? Eleza jibu lako kwa njia kamili. [asy] kuagiza grafu; filldraw(mduara((0,0),7), lightgray, nyeusi+linewidth(1)); kujaza(mduara((0,0),6), kijivu, nyeusi+upana wa mstari(1)); kujaza(mduara((0,0),4), nyeupe, nyeusi+upana wa mstari(1)); nukta ((0,0)); lebo(\"$X$\",(2,0)); lebo(\"$Y$\",(5,0)); lebo(\"$Z$\",(6.5,0)); [/asy]",
+  "answer": "7\\pi"
+ },
+ {
+  "question": "Tuseme $a$ na $b$ ni nambari kuu tofauti kubwa kuliko 2. Je, kuna vigawanyiko vingi vya nambari ngapi kwa nambari kamili $a(2a+b)-2a^{2}+ab$?",
+  "answer": "8"
+ },
+ {
+  "question": " Katika pentagoni ya kawaida $FGHIJ$, kupanua pande za pentagoni, kama inavyoonyeshwa, huunda nyota. Ni kipimo gani cha pembe $A$ kwenye takwimu? [asy] chora((-42.4,30.8)--(-10,30.8)--(0,63.2)--(10,30.8)--(42.4,30.8)--(16.2,11. 8)--(24.9,-18.1)--(0,0)--(-24.9,-18.1)--(-16.2,11.8)--mzunguko,upana wa mstari(1)); chora((-10,30.8)--(10,30.8)--(16.2,11.8)--(0,0)--(-16.2,11.8)--mzunguko,upana wa mstari(1)); lebo(\"$A$\",(-42.4,30.8),W); lebo(\"$F$\",(-10,30.8),NW); nukta ((-10,30.8)); lebo(\"$G$\",(10,30.8),NE); nukta ((10,30.8)); lebo(\"$H$\",(16.2,11.8),E); nukta ((16.2,11.8)); lebo(\"$I$\",(0,0),S); nukta ((0,0)); lebo(\"$J$\",(-16.2,11.8),WSW); nukta ((-16.2,11.8)); [/asy]",
+  "answer": "36^\\circ"
+ },
+ {
+  "question": "Katika mfuatano wa 0, 1, 1, 3, 6, 9, 27, ..., muhula wa kwanza ni 0. Maneno yanayofuata yanatolewa kwa kuongeza na kuzidisha kwa kila nambari kamili inayoanza na 1. Kwa mfano, muhula wa pili. huzalishwa kwa kuongeza 1 kwa muda wa kwanza; muda wa tatu hutolewa kwa kuzidisha muda wa pili na 1; muda wa nne hutolewa kwa kuongeza 2 kwa muda wa tatu; na kadhalika. Je, muhula wa kwanza ambao ni mkubwa kuliko 125 una thamani gani?",
+  "answer": "129"
+ },
+ {
+  "question": " $\\left(4\\dfrac{5}{8}\\kulia) ni nini^{55} \\cdot \\left(\\dfrac{8}{37}\\kulia)^{55}$?",
+  "answer": "1"
+ },
+ {
+  "question": " Pata masuluhisho yote ya \\[\\sin \\left( \\tan^{-1} (x) + \\cot^{-1} \\left( \\frac{1}{x} \\kulia) \\kulia) = \\frac{ 1}{3}.\\]Ingiza suluhu zote, zikitenganishwa na koma.",
+  "answer": "3 \\pm 2 \\sqrt{2}"
+ },
+ {
+  "question": "Steve anamwambia Jon, \"Ninafikiria polynomia ambayo mizizi yake yote ni nambari chanya. Polynomia ina umbo $P(x) = 2x^3-2ax^2+(a^2-81)xc$ chanya. nambari kamili $a$ na $c$. Je, unaweza kuniambia thamani za $a$ na $c$?\" Baada ya mahesabu kadhaa, Jon anasema, \"Kuna zaidi ya moja ya aina hizo.\" Steve anasema, \"Umesema kweli. Hii hapa thamani ya $a$.\" Anaandika nambari kamili na anauliza, \"Je, unaweza kuniambia thamani ya $c$?\" Jon anasema, \"Bado kuna thamani mbili zinazowezekana za $c$.\" Pata jumla ya thamani mbili zinazowezekana za $c$.",
+  "answer": "440"
+ },
+ {
+  "question": " Acha $T$ iwe seti ya $(a,b,c)$ zote tatu za nambari kamili chanya ambazo kuna pembetatu zenye urefu wa upande $a,$ $b,$ $c.$ Kokotoa \\[\\sum_{(a) ,b,c) \\katika T} \\frac{2^a}{3^b 5^c}.\\]",
+  "answer": "\\frac{17}{21}"
+ },
+ {
+  "question": "Gia moja hubadilisha $33\\frac{1}{3}$ mara kwa dakika. Gia nyingine inageuka mara 45 kwa dakika. Hapo awali, alama kwenye kila gia inaelekea kaskazini. Je, gia mbili zinazofuata zitakuwa na alama zinazoelekeza kaskazini baada ya sekunde ngapi?",
+  "answer": "36"
+ },
+ {
+  "question": " Mstari mmoja unafafanuliwa na \\[\\anza{pmatrix} 3 \\\\ -10 \\\\ 1 \\mwisho{pmatrix} + t \\anza{pmatrix} 2 \\\\ -9 \\\\ -2 \\mwisho{pmatrix}.\\]Nyingine mstari unafafanuliwa na \\[\\anza{pmatrix} -5 \\\\ -3 \\\\ 6 \\mwisho{pmatrix} + u \\anza{pmatrix} 4 \\\\ -18 \\\\ -4 \\mwisho{pmatrix}.\\]Mistari hii miwili inafanana. Tafuta umbali kati ya mistari hii miwili.",
+  "answer": "7"
+ },
+ {
+  "question": " Acha $a,$$b,$ $c,$ $d$ ziwe nambari halisi chanya. Pata thamani ya chini zaidi ya \\[(a + b + c + d) \\kushoto( \\frac{1}{a} + \\frac{1}{b} + \\frac{1}{c} + \\frac{1 }{d} \\kulia).\\]",
+  "answer": "16"
+ },
+ {
+  "question": " Tafuta thamani ya $r$ kiasi kwamba $$\\frac{6r^2 -19r - 7}{2r-7} = 4r-3.$$",
+  "answer": "4"
+ },
+ {
+  "question": "Fikiria eneo la mstatili lenye pointi zifuatazo kama vipeo: $$(5,4), (-5,4), (-5,-4), (5,-4).$$ Ni pointi ngapi zilizo na viwianishi kamili kuwa madhubuti katika mambo ya ndani ya eneo hili la mstatili?",
+  "answer": "63"
+ },
+ {
+  "question": " Kwa kuzingatia kwamba \\anza{align*}x_{1}&=211,\\\\ x_{2}&=375,\\\\ x_{3}&=420,\\\\ x_{4}&=523,\\\\text{ na}\\\\ x_{n}&=x_{n-1}-x_{n-2}+x_{n-3}-x_{n-4}\\ \\maandishi{wakati}\\ n\\geq5, \\end{align*}pata thamani ya $x_{531}+x_{753}+x_{975}$.",
+  "answer": "898"
+ },
+ {
+  "question": " Pata $p$ zote zinazokidhi ukosefu wa usawa $0\\ge 54p-144$ na $0>12-20p$. Eleza jibu lako katika nukuu ya muda, ukipunguza sehemu zozote katika jibu lako.",
+  "answer": "\\left(\\frac{3}{5},\\frac{8}{3}\\right]"
+ },
+ {
+  "question": " Palindrome ni nambari inayosoma sawa mbele na nyuma. Jumla ya seti fulani ya nambari tatu zinazofuatana chanya ni palindrome ya tarakimu tatu. Ikiwa jumla ni chini ya 220, ni thamani gani kuu inayowezekana kwa nambari kamili kati ya tatu katika seti?",
+  "answer": "58"
+ },
+ {
+  "question": "Masuluhisho ya equation $z^4+4z^3i-6z^2-4zi-i=0$ ni vipeo vya poligoni mbonyeo katika ndege changamano. Eneo la poligoni hii linaweza kuonyeshwa katika muundo $p^{a/b},$ ambapo $a,$$b,$$p$ ni nambari kamili chanya, $p$ ni msingi, na $a$ na $b $ ni bora kiasi. Tafuta $a + b + p.$",
+  "answer": "11"
+ },
+ {
+  "question": " Chukulia $0 <r <3$. Ifuatayo ni milinganyo mitano ya $x$. Ni mlinganyo upi wenye suluhu kubwa zaidi $x$? $\\textbf{(A)}\\ 3(1 + r)^x = 7\\qquad \\textbf{(B)}\\ 3(1 + r/10)^x = 7\\qquad \\textbf{(C)} \\ 3(1 + 2r)^x = 7$ $\\textbf{(D)}\\ 3(1 + \\sqrt {r})^x = 7\\qquad \\textbf{(E)}\\ 3(1 + 1/r)^x = 7$",
+  "answer": "\\text{(B)}"
+ },
+ {
+  "question": " Kitabu kinasemekana kuwa na majani $n$ ikiwa kimeundwa na vipande vya karatasi $n$. Kwa upande mwingine, idadi ya kurasa ni mara mbili ya idadi ya majani kwa sababu kila upande wa kipande cha karatasi hufafanuliwa kama ukurasa. Ikiwa idadi ya kurasa katika kitabu ni $3$ zaidi ya mgawo wa $7$, na idadi ya majani ni kubwa kuliko $100$, basi ni idadi gani ndogo ya majani inayowezekana?",
+  "answer": "103"
+ },
+ {
+  "question": "Acha $\\mathbf{a},$ $\\mathbf{b},$ $\\mathbf{c}$ iwe vivekta vitatu hivi kwamba \\[\\mathbf{a} \\nyakati \\mathbf{b} = \\anza{pmatrix} 6 \\\\ -7 \\\\ 3 \\mwisho{pmmatrix}, \\quad \\mathbf{a} \\nyakati \\mathbf{c} = \\anza{pmatrix} 4 \\\\ 7 \\\\ 2 \\mwisho{pmatrix}, \\quad \\mathbf{b} \\nyakati \\mathbf{c} = \\anza{pmatrix} 1 \\\\ -7 \\\\ 18 \\mwisho{pmatrix }.\\]Kokotoa $(2 \\mathbf{b} - \\mathbf{a}) \\mara (3 \\mathbf{c} + \\mathbf{a}).$",
+  "answer": "\\begin{pmatrix} -18 \\\\ -49 \\\\ 96 \\end{pmatrix}"
+ },
+ {
+  "question": " Fikiria mstatili ulio na vipeo kwa $(5,4),$ $(5,-4),$ $(-5,4),$ $(-5,-4)$. Je, ni viwianishi vingapi kamili vitakuwa ndani ya eneo la mstatili?",
+  "answer": "63"
+ },
+ {
+  "question": " Miduara minne tofauti huchorwa kwenye ndege. Je, ni idadi gani ya upeo wa juu wa pointi ambapo angalau miduara miwili inaingiliana?",
+  "answer": "12"
+ },
+ {
+  "question": "$\\textbf{Juan's Old Stamping Grounds}$ Juan hupanga stempu katika mkusanyiko wake kulingana na nchi na kwa muongo ambao zilitolewa. Bei alizolipia katika duka la stempu zilikuwa: Brazili na Ufaransa, senti $6$ kila moja, Peru senti $4$ kila moja, na Hispania $5$ senti kila moja. (Brazili na Peru ni nchi za Amerika Kusini na Ufaransa na Uhispania ziko Ulaya.) [asy] /* AMC8 2002 #8, 9, 10 Tatizo */ size(3inch, 1.5inch); kwa ( int y = 0; y <= 5; ++y ) {teka((0,y)--(18,y)); } chora((0,0)--(0,5)); chora((6,0)--(6,5)); chora((9,0)--(9,5)); chora((12,0)--(12,5)); chora((15,0)--(15,5)); chora((18,0)--(18,5)); lebo(wadogo(0.8)*\"50s\", (7.5,4.5)); lebo(mizani(0.8)*\"4\", (7.5,3.5)); lebo(mizani(0.8)*\"8\", (7.5,2.5)); lebo(mizani(0.8)*\"6\", (7.5,1.5)); lebo(mizani(0.8)*\"3\", (7.5,0.5)); lebo(wadogo(0.8)*\"60s\", (10.5,4.5)); lebo(mizani(0.8)*\"7\", (10.5,3.5)); lebo(mizani(0.8)*\"4\", (10.5,2.5)); lebo(mizani(0.8)*\"4\", (10.5,1.5)); lebo(mizani(0.8)*\"9\", (10.5,0.5)); lebo(wadogo(0.8)*\"70s\", (13.5,4.5)); lebo(mizani(0.8)*\"12\", (13.5,3.5)); lebo(mizani(0.8)*\"12\", (13.5,2.5)); lebo(mizani(0.8)*\"6\", (13.5,1.5)); lebo(mizani(0.8)*\"13\", (13.5,0.5)); lebo(wadogo(0.8)*\"80s\", (16.5,4.5)); lebo(mizani(0.8)*\"8\", (16.5,3.5)); lebo(mizani(0.8)*\"15\", (16.5,2.5)); lebo(mizani(0.8)*\"10\", (16.5,1.5)); lebo(mizani(0.8)*\"9\", (16.5,0.5)); lebo(mizani(0.8)*\"Nchi\", (3,4.5)); lebo(mizani(0.8)*\"Brazil\", (3,3.5)); lebo(wadogo(0.8)*\"Ufaransa\", (3,2.5)); lebo(wadogo(0.8)*\"Peru\", (3,1.5)); lebo(wadogo(0.8)*\"Hispania\", (3,0.5)); lebo(mizani(0.9)*\"Mkusanyiko wa Stempu ya Juan\", (9,0), S); lebo(mizani(0.9)*\"Idadi ya Stampu kwa Muongo\", (9,5), N); [/asy] Bei ya wastani ilikuwa kiasi gani, kwa senti, ya stempu zake za $70\\text{'s}$? Rekebisha jibu lako hadi karibu asilimia kumi ya senti.",
+  "answer": "5.4 \\text{ cents}"
+ },
+ {
+  "question": "Wakati wa kubadilisha $\\frac{31}{11111}$ hadi desimali, desimali hugeuka kuwa desimali inayojirudia. Je, ni tarakimu ngapi zinazojirudia katika desimali hii inayojirudia? Kwa mfano, ukipata desimali inayojirudia $0.\\overline{123},$ basi jibu lako linapaswa kuwa $3,$ na ukipata $0.436\\overline{7},$ jibu lako linapaswa kuwa $1.$",
+  "answer": "5"
+ },
+ {
+  "question": " Tuseme kwamba $ABCD$ ni trapezoid ambayo $\\overline{AD}|| \\Jumla{BC}$. Kwa kuzingatia $\\overline{AC}\\perp\\overline{CD}$, $\\overline{AC}$ inagawanya pembe mbili $\\angle BAD$, na $[ABCD]=42$, kisha kukokotoa $[\\pembetatu ACD]$.",
+  "answer": "28"
+ },
+ {
+  "question": " Pata thamani ya chini zaidi ya \\[\\frac{(x + 5)(x + 2)}{x + 1}\\]kwa $x > 0.$",
+  "answer": "9"
+ },
+ {
+  "question": " Ikiwa $\\frac{\\sqrt{2x}}{\\sqrt{3x-1}}=\\frac32$, suluhisha kwa $x$. Eleza jibu lako kwa njia rahisi zaidi ya sehemu.",
+  "answer": "\\frac9{19}"
+ },
+ {
+  "question": " Tafuta idadi ya milinganyo ya quadratic ya fomu $x^2 + ax + b = 0,$ hivi kwamba wakati wowote $c$ ni mzizi wa equation, $c^2 - 2$ pia ni mzizi wa equation.",
+  "answer": "6"
+ },
+ {
+  "question": " Ni masafa gani ya chaguo za kukokotoa $y=\\log_2 (\\sqrt{\\sin x})$ kwa $0^\\circ< x <180^\\circ$?",
+  "answer": "(-\\infty, 0]"
+ },
+ {
+  "question": "Acha $ABCD$ iwe tetrahedron ya kawaida yenye urefu wa upande 2. Ndege inayofanana na kingo za $AB$ na $CD$ na iliyolala nusu kati yao inakata $ABCD$ vipande viwili. Pata eneo la uso wa moja ya vipande hivi.",
+  "answer": "1+2\\sqrt{3}"
+ },
+ {
+  "question": " Bidhaa ya seti ya nambari kamili chanya ni 84. Je, ni jumla gani isiyowezekana kabisa ya nambari hizi kamili?",
+  "answer": "14"
+ },
+ {
+  "question": " Operesheni @ inafafanuliwa kama $\\frac{m}{n}@\\frac{p}{q} = (m)(p)\\left(\\frac{q}{n}\\right)$ kwa sehemu zilizorahisishwa $ \\frac{p}{q}$. Je, ni thamani gani iliyorahisishwa ya $\\frac{7}{30}@\\frac{10}{21}$?",
+  "answer": "49"
+ },
+ {
+  "question": " Ikiwa $1+12+123+1234+12345+123456+1234567+12345678$$inalingana na $n$ modulo 9, ambapo $0\\le n<9$, thamani ya $n$ ni nini?",
+  "answer": "3"
+ },
+ {
+  "question": " Tatua \\[\\frac{1}{x - 5} > 0.\\]Ingiza jibu lako ukitumia nukuu ya muda.",
+  "answer": "(5,\\infty)"
+ },
+ {
+  "question": " Charlie amepanda baiskeli yake moja. Ikiwa gurudumu la unicycle lina kipenyo cha inchi 9 na kufanya mapinduzi 2 kila sekunde 3, ni kasi gani ya baiskeli katika inchi kwa sekunde?",
+  "answer": "12\\pi"
+ },
+ {
+  "question": "Pointi $(0,0)$ inaonekana juu ya mstari wima $x=1$. Wakati picha yake inaonyeshwa juu ya mstari $y=2$, matokeo yake ni nini? Andika jibu lako katika fomu $(x, y)$ ambapo $x$ na $y$ ni nambari halisi.",
+  "answer": "(2,4)"
+ },
+ {
+  "question": " Nambari kamili $a$, $b$, na $2009$, na $a<b<2009$, huunda mfuatano wa kijiometri wenye uwiano kamili. $a$ ni nini?",
+  "answer": "41"
+ },
+ {
+  "question": " Usemi $10x^2-x-24$ unaweza kuandikwa kama $(Ax-8)(Bx+3),$ ambapo $A$ na $B$ ni nambari kamili. $AB + B$ ni nini?",
+  "answer": "12"
+ },
+ {
+  "question": " Acha $a,$$b,$ na $c$ ziwe nambari halisi mahususi. Tafuta kiwango cha polinomia \\[p(x) = \\frac{(x - b)(x - c)}{(a - b)(a - c)} + \\frac{(x - a)(x - c)}{(b - a)(b - c)} + \\frac{(x - a)(x - b)}{(c - a)(c - b)}.\\]",
+  "answer": "0"
+ },
+ {
+  "question": " Andika usemi \\[\\frac{4+6a}{5}-\\frac{1+3a}{4}\\] kama sehemu moja.",
+  "answer": "\\frac{11+9a}{20}"
+ },
+ {
+  "question": " Katika mlinganyo $|x-4| -10 = 2$, ni bidhaa gani ya thamani zote zinazowezekana za $x$?",
+  "answer": "-128"
+ },
+ {
+  "question": "Katika mchoro ulio hapa chini, tuna $\\sin \\angle RPQ = \\frac{7}{25}$. $\\cos \\pembe RPS$ ni nini? [asy] jozi R,P,Q,SS; SS = (-2,0); P = (0,0); Q = (2,0); R = zungusha(aSin(7/25))*(1.5,0); nukta(\"$S$\",SS,S); nukta(\"$Q$\",Q,S); nukta(\"$R$\",R,N); nukta(\"$P$\",P,S); kuchora(Q--SS); chora(P--R); [/asy]",
+  "answer": "-\\frac{24}{25}"
+ },
+ {
+  "question": " Roboti inayosonga mbele kwa kasi isiyobadilika inachukua saa 2.5 kusafiri kilomita 1. Kusonga mbele kwa kasi hiyo hiyo isiyobadilika, inachukua sekunde 90 kusafiri kwa urefu wa barabara fulani ya ukumbi. Barabara ya ukumbi ina urefu wa mita ngapi?",
+  "answer": "10"
+ },
+ {
+  "question": " Acha $f(x) = x - 3$ na $q(x) = bx +1$. Ikiwa $f(q(1)) = -3$, $b$ ni nini?",
+  "answer": "-1"
+ },
+ {
+  "question": " Pointi nne, $A$, $B$, $C$, na $D$, zimechaguliwa kwa nasibu na kwa kujitegemea kwenye mzingo wa duara. Kuna uwezekano gani kwamba sehemu $AB$ na $CD$ zinaingiliana?",
+  "answer": "\\frac{1}{3}"
+ },
+ {
+  "question": "Katika mchoro, miduara miwili, kila moja ikiwa na kituo cha $D$, ina radii ya $1$ na $2$. Jumla ya eneo la eneo lenye kivuli ni $\\frac5{12}$ ya eneo la duara kubwa. Ni digrii ngapi katika kipimo cha (ndogo) $\\angle ADC$? [asy] ukubwa(4cm); defaultpen(linewidth (0.75)); adc halisi = 100; jozi d = (0, 0); jozi a = 2 * dir (100); jozi c = (2, 0); njia ya ndani = arc (d, a/2, c/2, CW); njia ya nje = arc(d, c, a, CCW); mkoa wa mwongozo1 = (a--a/2)..ndani..(c/2--c)..mzunguko wa nje..; mwongozo mkoa2 = arc(d, a/2, c/2, CCW) ..(c/2--d--a/2) ..mzunguko; kujaza (mkoa1, kijivu (0.75)); kujaza (mkoa2, kijivu (0.75)); kuchora (kitengo); chora(mzani(2) * unitcircle); chora(a--d--c); lebo(\"$A$\", a, N); lebo(\"$C$\", c, E); lebo(\"$D$\", d, NE); [/asy]",
+  "answer": "120"
+ },
+ {
+  "question": " Bia ya silinda ina urefu wa 8 cm na ina radius ya 3 cm. Je, itachukua chupa ngapi za maji kama hizo kujaza tanki ya duara ya radius 6 cm?",
+  "answer": "4"
+ },
+ {
+  "question": " Tathmini \\[\\ dhambi (\\arcsin 0.4 + \\arcsin 0.5) \\cdot \\sin (\\arcsin 0.5 - \\arcsin 0.4).\\]",
+  "answer": "\\frac{9}{100}"
+ },
+ {
+  "question": "Acha $P(x)$ iwe monic polynomial ya shahada ya 3. Tuseme $P(x)$ ina salio $R(x)$ inapogawanywa na $(x - 1)(x - 4),$ na salio $2R(x)$ inapogawanywa kwa $(x - 2)(x - 3).$ Ikizingatiwa kuwa $P(0) = 5,$ pata $P(5).$",
+  "answer": "15"
+ },
+ {
+  "question": " Acha $f(x)=\\left\\floor\\left(-\\frac58\\right)^x\\right\\floor$ iwe ni chaguo la kukokotoa ambalo limefafanuliwa kwa thamani zote za $x$ katika $[0,\\infty)$ vile hiyo $f(x)$ ni nambari halisi. Ni thamani ngapi tofauti zilizopo katika safu ya $f(x)$?",
+  "answer": "3"
+ },
+ {
+  "question": " Baiskeli inasafiri kwa futi 20 kwa dakika. Je, ni kasi gani ya baiskeli inayoonyeshwa kwa inchi kwa sekunde?",
+  "answer": "4"
+ },
+ {
+  "question": " Kamati ya Seneti ina 8 Republican na 6 Democrats. Je, ni kwa njia ngapi tunaweza kuunda kamati ndogo ya wajumbe 5 ambayo ina angalau mjumbe mmoja kutoka kila chama?",
+  "answer": "1940"
+ },
+ {
+  "question": " Rahisisha usemi ufuatao kwa sehemu iliyorahisishwa: $$\\sqrt{\\dfrac{\\dfrac{5}{\\sqrt{80}+\\dfrac{\\sqrt{845}}{9}+\\sqrt{45}}{ \\sqrt5}}.$$",
+  "answer": "\\frac{13}{6}"
+ },
+ {
+  "question": " Acha $x,$ $y,$ na $z$ ziwe nambari halisi chanya kama vile $xyz(x + y + z) = 1.$ Pata thamani ya chini zaidi ya \\[(x + y)(y + z). \\]",
+  "answer": "2"
+ },
+ {
+  "question": "Ikiwa \\[\\sqrt[3]{2} = a + \\cfrac{1}{b + \\cfrac{1}{c + \\cfrac{1}{d + \\dotsb}}},\\]ambapo $a, $ $b,$ $c,$ $d$ ni nambari kamili chanya, hesabu $b.$",
+  "answer": "3"
+ },
+ {
+  "question": " Ikiwa $a+b=8$, $b+c=-3$, na $a+c= -5$, thamani ya bidhaa $abc$ ni ipi?",
+  "answer": "-120"
+ },
+ {
+  "question": " Mfuatano wa Fibonacci ni mfuatano wa 1, 1, 2, 3, 5, $\\ldots$ ambapo kila neno ni jumla ya maneno mawili yaliyotangulia. Je, ni nini kinachosalia wakati muda wa $100^{\\mathrm{th}}$ wa mfuatano unagawanywa na 4?",
+  "answer": "3"
+ },
+ {
+  "question": " Ni thamani gani ya $513^2 - 487^2$?",
+  "answer": "26000"
+ },
+ {
+  "question": " Bidhaa ya nambari tatu mfululizo ni 120. Bidhaa hiyo iliyogawanywa kwa maana ya nambari tatu kamili ni 24. Je, ni nambari gani kubwa zaidi kati ya nambari tatu mfululizo?",
+  "answer": "6"
+ },
+ {
+  "question": " Bei sita ya msingi ni nini sawa na $999_{10}$?",
+  "answer": "4343_6"
+ },
+ {
+  "question": " Kifananishi chenye mlinganyo $y=ax^2+bx+c$ na kipeo $(h,k)$ kinaakisiwa kuhusu mstari $y=k$. Hii inasababisha parabola na mlinganyo $y=dx^2+ex+f$. Eleza $a+b+c+d+e+f$ kulingana na $k.$",
+  "answer": "2k"
+ },
+ {
+  "question": "Acha $\\mathbf{a}$ na $\\mathbf{b}$ ziwe vekta hivi kwamba pembe kati ya $\\mathbf{a}$ na $\\mathbf{b}$ ni $29^\\circ,$ na pembe kati ya $ \\mathbf{b}$ na $\\mathbf{a} - \\mathbf{b}$ ni $84^\\circ.$ Tafuta pembe kati ya $\\mathbf{a}$ na $\\mathbf{a} - \\mathbf{b}.$",
+  "answer": "55^\\circ"
+ },
+ {
+  "question": " Ni nambari gani ndogo zaidi ambayo ni moja chini ya mara mbili ya ulinganifu wake?",
+  "answer": "-2"
+ },
+ {
+  "question": " Ni nambari gani kamili $x$ inatosheleza $\\frac{1}{4}<\\frac{x}{7}<\\frac{1}{3}$?",
+  "answer": "2"
+ },
+ {
+  "question": " Je, ni nambari ngapi za leseni zinaweza kuunda ikiwa kila nambari ya nambari ya simu ina herufi 2 tofauti (A hadi Z) ikifuatiwa na nambari 2 tofauti za tarakimu moja (0-9)?",
+  "answer": "58,500"
+ },
+ {
+  "question": " Acha \\[f(n) = \\anze{kesi} 4n+3 &\\maandishi{if }n<a, \\\\ 7n-12 &\\text{if }n\\ge{a}. \\end{cases} \\]Tafuta $a$ ikiwa grafu ya $y=f(n)$ ni endelevu.",
+  "answer": "5"
+ },
+ {
+  "question": " Ikiwa $t(x) = 3-g(x)$ na $g(x) = \\sqrt{x}$, basi $t(g(16))$ ni nini?",
+  "answer": "1"
+ },
+ {
+  "question": " Tatua kwa thamani chanya ya $x$ kiasi kwamba $\\sqrt[3]{x^2 - 4x + 4} = 16$.",
+  "answer": "66"
+ },
+ {
+  "question": "Rahisisha $4(3r^3+5r-6)-6(2r^3-r^2+4r)$, na ueleze jibu lako kwa njia ya $Ar^2 + Br + C$, ambapo $A$, $B $, na $C$ ni nambari kamili.",
+  "answer": "6r^2-4r-24"
+ },
+ {
+  "question": " Kokotoa $\\dbinom{31}{28}$.",
+  "answer": "4495"
+ },
+ {
+  "question": " Je, ni kwa njia ngapi watu 8 wanaweza kuketi kuzunguka meza ya mraba na watu 2 upande mmoja? (Mipangilio miwili inachukuliwa kuwa sawa ikiwa moja ni mzunguko wa nyingine.)",
+  "answer": "10080"
+ },
+ {
+  "question": " Tafuta nambari ya vitengo ya $18^6.$",
+  "answer": "4"
+ },
+ {
+  "question": " Rahisisha \\[\\cos \\kushoto( \\frac{2 \\pi}{15} \\kulia) \\cos \\kushoto (\\frac {4 \\pi}{15} \\kulia) \\cos \\kushoto( \\frac{8 \\pi {15} \\kulia) \\cos \\kushoto( \\frac {16 \\pi}{15} \\kulia).\\]",
+  "answer": "\\frac{1}{16}"
+ },
+ {
+  "question": "Pembetatu $ABC$ ni isosceles, ikiwa na $AB=AC$ na mwinuko $AM=11.$ Tuseme kuna pointi $D$ kwenye $\\overline{AM}$ na $AD=10$ na $\\angle BDC= 3\\angle BAC.$ Tafuta mzunguko wa pembetatu $ABC.$ [asy] unitsize(0.4 cm); jozi A, B, C, D, M; A = (0,11); D = (0,1); B = (-11/2,0); C = (11/2,0); M = (B + C)/2; kuchora(A--B--C--mzunguko); kuchora(A--M); kuchora(B--D--C); lebo(\"$A$\", A, N); lebo(\"$B$\", B, SW); lebo(\"$C$\", C, SE); lebo(\"$D$\", D, NW); lebo(\"$M$\", M, S); [/asy]",
+  "answer": "11 \\sqrt{5} + 11"
+ },
+ {
+  "question": " Tuseme nina $6$ vitabu tofauti, $2$ ambavyo ni vitabu vya hesabu. Je, ni kwa njia ngapi ninaweza kuweka vitabu vyangu vya $6$ kwenye rafu ikiwa sitaki vitabu vya hesabu viwe karibu na vingine?",
+  "answer": "480"
+ },
+ {
+  "question": " Jumla ya nambari kamili chanya 27 mfululizo ni $3^7$. mpatanishi wao ni nini?",
+  "answer": "81"
+ },
+ {
+  "question": " Acha $a,$$b,$ na $c$ ziwe nambari halisi chanya. Pata thamani ya chini zaidi ya \\[\\frac{(a + b + c)[(a + b)^2 + (a + b + 4c)^2]}{abc}.\\]",
+  "answer": "100"
+ },
+ {
+  "question": "Je, ni thamani gani halisi za $x$ $-4<x^{4}+4x^{2}<21$ zimeridhika? Eleza jibu lako kwa nukuu ya muda.",
+  "answer": "(-\\sqrt{3}, \\sqrt{3})"
+ },
+ {
+  "question": " Nina sitaha ya kadi $54$, na ninatoa kadi zote kwa wachezaji $x$, huku kila mchezaji akipata kadi $y$. Ikiwa $x$ ni angalau $2$ na $y$ ni angalau $5$, basi kuna thamani ngapi zinazowezekana za $x$?",
+  "answer": "4"
+ },
+ {
+  "question": " Amua ikiwa grafu ya mlingano ulio hapa chini ni parabola, duara, duaradufu, haipabola, ncha, mstari, mistari miwili, au tupu. $\\kushoto(\\frac x2 - 3\\kulia)^2 + y^2 = 10$",
+  "answer": "\\text{ellipse}"
+ },
+ {
+  "question": " Tuseme kwamba $x,$ $y,$ na $z$ zinakidhi milinganyo \\anza{align*} xyz &= 4, \\\\ x^3 + y^3 + z^3 &= 4, \\\\ xy^2 + x^2 y + xz^2 + x^2 z + yz^2 + y^2 z &= 12. \\end{align*}Hesabu thamani ya $xy + yz + zx.$",
+  "answer": "6"
+ },
+ {
+  "question": "Mstari ufuatao ni parameterized, ili mwelekeo wake vector ni wa fomu $\\begin{pmatrix} -7 \\\\ b \\end{pmatrix}.$ Find $b.$ [asy] unitsize(0.4 cm); jozi A, B, L, R; int, n; kwa (i = -8; i <= 8; ++i) { chora((i,-8)--(i,8),kijivu(0.7)); chora((-8,i)--(8,i),kijivu(0.7)); } chora((-8,0)--(8,0),Mishale(6)); chora((0,-8)--(0,8),Mishale(6)); A = (-5,4); B = (-1,3); L = ugani(A, B, (-8,0), (-8,1)); R = kiendelezi(A, B, (8,0), (8,1)); kuchora (L--R, nyekundu); lebo(\"$x$\", (8,0), E); lebo(\"$y$\", (0,8), N); [/asy]",
+  "answer": "\\frac{7}{4}"
+ },
+ {
+  "question": " Pembetatu ya usawa imeandikwa katika kiambatanisho $x^2 = 8y,$ hivi kwamba moja ya vipeo vya pembetatu ilandane na kipeo cha parabola. Tafuta urefu wa upande wa pembetatu hii ya usawa.",
+  "answer": "16 \\sqrt{3}"
+ },
+ {
+  "question": " Wagombea wawili, Dan na Donald, wanagombea urais wa darasa. Wagombea wengine wawili, Freddie na Bernie, wanagombea nafasi ya makamu wa rais. Kila mgombea ana nafasi ya 50$\\%$ ya kushinda. Je, kuna uwezekano gani kwamba Dan na Freddie watashinda? (Onyesha jibu lako kama sehemu.)",
+  "answer": "\\frac14"
+ },
+ {
+  "question": "Tatu pamoja na uwiano wa nambari ni sawa na 7 iliyogawanywa na nambari hiyo. Nambari ni nini?",
+  "answer": "2"
+ },
+ {
+  "question": " Iwapo kila nukta ya mduara $x^2 + y^2 = 25$ imeonyeshwa katika nukta $(4,1),$ seti ya alama za picha inatosheleza mlingano \\[x^2 + ay^2 + bx + cy + d = 0.\\]Kokotoa nambari nne $(a,b,c,d)$ zilizoagizwa za nambari halisi.",
+  "answer": "(1,-16,-4,43)"
+ },
+ {
+  "question": " Ikiwa $a$ na $b$ ni nambari chanya kama vile $\\gcd(a,b)=210$, $\\mathop{\\text{lcm}}[a,b]=210^3$, na $a< b$, ni thamani ngapi zinazowezekana kwa $a$?",
+  "answer": "8"
+ },
+ {
+  "question": " Pata moduli ya $7$ iliyosalia ya jumla $1+3+5+7+9+\\dots+195+197+199.$",
+  "answer": "4"
+ },
+ {
+  "question": " Tuseme kwamba $f$ ni chaguo la kukokotoa na $f^{-1}$ ni kinyume cha $f$. Ikiwa $f(1)=2$, $f(2) = 6$, na $f(3)=5$, basi $f^{-1}(f^{-1}(6)) ni nini) $?",
+  "answer": "1"
+ },
+ {
+  "question": " Pande mbili za pembetatu zina urefu wa kila $8$. Ikiwa upande wa tatu una urefu wa nambari nzima, ni eneo gani kubwa linalowezekana, katika vitengo, kwa pembetatu?",
+  "answer": "31"
+ },
+ {
+  "question": "Ni idadi gani ya sentimita za mraba katika eneo la trapezoid hii? [asy] defaultpen(linewidth(0.7)); chora((0,0)--(27,0)--(15,9)--(0,9)--mzunguko); lebo(\"sentimita 5\",(21,4.5),NE); lebo(\"sentimita 5\",(7.5,9),N); lebo(\"sentimita 3\",(0,4.5),W); lebo(\"sentimita 9\",(13.5,0),S); chora(alama ya kulia((0,9),(0,0),(27,0),35)); chora(alama ya kulia((0,0),(0,9),(15,9),35)); [/asy]",
+  "answer": "21"
+ },
+ {
+  "question": " Tafuta bidhaa ya nukta ya $\\anza{pmatrix} -2 \\\\ 0 \\\\ 7 \\end{pmatrix}$ na $\\anza{pmatrix} 3 \\\\ 4 \\\\ -5 \\end{pmatrix}.$",
+  "answer": "-41"
+ },
+ {
+  "question": " Acha $a,$ $b,$ $c$ ziwe nambari halisi kama vile \\[|ax^2 + bx + c| \\le 1\\]kwa $0 zote \\le x \\le 1.$ Tafuta thamani kubwa iwezekanavyo ya $|a| + | b| + |c|.$",
+  "answer": "17"
+ },
+ {
+  "question": "Katika mchoro, $AD=BD=CD$ na $\\angle BCA = 40^\\circ.$ Kipimo cha $\\angle BAC ni kipi?$ [asy] draw((0,0)--(10,0) )--(8.2635,9.8481)--mzunguko,nyeusi+upana wa mstari(1)); chora((10,0)--(20,0)--(8.2635,9.8481),nyeusi+upana wa mstari(1)); chora((5,-0.5)--(5,0.5),nyeusi+upana wa mstari(1)); chora((15,-0.5)--(15,0.5),nyeusi+upana wa mstari(1)); chora((8.6318,4.8359)--(9.6317,5.0122),nyeusi+upana wa mstari(1)); lebo(\"$A$\",(8.2635,9.8481),N); lebo(\"$B$\",(0,0),SW); lebo(\"$C$\",(20,0),SE); lebo(\"$D$\",(10,0),S); [/asy]",
+  "answer": "90^\\circ"
+ },
+ {
+  "question": " William Sydney Porter alijaribu kukokotoa $\\frac{-3+4i}{1+2i}$. Hata hivyo, kwa bahati mbaya alikosa alama ya kuondoa, na kupata $\\frac{3+4i}{1+2i}=\\frac{11}{5}-\\frac{2}{5}i$. Je, alipaswa kupata jibu gani?",
+  "answer": "1+2i"
+ },
+ {
+  "question": " Kuna tofauti gani kati ya mzizi chanya wa mraba wa 64 na mchemraba wa 64?",
+  "answer": "4"
+ },
+ {
+  "question": " Ikiwa $A$ ni jumla ya vigawanyiko chanya vya $500$, je, jumla ya vigawanyo wakuu vya $A$ ni nini?",
+  "answer": "25"
+ },
+ {
+  "question": "Amua viwianishi vya nukta $P$ kwenye mstari $y=-x+6$ ili $P$ iwe sawa kutoka kwa pointi $A(10,-10)$ na $O(0,0)$ (hiyo ni, ili $PA=PO$). Eleza jibu lako kama jozi iliyoagizwa $(a,b)$.",
+  "answer": "(8,-2)"
+ },
+ {
+  "question": " $n\\$$ ya hali ya juu inafafanuliwa kama $n\\$ = \\underbrace{ n!^{{n!}^{{\\cdot}^{{\\cdot}^{{\\cdot}^{n!}} }}}}_{n!}$. Nambari ya vitengo ya $4\\$$ ni ipi?",
+  "answer": "6"
+ },
+ {
+  "question": " Je, jumla ya tarakimu ni sawa na 8 kwa herufi ngapi za tarakimu mbili?",
+  "answer": "3"
+ },
+ {
+  "question": "Data katika jedwali hapa chini inaonyesha asilimia ya wapanda mabasi katika utafiti wa wanafunzi wa Central HS; wanaume 300 na wanawake 300 katika kila daraja walifanyiwa utafiti. Je, ni kwa daraja gani idadi ya waendeshaji mabasi yake ya kiume iliyo karibu zaidi na $135\\%$ ya idadi ya waendeshaji mabasi yake ya kike? \\anza{tabular}{|l|c|c|}\\hline Daraja & Wanaume na Wanawake \\\\ \\hline $9^{\\mathrm{th}}$ daraja & $41.1\\%$ & $39.4\\%$ \\\\ \\hline $10^{\\mathrm{th}}$ daraja & $34.4\\%$ & $33.1\\%$ \\\\ \\hline $11^{\\mathrm{th}}$ daraja & $20.6\\%$ & $13.8\\%$ \\\\ \\hline $12^{\\mathrm{th}}$ daraja & $11.6\\%$ & $8.6\\%$ \\\\ \\hline \\mwisho{jedwali}",
+  "answer": "12"
+ },
+ {
+  "question": " Tatua \\[\\frac{|x^2 - 81|}{x^2 - 36x} < 0.\\]",
+  "answer": "(0,9) \\cup (9,36)"
+ },
+ {
+  "question": " Nambari mbili, $x$ na $y$ zimechaguliwa bila mpangilio kutoka kwa muda $(0,3)$. Je, kuna uwezekano gani kwamba pembetatu yenye pande za urefu wa 1, $x$, na $y$ ipo?",
+  "answer": "\\frac{1}{2}"
+ },
+ {
+  "question": "Uga wa mstatili umefungwa katika wimbo wa riadha, kama inavyoonyeshwa hapa chini. Wimbo una kingo mbili za uwanja, na nusu duara. Urefu wa njia ni mita 400. Je, ni eneo gani kubwa linalowezekana la shamba, katika mita za mraba? [asy] unitsize(1 cm); filldraw((0,0)--(3,0)--(3,2)--(0,2)--cycle,lightgreen); chora((0,0)--(3,0),upana wa mstari(2*bp)); chora((0,2)--(3,2),upana wa mstari(2*bp)); chora(arc(3,1),1,-90,90),upana wa mstari(2*bp)); chora(arc(0,1),1,90,270),upana wa mstari(2*bp)); [/asy]",
+  "answer": "\\frac{20000}{\\pi}"
+ },
+ {
+  "question": " Je, ni kwa thamani gani za $x$ $x^2 - 5x - 4 \\le 10$? Eleza jibu lako kwa nukuu ya muda.",
+  "answer": "x \\in [-2,7]"
+ },
+ {
+  "question": " Rahisisha usemi ufuatao katika $x$: $$19x + 1 - 4x - 81.$$",
+  "answer": "15x - 80"
+ },
+ {
+  "question": " Kathy anahitaji pesa kwa ajili ya safari yake ya kwenda Ulaya. Ikiwa ana dola 300 za Kimarekani katika benki lakini anataka kutoa nusu yake kwa pauni za Uingereza na nusu yake kwa euro, atakuwa na euro ngapi zaidi ya pauni? Chukua pauni 1 = 1.64 USD na euro 1 = 1.32 USD, na uzungushe nambari nzima iliyo karibu zaidi.",
+  "answer": "22"
+ },
+ {
+  "question": "Je, nambari ngapi ziko kwenye seti ya suluhu ya $|x-2|\\leq5.6$ ?",
+  "answer": "11"
+ },
+ {
+  "question": " Ikiwa $f(x)=5x^2+3x+4$, thamani ya $f(-2)$ ni ipi?",
+  "answer": "18"
+ },
+ {
+  "question": " Ni nambari gani ndogo kabisa $x$ katika kikoa cha chaguo za kukokotoa $$g(x) = \\sqrt{(x-3)^2-(x-8)^2}~?$$",
+  "answer": "\\frac{11}{2}"
+ },
+ {
+  "question": " Katika $\\pembetatu{RST}$, imeonyeshwa, $\\sin{R}=\\frac{2}{5}$. $\\sin{T}$ ni nini? [asy] jozi R,S,T; T = (0,0); S = (2,0); R = (2,sqrt(21)); chora(R--S--T--R); chora(alama ya kulia(R,S,T,10)); lebo(\"$T$\",T,SW); lebo(\"$S$\",S,SE); lebo(\"$R$\",R,NE); lebo(\"$5$\",(R+T)/2,NW); [/asy]",
+  "answer": "\\frac{\\sqrt{21}}{5}"
+ },
+ {
+  "question": " Umbali mdogo zaidi kati ya asili na nukta kwenye grafu ya $y=\\frac{1}{\\sqrt{2}}\\left(x^2-3\\right)$ inaweza kuonyeshwa kama $\\sqrt{a} /b$, ambapo $a$ na $b$ ni nambari kamili chanya hivi kwamba $a$ haiwezi kugawanywa kwa mraba wa nambari yoyote kubwa kuliko moja. Tafuta $a+b$.",
+  "answer": "12"
+ },
+ {
+  "question": " Acha $f$ ifafanuliwe kwa \\[f(x) = \\left\\{ \\anza{array}{cl} 3-x & \\text{ if } x \\leq 3, \\\\ -x^3+2x^2 +3x & \\maandishi{ if } x>3. \\mwisho{array} \\kulia.\\]Hesabu $f^{-1}(0)+f^{-1}(6)$.",
+  "answer": "0"
+ },
+ {
+  "question": "Umbali kutoka kwa uhakika $P$ hadi tano ya wima ya octahedron ya kawaida ni 3, 7, 8, 9, na 11. Tafuta umbali kutoka $P$ hadi vertex ya sita. [asy] kuagiza tatu; ukubwa (125); currentprojection = mtazamo (6,3,1); mara tatu A, B, C, D, E, F, P; A = (1,0,0); B = (-1,0,0); C = (0,1,0); D = (0,-1,0); E = (0,0,1); F = (0,0,-1); P = (1.2,1.5,1); kuchora(A--P,nyekundu); chora(B--P,nyekundu); kuchora(C--P,nyekundu); kuchora(D--P,nyekundu); kuchora(E--P,nyekundu); chora(F--P,nyekundu); kuchora(A--C); kuchora(A--D); kuchora(A--E); kuchora(A--F); kuchora(C--E--D--F--mzunguko); kuchora(D--B--C,dashed); kuchora(B--C,dashed); kuchora(B--D,dashed); kuchora(B--E,dashed); kuchora(B--F,dashed); lebo(\"$P$\", P, NE); [/asy]",
+  "answer": "\\sqrt{66}"
+ },
+ {
+  "question": " Ni fomula inayojulikana ya fizikia ambayo nguvu ni sawa na kuongeza kasi ya nyakati. Jen anataka kurusha mpira laini kwa nguvu sawa na Jack anarusha besiboli. Ikiwa mpira laini una uzito wa $200$ g na besiboli ina uzito wa $150$ g, ni uwiano gani wa kuongeza kasi ya mpira wa Jen na Jack? Jibu kama sehemu katika maneno ya chini kabisa.",
+  "answer": "\\frac 34"
+ },
+ {
+  "question": "Zingatia chaguo za kukokotoa $z(x,y)$ zinazoelezea paraboloid \\[z = (2x - y)^2 - 2y^2 - 3y.\\]Archimedes na Brahmagupta wanacheza mchezo. Archimedes kwanza huchagua $x.$ Baadaye, Brahmagupta anachagua $y.$ Archimedes angependa kupunguza $z$ huku Brahmagupta akitaka kuongeza $z.$ Kwa kuchukulia kwamba Brahmagupta itacheza vyema, ni thamani gani ya $x$ ambayo Archimedes anapaswa kuchagua?",
+  "answer": "-\\frac{3}{8}"
+ },
+ {
+  "question": " Ikiwa $a = 8$, ni nini thamani ya $\\left(16\\sqrt[3]{a^2}\\kulia)^{\\frac 13}$?",
+  "answer": "4"
+ },
+ {
+  "question": "Quadrilateral $ABCD$ ni mraba yenye eneo la inchi 16 za mraba. Kielelezo kinawakilisha vipande vya tangram ya Kichina ambamo pembetatu zote ni isosceles na kipande \"e'' ni mraba. Sehemu ya kipande cha kijivu ni nini, katika inchi za mraba? [asy] jaza((2,0)- -(4,2)--(4,0)--mzunguko,kijivu(.7)); chora((0,0)--(0,4)--(4,4)--(4,0)--mzunguko,upana wa mstari(1) teka((0,0)--(4, 4), upana wa mstari(1)); chora((1,1)--(2,0)--(4,2),upana wa mstari(1)); chora((0,4)--(3,1)--(3,3),lebo ya upana wa mstari(1)(\"$A$\",(0,4),W); $\",(4,4),E); lebo(\"$C$\",(4,0),E); lebo(\"$D$\",(0,0),W); lebo(\"e \",(2,1)); [/asy]",
+  "answer": "2"
+ },
+ {
+  "question": " Ikiwa $3x + 2(1 + x) = 17$, ni thamani gani ya $6x + 5$?",
+  "answer": "23"
+ },
+ {
+  "question": "Navin kutoka Mauritius, Luka kutoka Kroatia, na Ian kutoka Botswana wanazungumza kwenye ukumbi wa hosteli ya vijana wakijadili kazi zao za muda. Wanajifunza kwamba Navin anatengeneza rupia 160 kwa saa, Luka anatengeneza kuna 25 kwa saa, na Ian anatengeneza pula 34 kwa saa. Ikiwa dola moja ya Marekani ni sawa na rupia ya Mauritius 32.35, kuna ya Kroatia 5.18, na pula ya Botswana 6.95, ni nani angepata mapato mengi zaidi baada ya kufanya kazi kwa saa nane kwa siku?",
+  "answer": "\\text{Navin}"
+ },
+ {
+  "question": " Ongeza 313.9 hadi 12.6. Eleza matokeo kama desimali.",
+  "answer": "326.5"
+ },
+ {
+  "question": " Katika mduara ulio katikati $Q$, radii $AQ$ na $BQ$ huunda pembe ya kulia. Maeneo mawili madogo ni nusu duara, kama inavyoonyeshwa. Radi ya mduara yenye kituo cha $Q$ ni inchi 14. Radi ya nusu duara ni ipi? Eleza jibu lako kama sehemu ya kawaida.",
+  "answer": "\\frac{14}{3}"
+ },
+ {
+  "question": " Acha $z$ iwe nambari changamano kama vile $|z| = 1.$ Pata thamani ya juu zaidi ya \\[|1 + z| + |1 - z + z^2|.\\]",
+  "answer": "\\frac{13}{4}"
+ },
+ {
+  "question": " Mzunguko wa $90^\\circ$ karibu $-4 - 5i$ katika mwelekeo wa saa unatumika kwa $3$ (kama nambari changamano). Nambari changamano inayotokana ni nini?",
+  "answer": "1 - 12i"
+ },
+ {
+  "question": "Je, ni tarakimu ngapi kati ya hizo zinazopatikana katika uwakilishi msingi wa 7 na msingi wa 8 wa $629_{10}$? Kwa mfano, $121_{3}$ na $413_{5}$ zitakuwa na tarakimu moja zinazofanana.",
+  "answer": "3"
+ },
+ {
+  "question": " Roslyn ana masanduku kumi. Sanduku tano kati ya hizo zina penseli, nne kati ya masanduku hayo zina kalamu, na sanduku mbili zina kalamu na penseli. Ni masanduku ngapi hayana kalamu wala penseli?",
+  "answer": "3"
+ },
+ {
+  "question": " Ikiwa hakuna mtu anayeshiriki ofisi, ni kwa njia ngapi watu 3 wanaweza kugawiwa ofisi 5 tofauti? (Kila mtu anapata ofisi moja kabisa).",
+  "answer": "60"
+ },
+ {
+  "question": " Je, ni sehemu gani iliyosalia ya 2004 iliyogawanywa na 12?",
+  "answer": "0"
+ },
+ {
+  "question": " Ikiwa $f(x)=\\dfrac{2}{x+1}$, basi thamani ya $f^{-1}\\left(\\frac{1}{5}\\right)$ ni ipi?",
+  "answer": "9"
+ },
+ {
+  "question": " Uakisi huchukua $\\begin{pmatrix} 5 \\\\ 0 \\end{pmatrix}$ hadi $\\begin{pmatrix} 4 \\\\ 3 \\end{pmatrix}.$ Akisi huchukua vekta gani $\\begin{pmatrix} - 2 \\\\ 3 \\mwisho{pmatrix}$ hadi?",
+  "answer": "\\begin{pmatrix} 1/5 \\\\ -18/5 \\end{pmatrix}"
+ },
+ {
+  "question": " Asymptotes ya hyperbola ni $y = 2x - 3$ na $y = 17 - 2x.$ Pia, hyperbola hupitia uhakika $(4,7).$ Tafuta umbali kati ya foci ya hyperbola.",
+  "answer": "2 \\sqrt{5}"
+ },
+ {
+  "question": "Acha $N$ iwe nambari ya vitengo ya nambari $21420N$. Ni thamani gani isiyo ya kawaida ya $N$ hufanya nambari hii igawanywe kwa $6$?",
+  "answer": "6"
+ },
+ {
+  "question": " Wachawi sita na wachawi kumi wako kwenye mchanganyiko wa arcane. Wachawi wameamua kupeana mikono na kila mmoja wa wachawi. Hakuna hata mmoja wa wachawi aliyejisumbua kushikana mikono, kwa kuwa wote ni marafiki wazuri tayari, na wachawi wote wanachukiana na hawakupeana mikono na wachawi wengine. Ni kupeana mikono mara ngapi kwenye kichanganyaji?",
+  "answer": "60"
+ },
+ {
+  "question": " Acha $P(x)$ iwe polinomia quadratic yenye viambatanisho halisi vinavyotosheleza $x^2 - 2x + 2 \\le P(x) \\le 2x^2 - 4x + 3$ kwa nambari zote halisi $x$, na tuseme $ P(11) = 181$. Tafuta $P(16)$.",
+  "answer": "406"
+ },
+ {
+  "question": " Rahisisha $\\frac{(10r^3)(4r^6)}{8r^4}$.",
+  "answer": "5r^5"
+ },
+ {
+  "question": " Ni jumla gani ya thamani za $a$ zinazokidhi mlinganyo $$(3)5^2-4(5-a)^2 \\div 3=63?$$",
+  "answer": "10"
+ },
+ {
+  "question": " Je, ni nini kinachosalia wakati $129^{34}+96^{38}$ inagawanywa kwa $11$?",
+  "answer": "9"
+ },
+ {
+  "question": " Kokotoa $\\sin^3 18^\\circ + \\sin^2 18^\\circ.$",
+  "answer": "\\frac{1}{8}"
+ },
+ {
+  "question": "Acha $f(x)$ iwe polinomia \\[f(x)=3x^4+5x^2-9x-2.\\] Ikiwa $g(x)$ ni sawa na $f(x-1) ya polinomia $, je, jumla ya viambajengo vya $g$ ni nini?",
+  "answer": "-2"
+ },
+ {
+  "question": " Ni umbali gani mfupi zaidi kutoka kwa uhakika $(6, 0)$ hadi mstari $y = 2x-2$? Eleza jibu lako kwa njia rahisi kabisa.",
+  "answer": "2\\sqrt{5}"
+ },
+ {
+  "question": " Kuna idadi isiyo na kikomo ya vekta $\\mathbf{v}$ kiasi kwamba \\[\\anza{pmatrix} 1 \\\\ 2 \\\\ -5 \\mwisho{pmatrix} \\nyakati \\mathbf{v} = \\anza{pmatrix} 90 \\\\ 30 \\\\ 30 \\end{pmatrix}.\\]Tafuta vekta $\\mathbf{v}$ ambayo ina ndogo zaidi ukubwa.",
+  "answer": "\\begin{pmatrix} -7 \\\\ 16 \\\\ 5 \\end{pmatrix}"
+ },
+ {
+  "question": " Tafuta makadirio ya $\\mathbf{a}$ kwenye $\\mathbf{b} = \\anza{pmatrix} 2 \\\\ 6 \\\\ 3 \\end{pmatrix}$ ikiwa $\\mathbf{a} \\cdot \\mathbf{b } = 8.$",
+  "answer": "\\begin{pmatrix} 16/49 \\\\ 48/49 \\\\ 24/49 \\end{pmatrix}"
+ },
+ {
+  "question": " Ikiwa $\\arccos x + \\arccos 2x + \\arccos 3x = \\pi,$ basi $x$ itatosheleza ujazo wa aina nyingi \\[ax^3 + bx^2 + cx + d = 0,\\]ambapo $a ,$ $b,$ $c,$ na $d$ ni nambari kamili, na $a \\neq 0.$ Tafuta thamani ndogo kabisa ya $|a| + | b| + | c| + |d|.$",
+  "answer": "27"
+ },
+ {
+  "question": "Nambari changamano $\\alpha_1, \\alpha_2, \\alpha_3$, na $\\alpha_4$ ni mizizi minne tofauti ya mlinganyo $x^4+2x^3+2=0$. Bainisha seti ambayo haijapangwa \\[ \\{\\alpha_1\\alpha_2 + \\alpha_3\\alpha_4, \\alpha_1\\alpha_3 + \\alpha_2\\alpha_4, \\alpha_1\\alpha_4 + \\alpha_2\\alpha_3\\}. \\]",
+  "answer": "\\{1\\pm\\sqrt{5},-2\\}"
+ },
+ {
+  "question": " Je, ni nambari gani kubwa kabisa iliyo chini ya $2010$ ambayo ina salio ya $5$ ikigawanywa na $7,$ salio la $10$ ikigawanywa na $11,$ na salio ya $10$ ikigawanywa na $13$?",
+  "answer": "1440"
+ },
+ {
+  "question": " Thamani ya $y$ inatofautiana kinyume kama $\\sqrt x$ na wakati $x=24$, $y=15$. $x$ ni nini wakati $y=3$?",
+  "answer": "600"
+ },
+ {
+  "question": " Acha $G$ na $H$ zionyeshe katikati na katikati ya pembetatu $ABC,$ mtawalia. Acha $F$ iwe kitovu cha $\\overline{GH}.$ Express $AF^2 + BF^2 + CF^2$ kulingana na urefu wa upande $a,$ $b,$ $c$ na circumradius $ R$ ya pembetatu $ABC.$",
+  "answer": "3R^2"
+ },
+ {
+  "question": "Mraba na pembetatu ya equilateral ina mizunguko sawa. Eneo la pembetatu ni $16\\sqrt{3}$ mraba sentimita. Muda gani, kwa sentimita, ni diagonal ya mraba? Eleza jibu lako kwa njia rahisi kabisa. [asy] defaultpen(linewidth(1)); chora((0,0)--(1,0)--(1,1)--(0,1)--mzunguko); jozi a = (1.25,0)+1.25*dir(60); jozi b = a+1.25*dir(-60); kuchora((1.25,0)--a--b--mzunguko); [/asy]",
+  "answer": "6\\sqrt{2}"
+ },
+ {
+  "question": " Penseli tatu na kifutio kikubwa hugharimu $\\$1.24$. Penseli tano na kifutio kikubwa hugharimu $\\$1.82$. Hakuna bei zinazojumuisha ushuru. Kwa senti, ni gharama gani ya penseli?",
+  "answer": "29"
+ },
+ {
+  "question": " Acha $a,$ $b,$ $c,$ $d$ ziwe nambari halisi chanya ili $a + b + c + d = 1.$ Pata thamani ya chini zaidi ya \\[\\frac{1}{a} + \\frac{1}{b} + \\frac{4}{c} + \\frac{16}{d}.\\]",
+  "answer": "64"
+ },
+ {
+  "question": " Acha $a$ na $b$ ziwe nambari halisi chanya ili $ab^2 = 5.$ Pata thamani ya chini zaidi ya $a^4 + b^8.$",
+  "answer": "50"
+ },
+ {
+  "question": " $\\frac{9}{2}$ ni nini kama desimali?",
+  "answer": "4.5"
+ },
+ {
+  "question": " Hebu \\[f(x) = (\\arccos x)^2 + (\\arcsin x)^2.\\]Tafuta masafa ya $f(x).$ Vitendaji vyote viko katika radiani.",
+  "answer": "\\left[ \\frac{\\pi^2}{8}, \\frac{5 \\pi^2}{4} \\right]"
+ },
+ {
+  "question": "Ikiwa \\[f(n + 1) = (-1)^{n + 1} n - 2f(n)\\]kwa $n \\ge 1,$ na $f(1) = f(1986),$ compute \\[f(1) + f(2) + f(3) + \\dots + f(1985).\\]",
+  "answer": "331"
+ },
+ {
+  "question": " Badilisha $\\frac{57}{160}$ kuwa desimali ya kukomesha.",
+  "answer": ".35625"
+ },
+ {
+  "question": " Katika pembetatu fulani ya kulia ya isosceles, mwinuko hadi hypotenuse una urefu wa $4\\sqrt{2}$. Eneo la pembetatu ni nini?",
+  "answer": "32"
+ },
+ {
+  "question": " Ni kikoa gani cha chaguo la kukokotoa lenye thamani halisi $f(x)=\\frac{2x-7}{\\sqrt{x^2-5x+6}}$?",
+  "answer": "(-\\infty, 2) \\cup (3, \\infty)"
+ },
+ {
+  "question": " $n$ fair kete zenye upande 6 huviringishwa kwa wakati mmoja. Uwezekano kwamba mbili hasa zinaonyesha nambari nyingine isipokuwa 1 ni $\\frac{25}{216}$. Tafuta $n$.",
+  "answer": "4"
+ },
+ {
+  "question": " Alama $\\triangle$, $\\square$, $\\diamond$, $\\clubsuit$ zinawakilisha nambari nne tofauti kutoka 1 hadi 9. Kwa kutumia milinganyo iliyo hapa chini, thamani ya $\\square$ ni nini? \\anza{align*} \\pembetatu + \\mraba &= \\clubsuit \\\\ \\pembetatu + \\pembetatu &= \\almasi +\\diamond + \\almasi + \\almasi + \\diamond \\\\ \\pembetatu + \\pembetatu &= \\clubsuit + \\almasi. \\mwisho{panga*}",
+  "answer": "3"
+ },
+ {
+  "question": "Je, ni tarakimu gani ya mwisho ya nonzero iliyo upande wa kulia wa uhakika wa decimal katika upanuzi wa decimal wa $\\frac{137}{500}$?",
+  "answer": "4"
+ },
+ {
+  "question": " Pata mgawo wakati $x^9 + 1$ imegawanywa kwa $x - 1.$",
+  "answer": "x^8 + x^7 + x^6 + x^5 + x^4 + x^3 + x^2 + x + 1"
+ },
+ {
+  "question": " Rahisisha $(u+4)(u-1) - (u-3)(u+6)$.",
+  "answer": "14"
+ },
+ {
+  "question": " Karla aliendesha gari lake maili 12,000 mwaka jana. Je, angeokoa galoni ngapi za petroli mwaka jana kama angeendesha gari mseto linalotumia mafuta kwa wastani la maili 48 kwa galoni badala ya SUV ya wastani ya maili 15 kwa galoni?",
+  "answer": "550"
+ },
+ {
+  "question": " Hebu $f(x) = 2^x.$ Pata $\\sqrt{f(f(f(f(1))))}.$",
+  "answer": "256"
+ },
+ {
+  "question": " Je, ni thamani gani kamili ya $x$ katika mfuatano wa hesabu $3^2, x, 3^4$?",
+  "answer": "45"
+ },
+ {
+  "question": "Mstatili $ABCD$ una katikati $O$ na $AB/AD=k$. Hoja imechaguliwa kwa nasibu kutoka kwa mambo ya ndani ya mstatili $ABCD$. Kuna uwezekano gani kwamba iko karibu na $O$ kuliko wima yoyote kati ya nne? [asy] ukubwa (200); chora((-250,100)--(250,100)--(250,-100)--(-250,-100)--mzunguko); nukta ((0,0)); lebo(\"$O$\",(0,0),N); lebo(\"$A$\",(-250,100),NW); lebo(\"$B$\",(250,100),NE); lebo(\"$C$\",(250,-100),SE); lebo(\"$D$\",(-250,-100),SW);[/asy]",
+  "answer": "\\frac{1}{2}"
+ },
+ {
+  "question": "Mduara $x^2 + y^2 = 2$ na parabola $y^2 = 8x$ ina tangenti mbili za kawaida, na kutengeneza pointi nne za tangency. Pata eneo la pembe nne linaloundwa na pointi nne za tangency. [asy] unitsize(0.8 cm); upperparab halisi (x halisi) {kurudi (sqrt(8*x))); } lowerparab halisi (x halisi) { return (-sqrt(8*x)); } jozi A, B, C, D; A = (-1,1); B = (2,4); C = (-1,-1); D = (2,-4); chora(grafu(parab ya juu,0,3)); chora(grafu(parab ya chini,0,3)); chora(Mduara(0,0),sqrt(2))); kuchora(interp(A,B,-0.2)--interp(A,B,1.2)); kuchora(interp(C,D,-0.2)--interp(C,D,1.2)); kuchora(A--C); chora(B--D); nukta (A); nukta (B); nukta (C); nukta (D); [/asy]",
+  "answer": "15"
+ },
+ {
+  "question": " Jumla ya istilahi za kwanza $n$ katika mfuatano usio na kikomo wa kijiometri $\\left\\{\\frac{1}{4},\\frac{1}{8},\\frac{1}{16},\\dots \\kulia \\}$ ni $\\frac{255}{512}$. Tafuta $n$.",
+  "answer": "8"
+ },
+ {
+  "question": " Wanafunzi thelathini na watano wanahudhuria mkutano wa klabu ya hisabati. Idadi ya wasichana kwenye mkutano ni 13, na kuna wasichana wengi zaidi kuliko wavulana wanaohudhuria mkutano. Je! ni wavulana wangapi kwenye mkutano?",
+  "answer": "9"
+ },
+ {
+  "question": "Kokotoa $17^{-1}\\pmod{83}$. Eleza jibu lako kama mabaki kutoka $0$ hadi $82$, zikijumuishwa. (Unaweza kuona inasaidia kuzingatia ukweli kwamba $17\\cdot 5=85$.)",
+  "answer": "44"
+ },
+ {
+  "question": " Ikiwa $a\\star b = 9a+2b-ab+5$, ni thamani gani ya $5\\star1$?",
+  "answer": "47"
+ },
+ {
+  "question": " Ni wastani gani wa masuluhisho mawili madogo kabisa ya muunganisho $$14u \\equiv 46 \\pmod{100}~?$$",
+  "answer": "64"
+ },
+ {
+  "question": " Kwenye ramani fulani, inchi $3$ kwenye ramani ni sawa na maili $10$ katika maisha halisi. Ikiwa unajua kwamba umbali wa maisha halisi kati ya majengo mawili kwenye ramani ni maili $53.25$, umbali kati ya majengo ungekuwaje (katika inchi) kwenye ramani, ukionyeshwa kama sehemu?",
+  "answer": "\\frac{639}{40}"
+ },
+ {
+  "question": " Jumla ya tarakimu za nambari ya tarakimu mbili ni $13.$ Tofauti kati ya nambari na nambari yenye tarakimu zake kinyume ni $27.$ Je, jumla ya nambari asilia ni nini na nambari yenye tarakimu zake kinyume?",
+  "answer": "143"
+ },
+ {
+  "question": "Madarasa ya 7 na 8 yana uandikishaji wa 520 na 650 mtawalia. Madaraja hayo mawili yana jumla ya wawakilishi 18 kwenye Baraza la Wanafunzi. Je! daraja la 8 linapaswa kuwa na wawakilishi wangapi ikiwa kutakuwa na uwakilishi wa haki wa madaraja hayo mawili?",
+  "answer": "10"
+ },
+ {
+  "question": " Matrix $\\mathbf{M}$ inachukua $\\begin{pmatrix} 2 \\\\ -1 \\end{pmatrix}$ hadi $\\begin{pmatrix} 9 \\\\ 3 \\end{pmatrix},$ na $\\anza{ pmatrix} 1 \\\\ -3 \\end{pmatrix}$ hadi $\\anza{pmatrix} 7 \\\\ -1 \\end{pmatrix}.$ Tafuta picha ya mstari $y = 2x + 1$ chini ya $\\mathbf{M}.$ Eleza jibu lako katika fomu \"$y = mx + b$\".",
+  "answer": "y = 2x + 3"
+ },
+ {
+  "question": " Je, wanafunzi 5 wanaweza kuchaguliwa kwa njia ngapi kutoka kwa kundi la wanafunzi 6?",
+  "answer": "6"
+ },
+ {
+  "question": " Tafuta mizizi yote kamili ya \\[x^4 + 5x^3 + 9x^2 - x - 14 = 0.\\]Ingiza mizizi yote kamili, ikitenganishwa na koma.",
+  "answer": "-2,1"
+ },
+ {
+  "question": " Amua salio la 54 (mod 6).",
+  "answer": "0"
+ },
+ {
+  "question": "Kila juma, kati ya wanafunzi 30 na 50 hujitokeza kwa ajili ya darasa la kurusha mishale linaloendeshwa na Betty na Wilma. Kawaida wanafunzi hugawanyika katika vikundi vya ukubwa sawa kwa mazoezi lengwa. Hata hivyo, wiki hii, Betty aligundua kuwa hangeweza kuwagawanya wanafunzi katika vikundi vingi vya ukubwa sawa. Wilma aliona kwamba kama yeye na Betty wote walijiunga na wanafunzi katika kufanya mazoezi, bado hawakuweza kuwagawanya wapiga mishale katika vikundi vya ukubwa sawa. Ni wanafunzi wangapi waliojitokeza kwenye darasa la kurusha mishale wiki hii?",
+  "answer": "41"
+ },
+ {
+  "question": " Matofali ya dhahabu ya bandia yanafanywa kwa kufunika cubes za saruji na rangi ya dhahabu, hivyo gharama ya rangi ni sawia na eneo lao la uso wakati gharama ya saruji inalingana na kiasi chao. Ikiwa mchemraba wa inchi 1 unagharimu $\\$1.30$ kutengeneza huku mchemraba wa inchi 2 unagharimu $\\$6.80$, basi mchemraba wa inchi 3 utagharimu kiasi gani?",
+  "answer": "\\$18.90"
+ },
+ {
+  "question": "Katika mchoro ulio hapa chini, tuna $\\overline{ST}\\parallel\\overline{QR}$, $\\angle P= 40^\\circ$, na $\\angle Q =35^\\circ$. Tafuta kipimo cha $\\angle STR$ kwa digrii. [asy] jozi P,Q,R,SS,T; Q = (0,0); R = (1,0); P = (1.1,0.5); SS = 0.6 * P; T = R + 0.6 * (PR); chora(T--SS--P--R--Q--SS); lebo(\"$P$\",P,N); lebo(\"$S$\",SS,NW); lebo(\"$Q$\",Q,S); lebo(\"$R$\",R,S); lebo(\"$T$\",T,ENE); [/asy]",
+  "answer": "75^\\circ"
+ },
+ {
+  "question": " Acha \\[f(n) = \\kushoto\\{ \\anze{safu}{cl} \\floor n \\floor & \\text{ if }n \\geq 4, \\\\ \\lceil n \\rceil & \\text{ if } n < 4. \\end{array} \\kulia.\\]Tafuta $f\\left(\\frac{\\pi}{3}\\kulia) + f(\\sqrt{45}) + f(8^{2/3})$.",
+  "answer": "12"
+ },
+ {
+  "question": "Linda, Sherry, June, na Connie walizunguka vitongoji vyao wakiuza vidakuzi vya wasichana. Linda alipata $\\$27.47$, Sherry alipata $\\$35.23$, June alipata $\\$37.37$, na Connie alipata $\\$26.52$. Baada ya kuuza, walikusanya pesa zao na kwenda benki kubadilisha sarafu kuwa dola. Ni pesa ngapi za senti, zilizosalia baada ya kubadilisha sarafu nyingi kuwa bili kadri walivyoweza?",
+  "answer": "59"
+ },
+ {
+  "question": " Je, usemi $\\frac{x-5}{x^2-9}$ haujafafanuliwa kwa thamani ngapi za $x$?",
+  "answer": "2"
+ },
+ {
+  "question": " Ikiwa $\\log_6 (xy) + \\log_6 (x+y) = 2$ na $\\log_y 5x = 2$, basi tafuta $x$.",
+  "answer": "9"
+ },
+ {
+  "question": " Wakati nambari kamili chanya zilizo na vigawanyiko vitatu haswa zimeorodheshwa kwa mpangilio wa kupanda, nambari ya tano iliyoorodheshwa ni ipi?",
+  "answer": "121"
+ },
+ {
+  "question": " Ikiwa $re^{i \\theta}$ ni mzizi wa \\[z^8 - z^7 + z^6 - z^5 + z^4 - z^3 + z^2 - z + 1 = 0, \\]ambapo $r > 0$ na $0 \\le \\theta < 2 \\pi,$ kisha pata jumla ya thamani zote zinazowezekana za $\\theta.$",
+  "answer": "8 \\pi"
+ },
+ {
+  "question": "Katika mchoro, ni eneo gani la pembetatu yenye kivuli? [asy] jaza((0,0)--(2,3)--(10,0)--mzunguko,kijivu); chora((0,0)--(10,0)--(10,3)--(0,3)--mzunguko,upana wa mstari(1)); chora((0,0)--(2,3)--(10,0),upana wa mstari(1)); lebo(\"sentimita 10\",(5,3),N); lebo(\"sentimita 10\",(5,0),S); lebo(\"sentimita 3\",(0,1.5),W); lebo(\"sentimita 3\",(10,1.5),E); chora((0,2.5)--(.5,2.5)--(.5,3)); chora((10,2.5)--(9.5,2.5)--(9.5,3)); [/asy]",
+  "answer": "15\\mbox{ cm}^2"
+ },
+ {
+  "question": " Mzizi wa mraba wa $t$ ni mkubwa kuliko $2$ na chini ya $3.5$. Je, ni thamani ngapi kamili za $t$ zinazokidhi hali hii?",
+  "answer": "8"
+ },
+ {
+  "question": " Tathmini $\\lceil{\\sqrt{20}}\\rceil^2$.",
+  "answer": "25"
+ },
+ {
+  "question": " Acha $a,$ $b,$ $c,$ na $d$ ziwe nambari halisi chanya kiasi kwamba $a + b + c + d = 10.$ Pata thamani ya juu zaidi ya $ab^2 c^3 d^4 .$",
+  "answer": "27648"
+ },
+ {
+  "question": " Darasa la wanafunzi 30 lilifanya mtihani hivi majuzi. Ikiwa wanafunzi 20 walipata 80, wanafunzi 8 walipata 90, na wanafunzi 2 walipata 100, basi wastani wa darasa (wastani) ulikuwa upi kwenye mtihani huu?",
+  "answer": "84"
+ },
+ {
+  "question": " Kwa umbali wa maili 50 kwa saa, gari lingesafiri umbali gani kwa saa $2\\frac{3}{4}$? Eleza jibu lako kama nambari iliyochanganywa.",
+  "answer": "137 \\frac{1}{2}"
+ },
+ {
+  "question": "Chini ni mraba wa ajabu, kumaanisha kuwa jumla ya nambari katika kila safu, katika kila safu, na katika kila moja ya $2$ diagonals kuu ni sawa. Thamani ya $n$ ni nini? [asy]ukubwa(125); kwa(int i = 0; i<4; ++i) {teka((0,i)--(3,i),linewidth(1)); } kwa(int j = 0; j<4; ++j) { chora((j,0)--(j,3),upana wa mstari(1)); } lebo(\"$n-3$\",(.5,.5)); lebo(\"3\",(.5,1.5)); lebo(\"$n+1$\",(.5,2.5)); lebo(\"$n+2$\",(1.5,.5)); lebo(\"$2n-9$\",(1.5,1.5)); lebo(\"$1$\",(1.5,2.5)); lebo(\"$2$\",(2.5,.5)); lebo(\"$n$\",(2.5,1.5)); lebo(\"$n-1$\",(2.5,2.5)); [/asy]",
+  "answer": "7"
+ },
+ {
+  "question": " Tafuta thamani ya $\\log_2{3} \\cdot \\log_3{4} \\cdot \\log_4{5} \\cdot \\log_5{6} \\cdot \\log_6{7} \\cdot \\log_7{8}$.",
+  "answer": "3"
+ },
+ {
+  "question": "Wakati wa kuzungusha kifo fulani kisicho sawa cha pande sita na nyuso zilizo na nambari 1, 2, 3, 4, 5, na 6, uwezekano wa kupata uso $F$ ni mkubwa kuliko $1/6$, uwezekano wa kupata uso ulio kinyume $ F$ ni chini ya $1/6$, uwezekano wa kupata kila nyuso nyingine ni $1/6$, na jumla ya nambari kwenye kila jozi ya nyuso zinazopingana ni 7. Kete mbili kama hizo zinapokunjwa, uwezekano wa kupata jumla ya 7 ni $ \\frac{47}{288} $. Kwa kuzingatia kwamba uwezekano wa kupata uso $F$ ni $m/n$, ambapo $m$ na $n$ ni nambari kamili chanya, tafuta $m+n$.",
+  "answer": "29"
+ },
+ {
+  "question": " Jim na Martha wamesimama pamoja kwenye kona ya uwanja wa mstatili. Jim anatembea kwa mshazari kwenye uwanja. Martha anafika mahali pale kwa kutembea kwa urefu na upana wake. Uwanja una upana wa futi 300 na urefu wa futi 400. Je, Jim anatembea kwa futi ngapi chini ya Martha?",
+  "answer": "200"
+ },
+ {
+  "question": " Nambari ya tarakimu mbili $``B6,''$ ambapo $B$ ni tarakimu ya kumi, ni mraba wa nambari kamili chanya. Je, kuna thamani ngapi tofauti zinazowezekana kwa $B$?",
+  "answer": "2"
+ },
+ {
+  "question": "Pata jumla ya masuluhisho yote changamano ya mlingano \\[\\frac{1}{x^2 - 1} + \\frac{2}{x^2 - 2} + \\frac{3}{x^2 - 3} + \\frac{4}{x^2 - 4} = 2010x - 4.\\]",
+  "answer": "\\frac{2}{1005}"
+ },
+ {
+  "question": " Kuna matoleo ya awali mengi $p$ ambayo ulinganifu wake $$8x\\equiv 1\\pmod{p}$$hauna suluhu $x$. Bainisha jumla ya $p$ kama hizo.",
+  "answer": "2"
+ },
+ {
+  "question": " Acha $\\omega$ iwe nambari changamano kiasi kwamba $\\omega^3 = 1.$ Pata thamani zote zinazowezekana za \\[\\frac{1}{1 + \\omega} + \\frac{1}{1 + \\omega^ 2}.\\]Ingiza thamani zote zinazowezekana, zikitenganishwa na koma.",
+  "answer": "1"
+ },
+ {
+  "question": " Acha $n$ iwe nambari kamili chanya. Rahisisha usemi \\[\\frac{(2^4 + \\frac{1}{4})(4^4 + \\frac{1}{4}) \\dotsm [(2n)^4 + \\frac{1} {4}]}{(1^4 + \\frac{1}{4})(3^4 + \\frac{1}{4}) \\dotsm [(2n - 1)^4 + \\frac{1} {4}]}.\\]",
+  "answer": "8n^2 + 4n + 1"
+ },
+ {
+  "question": " Ikiwa $\\frac{a}{b}$ ni uwezekano kwamba upatanisho wa nambari kamili isiyo ya kawaida iliyochaguliwa kwa nasibu chini ya 2010 unatoa desimali ya kukomesha, $a$ na $b$ zikiwa nambari kamili chanya, $a ni nini? +b$?",
+  "answer": "202"
+ },
+ {
+  "question": "Eneo la pembetatu $ABC$ ni sawa na $a^2 - (b - c)^2,$ ambapo $a,$ $b,$ na $c$ ni pande za pembetatu $ABC,$ kama kawaida. Kokotoa $\\tan A.$",
+  "answer": "\\frac{8}{15}"
+ },
+ {
+  "question": " Tatua \\[\\sqrt{x + \\sqrt{3x + 6}} + \\sqrt{x - \\sqrt{3x + 6}} = 6.\\]",
+  "answer": "10"
+ },
+ {
+  "question": " Je, ni umbali gani mfupi zaidi unaoweza kusafirishwa ukianza wakati wowote, $A$, $B$, $C$, au $D$, na kutembelea pointi tatu nyingine mara moja? [asy] jozi A,B,C, D; A = (-3,3); B = (3,0); C = (0, -4); D = (0,0); kuchora(D--B--C--mzunguko); kuchora(D--A--B--mzunguko); kuchora(D--A--C--mzunguko); lebo(\"$A$\", A, NW); lebo(\"$B$\", B, E); lebo(\"$C$\", C, S); lebo(\"$D$\", D, NE); lebo(\"3\", D--B, S); lebo(\"6\", A--B, NE); lebo(\"6\", A--C, SW); lebo(\"4\", D--C, NW+N); lebo(\"5\", A--D, SE+NE); lebo(\"5\", C--B, E); [/asy]",
+  "answer": "13"
+ },
+ {
+  "question": " Tufe la chuma lenye radius ya inchi 3 hufanywa kwa kuondoa chuma kutoka kwa pembe za mchemraba ambao una urefu mfupi zaidi wa upande. Ni inchi ngapi za ujazo katika ujazo wa mchemraba?",
+  "answer": "216"
+ },
+ {
+  "question": "Amua modulo 4 iliyobaki ya jumla ifuatayo: $$ 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12. $$",
+  "answer": "2"
+ },
+ {
+  "question": " Bei ya mauzo ya shati imewekwa alama $\\$14.40$, ambayo ni punguzo la $60\\%$ kwenye bei halisi. Bei ya awali ya shati ilikuwa dola ngapi?",
+  "answer": "\\$36"
+ },
+ {
+  "question": " Hebu $f(x)=|xp|+|x-15|+|xp-15|,$ ambapo $0 < p < 15.$ Ibainishe thamani ya chini zaidi iliyochukuliwa na $f(x)$ kwa $x$ katika muda $p \\leq x\\leq15.$",
+  "answer": "15"
+ },
+ {
+  "question": " Tuseme nambari ya polynomial $$f(x) = a_nx^n + a_{n-1}x^{n-1} + \\cdots + a_2x^2 + a_1x + a_0$$ ina coefficients kamili, na mizizi yake ni integers tofauti . Kwa kuzingatia kwamba $a_n=2$ na $a_0=66$, ni thamani gani ya chini kabisa inayowezekana ya $|a_{n-1}|$?",
+  "answer": "14"
+ },
+ {
+  "question": "Tom alipata Bwana Viazi Mkuu kwa siku yake ya kuzaliwa. Ilikuja na mitindo 3 ya nywele, seti 2 za nyusi, jozi 1 ya macho ya googly, seti 2 za masikio, na seti 2 za midomo, jozi ya viatu vya kawaida, na jozi ya bonasi ya viatu vya clown. Ikiwa utu kamili wa Bw. Potato Head unajumuisha nyusi, macho, masikio, midomo, viatu na nywele kwa hiari, Tom anaweza kuja na watu wangapi tofauti wasio na akili? Kumbuka kwamba Mheshimiwa Viazi Mkuu anaweza kuwa bald. Kumbuka: Huwezi \"kuchanganya na kulinganisha\". Kwa mfano, huwezi kuchukua nyusi ya kushoto kutoka kwa jozi moja na nyusi ya kulia kutoka kwa jozi nyingine.",
+  "answer": "64"
+ },
+ {
+  "question": " Seti ya vekta $\\mathbf{v}$ kiasi kwamba \\[\\jina la opereta{proj}_{\\anza{pmatrix} 2 \\\\ 1 \\end{pmatrix}} \\mathbf{v} = \\anza{pmatrix} 0 \\ \\ 0 \\mwisho{pmatrix}\\]lala kwenye mstari. Ingiza equation ya mstari huu katika fomu \"$y = mx + b $\".",
+  "answer": "y = -2x"
+ },
+ {
+  "question": " Nambari $(\\sqrt{2}+\\sqrt{3})^3$ inaweza kuandikwa kwa njia ya $a\\sqrt{2} + b\\sqrt{3} + c\\sqrt{6}$, ambapo $ a$, $b$, na $c$ ni nambari kamili. $a+b+c$ ni nini?",
+  "answer": "20"
+ },
+ {
+  "question": "Acha $S$ iwe seti ya pointi $(a,b)$ na $0 \\le a,$ $b \\le 1$ hivi kwamba mlinganyo \\[x^4 + ax^3 - bx^2 + shoka + 1 = 0\\]ina angalau mzizi mmoja halisi. Bainisha eneo la grafu ya $S.$",
+  "answer": "\\frac{1}{4}"
+ },
+ {
+  "question": " Ni kikoa gani cha chaguo za kukokotoa $f(x) = \\frac{2-x}{\\log(2-\\log(x-2))}$, ambapo $\\log$ ndio msingi wa kukokotoa $10$ logarithm? Eleza jibu lako kwa nukuu ya muda.",
+  "answer": "(2,12) \\cup (12,102)"
+ },
+ {
+  "question": " Acha $z = 1+i$ na $w = \\dfrac{3z+1}{5z+7}$. Tafuta $|w|$.",
+  "answer": "\\frac{5}{13}"
+ },
+ {
+  "question": " Oktagoni ya usawa ina pande nne za urefu wa $1$ na pande nne za urefu $\\frac{\\sqrt{2}}{2}$, zilizopangwa ili kusiwe na pande mbili zinazofuatana zenye urefu sawa. Eneo la octagon ni nini?",
+  "answer": "\\frac{7}{2}"
+ },
+ {
+  "question": " Mfuatano $(a_n)$ umefafanuliwa kama ifuatavyo: \\[a_{i + 1} = \\frac{1}{1 - a_i}\\]kwa $i \\ge 1.$ Ikiwa $a_3 = a_1,$ compute $ (a_9)^9.$",
+  "answer": "-1"
+ },
+ {
+  "question": " Miinuko $\\overline{AD}$ na $\\overline{BE}$ ya $\\pembetatu ABC$ inakatiza kwa $H$. Ikiwa $\\angle BAC = 54^\\circ$ na $\\angle ABC = 52^\\circ$, basi $\\angle AHB$ ni nini?",
+  "answer": "106^\\circ"
+ }
+]
